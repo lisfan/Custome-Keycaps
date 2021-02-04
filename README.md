@@ -1,5 +1,7 @@
 # 客制化键帽 Custom Keycaps
 
+[带索引目录版本，请点这](https://lisfan.github.io/Custome-Keycaps)
+
 更新日期：2021-02-04 19:29:55
 
 更新内容：
