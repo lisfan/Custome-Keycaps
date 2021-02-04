@@ -1,19 +1,25 @@
 # 客制化键帽 Custom Keycaps
 
-[带索引目录版本，请点这](https://lisfan.github.io/Custome-Keycaps)
-
 更新日期：2021-02-04 19:29:55
 
 更新内容：
 
 1. 2021-02-04 增加 Dandy 蒲公英
 
+## 后续更新计划
+
+关注的人多，就会好好整理一下列表的展示和图片的展示，人少就当成纯个人键帽画廊了
+
 ## 说明
 
-1. 部分资料来源[Keycaps Info](https://matrixzj.github.io/)
-2. 名秒杀前面带有`~`标记仅代表个人感兴趣
+1. [源码地址](https://github.com/lisfan/Custome-Keycaps)
+2. [带索引目录版本，请点这](https://lisfan.github.io/Custome-Keycaps)
+3. 部分资料来源[Keycaps Info](https://matrixzj.github.io/)
+4. 名称前面带有`~`标记仅代表个人感兴趣🌝
+5. **点图片上方的键帽名称**可以进入geekhack上的**IC**喔，没找到IC地址的我也尽可能的找到一个可提代的介绍
 
 ## 1格广告位招租
+
 
 ## 目录
 
