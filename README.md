@@ -1519,7 +1519,7 @@
 
 ### ~[SAMURAI 黑武士](https://kbdfans.com/collections/keycaps/products/samurai)
 
-![SAMURAI](./media/aTw0La.jpg)
+![SAMURAI 黑武士](./media/aTw0La.jpg)
 
 ### ~[Heavy Industry 重工业](https://kbdfans.com/collections/enjoypbt-keycaps/products/pbt-heavy-industry-seq3)
 
@@ -1567,6 +1567,10 @@
 
 ![SOJU](./media/EHiofd.jpg)
 
+### [G81-SAV](https://geekhack.org/index.php?topic=102124.msg2805629)
+
+![G81-SAV](media/16124930660980.jpg)
+
 ### ~[9009](https://kbdfans.store/products/C0015/)
 
 ![9009](./media/MuNAv3.jpg)
@@ -1582,6 +1586,24 @@
 ### [Royal Alpha](https://kbdfans.com/collections/keycaps/products/epbt-x-donutcat-royal-alpha-keycaps-set)
 
 ![Royal Alpha](./media/yqHRH8.jpg)
+### [Cool Kids](https://geekhack.org/index.php?topic=106670)
+
+![Cool Kids](media/16124932214919.jpg)
+
+
+### [AI03 SIMPLEJA](https://kbdfans.com/collections/keycaps/products/gb-enjoypbt-x-ai03-simpleja-pbt-keycaps-set)
+
+
+![AI03 SIMPLEJA](media/16124938058009.jpg)
+
+### [红俄文](https://kbdfans.store/products/C0006/)
+
+![红俄文](media/16124933835281.jpg)
+
+### [橙俄文](https://kbdfans.store/products/C0008/)
+
+![橙俄文](media/16124933607321.jpg)
+
 
 ### [水绿](https://kbdfans.com/collections/keycaps/products/enjoypbt-abs-doubleshot-mechanical-keyboard-keycaps-set-3)
 
