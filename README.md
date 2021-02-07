@@ -10,7 +10,7 @@
 
 2021-02-07
 - 增加 MAXKEY 所有可搜索到的资料
-- 增加 Domikey 所有可搜索到的资料
+- 增加 DOMIKEY 所有可搜索到的资料
 - 增加 GMK Umka
 - 增加 JTK 天问一号
 
@@ -23,12 +23,12 @@
 
 ## 说明
 
-1. [客制化键帽速查表 Custom Keycaps Quick Look](https://gitee.com/lisfanOSC/Custome-Keycaps#gmk)：国内访问，左侧还有目录可供浏览
-2. [Custom Keycaps Quick Look](https://lisfan.gitbook.io/custom-keycaps-quick-look/#gmk)：国外访问，左侧还有目录可供浏览
+1. [[客制化键帽速查表]](https://gitee.com/lisfanOSC/Custome-Keycaps#说明)：国内访问，左侧还有目录可供浏览
+2. [[Custom Keycaps Quick Look]](https://lisfan.gitbook.io/custom-keycaps-quick-look/#gmk)：国外访问，左侧还有目录可供浏览
 3. 部分资料来源[Keycaps Info](https://matrixzj.github.io/)
 4. 名称前面带有`~`标记仅代表个人感兴趣🌝
 5. 还在IC中未开团的键帽图暂不收录（以后单独开一个IC键帽速查表）
-6. **点图片上方的键帽名称**可以进入geekhack上的**IC**喔，没找到IC地址的我也尽可能的找到一个可替代的介绍
+6. <span style="color:red;font-weight:bold">点图片上方的键帽名称</span>可以进入geekhack上的**IC**喔，没找到IC地址的我也尽可能的找到一个可替代的介绍
 7. 部分图片来源于网络，若侵权请联系删除
 8. 还是人为的过滤掉了1%不喜欢的以及不好看的，我连收集的心思也没
 
@@ -37,7 +37,6 @@
 可以投放开团信息喔（仅仅一小块横幅展示，横幅由您提供喔）
 
 不收费
-
 
 ## GMK
 
