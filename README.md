@@ -23,7 +23,7 @@
 
 ## 说明
 
-1. [[客制化键帽速查表]](https://gitee.com/lisfanOSC/Custome-Keycaps#说明)：国内访问，左侧还有目录可供浏览
+1. [[客制化键帽速查表]](https://gitee.com/lisfanOSC/Custome-Keycaps#gmk)：国内访问，左侧还有目录可供浏览
 2. [[Custom Keycaps Quick Look]](https://lisfan.gitbook.io/custom-keycaps-quick-look/#shuo-min)：国外访问，左侧还有目录可供浏览
 3. [[Custom Keycaps Quick Look]](https://github.com/lisfan/Custome-Keycaps#%E8%AF%B4%E6%98%8E)：(备用)国外访问，左侧还有目录可供浏览
 4. 部分资料来源[Keycaps Info](https://matrixzj.github.io/)
@@ -39,9 +39,19 @@
 
 不收费
 
-## GMK
+## 快速导航
 
-点图片上方的键帽名称
+注意：点击每个图片上方的键帽名称均可以快速进入对应的IC或者介绍页
+
+- [GMK系列](#gmk)
+- [SP系列](#sp)
+- [JTK系列](#jtk)
+- [MelGeek系列](#melgeek)
+- [EPBT系列](#epbt)
+- [MAXKEY系列](#maxkey)
+- [DOMIKEY系列](#domikey)
+
+## GMK
 
 ### [Umka](https://geekhack.org/index.php?topic=110422.msg2998220)
 
@@ -1621,7 +1631,7 @@
 
 ![水绿](./media/Wec6nb.jpg)
 
-## KAT 键设局
+## KAT
 
 ### [superuser 超级用户](https://geekhack.org/index.php?topic=108326.0)
 
