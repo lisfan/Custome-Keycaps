@@ -1761,7 +1761,6 @@
 
 ![Napoleonic 拿破仑时代](./media/XQl5gs.jpg)
 
-
 ## MAXKEY
 
 ### [虚拟战争](https://www.zfrontier.com/app/flow/2agnK731Q9Lo)
@@ -1776,26 +1775,21 @@
 
 ![二号机 Berserk](media/16126843556560.jpg)
 
-
 ### [2600](https://kbdfans.com/collections/sa-profile/products/gb-maxkey-x)
 
 ![2600](media/16126794523441.jpg)
-![pYMlyv](https://raw.githubusercontent.com/lisfan/uPic/master/uPic/pYMlyv.jpg)
 
 ### [抹 Choco](https://www.zfrontier.com/app/flow/epwElvq1lN54)
 
 ![抹 Choco](media/16126813459066.jpg)
 
-
 ### [Melon 哈密瓜](https://www.zfrontier.com/app/flow/4xPoonPAbKa4)
 
 ![Melon 哈密瓜](media/16126808698464.jpg)
 
-
 ### F-22
 
 ![F-22](media/16126811702658.jpg)
-
 
 ### 火烈鸟
 
@@ -1861,9 +1855,6 @@
 
 ![蓝黄](media/16126804363959.jpg)
 
-
-
-
 ### [BLUE GRAY 深蓝灰](https://kbdfans.com/collections/sa-profile/products/bfcmmaxkey-blue-gray-sa-keycaps-set)
 
 ![BLUE GRAY 深蓝灰](media/16126797678299.jpg)
@@ -1874,6 +1865,7 @@
 ### [DEEP BLUE](https://kbdfans.com/collections/sa-profile/products/maxkey-deep-blue-keycaps-set)
 
 ![DEEP BLUE](media/16126803787344.jpg)
+
 ### [Night King 夜王](https://kbdfans.com/collections/sa-profile/products/maxkey-sa-keycaps-set)
 
 ![Night King 夜王](media/16126790010695.jpg)
@@ -1885,6 +1877,7 @@
 ### [绿白](https://kbdfans.com/collections/sa-profile/products/bfcmmaxkey-green-white-sa-profile-keycaps-set)
 
 ![绿白](media/16126799083780.jpg)
+
 ### [PINK & WHITE 白粉](https://kbdfans.com/collections/sa-profile/products/bfcmmaxkey-pink-white-sa-profile-keycaps-set)
 
 ![PINK & WHITE 白o粉](media/16126801020717.jpg)
@@ -1892,6 +1885,7 @@
 ### [奶紫](https://kbdfans.com/collections/sa-profile/products/maxkey-sa-keycaps-set-1)
 
 ![奶紫](media/16126803381894.jpg)
+
 ### [PS](https://kbdfans.com/collections/sa-profile/products/maxkey-ps-keycaps-set)
 
 ![PS](media/16126805556821.jpg)
@@ -1908,13 +1902,11 @@
 
 ### [沙鲁 Cell](https://www.zfrontier.com/app/flow/2Qm18YBlaZZZ)
 
-![](media/16126757541230.jpg)
-
+![沙鲁 Cell](media/16126757541230.jpg)
 
 ### [莫比乌斯 Mobius](https://www.zfrontier.com/app/flow/2gkvrkBVvkzy)
 
 ![莫比乌斯 Mobius](media/16126752775202.jpg)
-
 
 ### 赛博朋克
 
@@ -1927,7 +1919,6 @@
 
 ![Western World 西部世界](media/16126760438859.jpg)
 
-
 ### 灰白
 
 ![灰白](media/16126753751704.jpg)
@@ -1935,7 +1926,6 @@
 ### Polar Light 极光
 
 ![Polar Light 极光](media/16126760943296.jpg)
-
 
 ### 蓝波
 
@@ -1945,39 +1935,30 @@
 
 ![亚特斯蒂兰](media/16126700694795.jpg)
 
-
-
 ### 瓦斯弹
 
 ![](media/16126760608955.jpg)
 
-
 ### 昭和
 
-
 ![昭和](media/16126703142513.jpg)
-
 
 ### 海豹突击队
 
 ![海豹突击队](media/16126702679893.jpg)
-
 
 ### 半导体
 
 ![半导体](media/16126772161264.jpg)
 ![半导体](media/16126703571904.jpg)
 
-
 ### 危机
 
 ![危机](media/16126746861507.jpg)
 
-
 ### Dolch
 
 ![Dolch](media/16126702805779.jpg)
-
 
 ### Dolch 橙 极客
 
@@ -1986,7 +1967,6 @@
 ### 黑二色
 
 ![黑二色](media/16126702920196.jpg)
-
 
 ### 黑同刻
 
@@ -1995,39 +1975,29 @@
 
 ![亚特斯蒂兰](media/16126700694795.jpg)
 
-
-
 ### 瓦斯弹
 
 ![](media/16126760608955.jpg)
 
-
 ### 昭和
 
-
 ![昭和](media/16126703142513.jpg)
-
 
 ### 海豹突击队
 
 ![海豹突击队](media/16126702679893.jpg)
 
-
 ### 半导体
 
 ![半导体](media/16126772161264.jpg)
-![半导体](media/16126703571904.jpg)
-
 
 ### 危机
 
 ![危机](media/16126746861507.jpg)
 
-
 ### Dolch
 
 ![Dolch](media/16126702805779.jpg)
-
 
 ### Dolch 橙 极客
 
@@ -2036,7 +2006,6 @@
 ### 黑二色
 
 ![黑二色](media/16126702920196.jpg)
-
 
 ### 黑同刻
 
