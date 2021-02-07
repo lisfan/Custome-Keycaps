@@ -17,13 +17,13 @@
 ## 后续更新计划
 
 1. 关注的人多，就会好好整理一下列表的展示和图片的展示，人少就当成纯个人键帽画廊了
-2. 国内的IC待补全
-3. 文若开团待补全
-4. 收录无铭
+2. 文若开团待补全
+3. 收录无铭
+4. 会出一个专门速查正在IC中的列表
 
 ## 说明
 
-1. [[客制化键帽速查表]](https://gitee.com/lisfanOSC/Custome-Keycaps#gmk)：国内访问，左侧还有目录可供浏览
+1. [[客制化键帽速查表]](https://gitee.com/lisfanOSC/Custome-Keycaps#%E8%AF%B4%E6%98%8E)：国内访问，左侧还有目录可供浏览
 2. [[Custom Keycaps Quick Look]](https://lisfan.gitbook.io/custom-keycaps-quick-look/#shuo-min)：国外访问，左侧还有目录可供浏览
 3. [[Custom Keycaps Quick Look]](https://github.com/lisfan/Custome-Keycaps#%E8%AF%B4%E6%98%8E)：(备用)国外访问，左侧还有目录可供浏览
 4. 部分资料来源[Keycaps Info](https://matrixzj.github.io/)
@@ -43,13 +43,15 @@
 
 注意：点击每个图片上方的键帽名称均可以快速进入对应的IC或者介绍页
 
-- [GMK系列](#gmk)
-- [SP系列](#sp)
-- [JTK系列](#jtk)
-- [MelGeek系列](#melgeek)
-- [EPBT系列](#epbt)
-- [MAXKEY系列](#maxkey)
-- [DOMIKEY系列](#domikey)
+- [GMK 系列](#gmk) ：原厂高度
+- [SP 系列](#sp)：SA高度，DSC高度
+- [MITO 系列](#mito)：MT3高度
+- [JTK 系列](#jtk)：原厂高度，HSA高度
+- [MelGeek 系列](#melgeek)：MG高度，MDA高度
+- [EPBT 系列](#epbt)：原厂高度
+- [KAT 系列](#kat)：KAT高度，KAM高度，原厂高度
+- [MAXKEY 系列](#maxkey)：SA高度
+- [DOMIKEY 系列](#domikey)：SA高度
 
 ## GMK
 
@@ -1352,7 +1354,7 @@
 
 ![Commando 23 突击23](./media/jcRN3z.jpg)
 
-## MT3
+## MITO
 
 ### ~[CYBER](https://drop.com/buy/drop-mito-mt3-cyber-custom-keycap-set)
 
