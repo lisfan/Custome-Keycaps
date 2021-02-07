@@ -1,15 +1,16 @@
-# 客制化键帽速查表 Custom Keycaps Quick List
+# 客制化键帽速查表 Custom Keycaps Quick Look
 
 > 动动手，点一下**右上角**的Star🤝
 
 如有遗漏，请联系QQ：448182355
 
-更新日期：2021-02-07 13:59:06
+更新日期：2021-02-07 16:16:06
 
 更新内容：
 
 2021-02-07
-- 增加 Domikey 可知的所有键帽设计
+- 增加 MAXKEY 所有可搜索到的资料
+- 增加 Domikey 所有可搜索到的资料
 - 增加 GMK Umka
 - 增加 JTK 天问一号
 
@@ -18,18 +19,16 @@
 1. 关注的人多，就会好好整理一下列表的展示和图片的展示，人少就当成纯个人键帽画廊了
 2. 国内的IC待补全
 3. 文若开团待补全
-4. 收录domikey
-5. 收录maxkey
-6. 收录无姳
+4. 收录无铭
 
 ## 说明
 
-1. [Gitee 国内源码地址](https://gitee.com/lisfanOSC/Custome-Keycaps#gmk)：建议使用该地址访问，左侧还有目录可供浏览
-2. [Github 国外源码地址](https://github.com/lisfan/Custome-Keycaps#gmk)：暂不带目录
+1. [客制化键帽速查表 Custom Keycaps Quick Look](https://gitee.com/lisfanOSC/Custome-Keycaps#gmk)：国内访问，左侧还有目录可供浏览
+2. [Custom Keycaps Quick Look](https://lisfan.gitbook.io/custom-keycaps-quick-look/#gmk)：国外访问，左侧还有目录可供浏览
 3. 部分资料来源[Keycaps Info](https://matrixzj.github.io/)
 4. 名称前面带有`~`标记仅代表个人感兴趣🌝
 5. 还在IC中未开团的键帽图暂不收录（以后单独开一个IC键帽速查表）
-6. **点图片上方的键帽名称**可以进入geekhack上的**IC**喔，没找到IC地址的我也尽可能的找到一个可提代的介绍
+6. **点图片上方的键帽名称**可以进入geekhack上的**IC**喔，没找到IC地址的我也尽可能的找到一个可替代的介绍
 7. 部分图片来源于网络，若侵权请联系删除
 8. 还是人为的过滤掉了1%不喜欢的以及不好看的，我连收集的心思也没
 
@@ -1763,6 +1762,140 @@
 ![Napoleonic 拿破仑时代](./media/XQl5gs.jpg)
 
 
+## MAXKEY
+
+### [虚拟战争](https://www.zfrontier.com/app/flow/2agnK731Q9Lo)
+
+![虚拟战争](media/16126840969627.jpg)
+
+![虚拟战争](media/16126841047047.jpg)
+
+![虚拟战争](media/16126841115981.jpg)
+
+### 二号机 Berserk
+
+![二号机 Berserk](media/16126843556560.jpg)
+
+
+### [2600](https://kbdfans.com/collections/sa-profile/products/gb-maxkey-x)
+
+![2600](media/16126794523441.jpg)
+![pYMlyv](https://raw.githubusercontent.com/lisfan/uPic/master/uPic/pYMlyv.jpg)
+
+### [抹 Choco](https://www.zfrontier.com/app/flow/epwElvq1lN54)
+
+![抹 Choco](media/16126813459066.jpg)
+
+
+### [Melon 哈密瓜](https://www.zfrontier.com/app/flow/4xPoonPAbKa4)
+
+![Melon 哈密瓜](media/16126808698464.jpg)
+
+
+### F-22
+
+![F-22](media/16126811702658.jpg)
+
+
+### 火烈鸟
+
+无图，参考sp
+
+### Lime 青柠
+
+![Lime 青柠](media/16126812913924.jpg)
+
+### Retro
+
+![Retro](media/16126800746120.jpg)
+
+### [MIAMI 迈阿密](https://kbdfans.com/collections/sa-profile/products/maxkey-miami-sa-keycaps)
+
+![MIAMI 迈阿密](media/16126802577750.jpg)
+
+### MIAMI NIGHT 迈阿密之夜
+
+![MIAMI NIGHT 迈阿密之夜](media/16126813823278.jpg)
+
+### 灰阶
+
+![灰阶](media/16126789891474.jpg)
+
+### [STARS](https://kbdfans.com/collections/sa-profile/products/maxkey-sa-starskeycaps-set)
+
+![STARS](media/16126800336236.jpg)
+
+### [LEVIATHAN](https://kbdfans.com/collections/sa-profile/products/sa-leviathan-keycaps)
+
+![LEVIATHAN](media/16126796824586.jpg)
+
+### [DOLCH](https://kbdfans.com/collections/sa-profile/products/maxkey-dolch-sa-double-shot-abs-keycaps)
+
+![DOLCH](media/16126798104318.jpg)
+
+### [BLACK](https://kbdfans.com/collections/sa-profile/products/maxkey-black-doubleshot-abs-sa-keycaps)
+
+![BLACK](media/16126797197806.jpg)
+
+### [DARK PURPLE 黑紫](https://kbdfans.com/collections/sa-profile/products/maxkey-dark-purple-sa-keycaps)
+
+![DARK PURPLE 黑紫](media/16126804664298.jpg)
+
+### [BLUE COFFEE 蓝咖](https://kbdfans.com/collections/sa-profile/products/maxkey-sa-blue-coffee-keycaps-set)
+
+![BLUE COFFEE 蓝咖](media/16126804953851.jpg)
+
+### SuperHero
+
+![SuperHero](media/16126789757222.jpg)
+
+### Taboo SA
+
+![Taboo SA](media/16126789482129.jpg)
+
+### [chocolate 巧克力](https://kbdfans.com/collections/sa-profile/products/maxkey-chocolate-sa-keycaps-set)
+
+![chocolate 巧克力](media/16126801354672.jpg)
+
+### [蓝黄](https://kbdfans.com/collections/sa-profile/products/maxkey-sa-ka-keycaps-set)
+
+![蓝黄](media/16126804363959.jpg)
+
+
+
+
+### [BLUE GRAY 深蓝灰](https://kbdfans.com/collections/sa-profile/products/bfcmmaxkey-blue-gray-sa-keycaps-set)
+
+![BLUE GRAY 深蓝灰](media/16126797678299.jpg)
+
+### [BLUE GRAY 蓝灰](https://kbdfans.com/collections/sa-profile/products/maxkey-b-g-sa-keycaps)
+
+![](media/16126801605582.jpg)
+### [DEEP BLUE](https://kbdfans.com/collections/sa-profile/products/maxkey-deep-blue-keycaps-set)
+
+![DEEP BLUE](media/16126803787344.jpg)
+### [Night King 夜王](https://kbdfans.com/collections/sa-profile/products/maxkey-sa-keycaps-set)
+
+![Night King 夜王](media/16126790010695.jpg)
+
+### 白绿
+
+![白绿](media/16126799580506.jpg)
+
+### [绿白](https://kbdfans.com/collections/sa-profile/products/bfcmmaxkey-green-white-sa-profile-keycaps-set)
+
+![绿白](media/16126799083780.jpg)
+### [PINK & WHITE 白粉](https://kbdfans.com/collections/sa-profile/products/bfcmmaxkey-pink-white-sa-profile-keycaps-set)
+
+![PINK & WHITE 白o粉](media/16126801020717.jpg)
+
+### [奶紫](https://kbdfans.com/collections/sa-profile/products/maxkey-sa-keycaps-set-1)
+
+![奶紫](media/16126803381894.jpg)
+### [PS](https://kbdfans.com/collections/sa-profile/products/maxkey-ps-keycaps-set)
+
+![PS](media/16126805556821.jpg)
+
 ## DOMIKEY
 
 ### [EVA 零号机](https://www.zfrontier.com/app/flow/40K0Kx8o7j96)
@@ -1809,6 +1942,56 @@
 ![蓝波](media/16126700567395.jpg)
 
 ### 亚特斯蒂兰
+
+![亚特斯蒂兰](media/16126700694795.jpg)
+
+
+
+### 瓦斯弹
+
+![](media/16126760608955.jpg)
+
+
+### 昭和
+
+
+![昭和](media/16126703142513.jpg)
+
+
+### 海豹突击队
+
+![海豹突击队](media/16126702679893.jpg)
+
+
+### 半导体
+
+![半导体](media/16126772161264.jpg)
+![半导体](media/16126703571904.jpg)
+
+
+### 危机
+
+![危机](media/16126746861507.jpg)
+
+
+### Dolch
+
+![Dolch](media/16126702805779.jpg)
+
+
+### Dolch 橙 极客
+
+![Dolch 橙 极客](media/16126700438690.jpg)
+
+### 黑二色
+
+![黑二色](media/16126702920196.jpg)
+
+
+### 黑同刻
+
+![黑同刻](media/16126702978897.jpg)
+亚特斯蒂兰
 
 ![亚特斯蒂兰](media/16126700694795.jpg)
 
