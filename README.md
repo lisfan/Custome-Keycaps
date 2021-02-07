@@ -28,7 +28,7 @@
 3. 部分资料来源[Keycaps Info](https://matrixzj.github.io/)
 4. 名称前面带有`~`标记仅代表个人感兴趣🌝
 5. 还在IC中未开团的键帽图暂不收录（以后单独开一个IC键帽速查表）
-6. <span style="color:red;font-weight:bold">点图片上方的键帽名称</span>可以进入geekhack上的**IC**喔，没找到IC地址的我也尽可能的找到一个可替代的介绍
+6. **点图片上方的键帽名称**可以进入geekhack上的**IC**喔，没找到IC地址的我也尽可能的找到一个可替代的介绍
 7. 部分图片来源于网络，若侵权请联系删除
 8. 还是人为的过滤掉了1%不喜欢的以及不好看的，我连收集的心思也没
 
@@ -39,6 +39,8 @@
 不收费
 
 ## GMK
+
+点图片上方的键帽名称
 
 ### [Umka](https://geekhack.org/index.php?topic=110422.msg2998220)
 
