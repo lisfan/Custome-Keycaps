@@ -1,4 +1,4 @@
-# 客制化键帽速查表 Custom Keycaps Quick List
+# 客制化键帽速查表 Custom Keycaps Quick Look
 
 > 动动手，点一下**右上角**的Star🤝
 
