@@ -31,11 +31,23 @@
 9. 还是人为的过滤掉了1%不喜欢的以及不好看的，我连收集的心思也没
 10. 扩大了键帽设计的选择范围，不再局限为纯客制化键帽，一些键帽主题设计好的量疼也会做收入
 
-## 小banner广告位招租
+## 小banner广告位招租（不收费）
 
 可以投放开团信息喔（仅仅一小块横幅展示，横幅由您提供喔）
 
-不收费
+QQ：448182355
+收 1.15 epbt 黛粉
+收 jtk 黑红俄文
+收 epbt 黑武士
+收 epbt 蓝阿拉伯文
+收 开团价 文若 素白 和 彩色增补
+--- 
+80亏本出 仅上机 DOMIKEY Mobius 莫比乌斯：arrow + space
+140 不包邮出70颗金粉轴
+150 包邮 打包2张 奶爸 eva初号 和 eva 零号 桌垫，全新，已通风晒过
+原价 转单 MelGeek MDA 微光：80% + lamp + number
+原价 zf转单 JTK 夜樱：base + 个性 + 桌垫
+原价 转单 文若 神祇 日升 base 138
 
 ## 快速导航
 
@@ -57,105 +69,105 @@
 
 ### [Umka](https://geekhack.org/index.php?topic=110422.msg2998220)
 
-![Umka](media/16126615545495.jpg)
+![GMK Umka](media/GMK_Umka.jpg)
 
 ### ~[Dots 圆点](https://geekhack.org/index.php?topic=110668.0)
 
-![Dots 圆点](./media/O7EzMZ.jpg)
+![GMK Dots 圆点](media/GMK_Dots_圆点_1.jpg)
 
-![Dots 圆点](./media/16124911322885.jpg)
+![GMK Dots 圆点](media/GMK_Dots_圆点_2.jpg)
 
-![Dots 圆点](./media/16124911445671.jpg)
+![GMK Dots 圆点](media/GMK_Dots_圆点_3.jpg)
+
 
 ### ~[Dandy 蒲公英](https://geekhack.org/index.php?topic=106325.0)
 
-![Dandy 蒲公英](./media/u16N7B.jpg)
+![GMK Dandy 蒲公英](media/GMK_Dandy_蒲公英_1.jpg)
 
-![Dandy 蒲公英](./media/kEE7r5.jpg)
-
-![Dandy 蒲公英](./media/IFQBSy.jpg)
+![GMK Dandy 蒲公英](media/GMK_Dandy_蒲公英_2.jpg)
 
 ### ~[Tuzi 兔子](https://geekhack.org/index.php?topic=110981.0)
 
-![Tuzi 兔子](./media/e0A0Uz.jpg)
+![GMK Tuzi 兔子](media/GMK_Tuzi_兔子.jpg)
 
 ### [Mr.Sleeves](https://novelkeys.xyz/collections/group-buys/products/gmk-mr-sleeves-r2-gb)
 
-![Mr.Sleeves](./media/WgZFJ1.jpg)
+![GMK Mr.Sleeves](./media/GMK_Mr_Sleeves.jpg)
 
 ### ~[Birch 桦木](https://geekhack.org/index.php?topic=107246.0)
 
-![Birch 桦木](./media/Q46dDa.jpg)
+![GMKBirch 桦木](media/GMK_Birch_桦木.jpg)
 
 ### [Gateway](https://geekhack.org/index.php?topic=110075)
 
-![Gateway](./media/N2zbKC.jpg)
+![GMK Gateway](./media/GMK_Gateway.jpg)
 
 ### [Civilizations 文明](https://geekhack.org/index.php?topic=108877.0)
 
-![Civilizations 文明](./media/zLlHhy.jpg)
+![GMK Civilizations 文明](media/GMK_Civilizations_文明.jpg)
 
 ### [Matcha Mocha](https://geekhack.org/index.php?topic=110726)
 
-![Matcha Mocha](./media/TpmHPk.jpg)
+![GMK Matcha Mocha](media/GMK_Matcha_Mocha.jpg)
 
 ### [Muted 缄默](https://geekhack.org/index.php?topic=110686.0)
 
-![hlRrY9](./media/hlRrY9.jpg)
+![GMK Muted 缄默](media/GMK_Muted_缄默.jpg)
 
 ### [WoB KATAKANA 黑白日文](https://drop.com/buy/drop-gmk-white-on-black-katakana-custom-keycap-set)
 
-![WoB KATAKANA 黑白日文](./media/RDd1Fu.jpg)
+![GMK WoB KATAKANA 黑白日文](media/GMK_WoB_KATAKANA_黑白日文.jpg)
 
 ### ~[Storm 风暴](https://geekhack.org/index.php?topic=109342)
 
-![Storm 风暴](./media/lsqPLX.jpg)
+![GMK Storm 风暴](media/GMK Storm 风暴.jpg)
 
 ### ~[Baltic 芭堤](https://geekhack.org/index.php?topic=110598.0)
 
-![Baltic 芭堤](./media/YG3V0l.jpg)
+![GMK Baltic 芭堤](media/16127775642183.jpg)
+
 
 ### [Polybius 波利比乌斯](https://geekhack.org/index.php?topic=110511.0)
 
-![Polybius 波利比乌斯](./media/4JnRHk.jpg)
+![GMK Polybius 波利比乌斯](./media/GMK_Polybius_波利比乌斯.jpg)
 
 ### [Shanshui 山水](https://geekhack.org/index.php?topic=110355.0)
 
-![Shanshui 山水](./media/UXVVs9.jpg)
+![GMK Shanshui 山水](media/GMK_Shanshui_山水.jpg)
 
 ### ~[Cojiro](https://geekhack.org/index.php?topic=110451.0)
 
-![Cojiro](./media/je1cxL.jpg)
+![GMK Cojiro](./media/GMK_Cojiro.jpg)
 
 ### [Awaken 觉醒](https://geekhack.org/index.php?topic=110455.0)
 
-![Awaken 觉醒](./media/KTB8F2.jpg)
+![GMK Awaken 觉醒](media/GMK_Awaken_觉醒.jpg)
 
 ### ~[Stealth 潜行](https://geekhack.org/index.php?topic=110195)
 
-![Stealth 潜行](./media/Nmp5Cr.jpg)
+![GMK Stealth 潜行](media/GMK_Stealth_潜行.jpg)
 
 ### ~[Avanguardia](https://geekhack.org/index.php?topic=110217)
 
-![Avanguardia](./media/drn0pv.jpg)
+![GMK Avanguardia](./media/GMK_Avanguardia_1.jpg)
 
-![Avanguardia](./media/IvUJVX.jpg)
+![GMK Avanguardia](media/GMK_Avanguardia_2.jpg)
 
 ### [Gregory 狗勾](https://geekhack.org/index.php?topic=110101.0)
 
-![Gregory 狗勾](./media/LsVKUN.jpg)
+![GMK Gregory 狗勾](media/GMK_Gregory_狗勾.jpg)
 
 ### ~[Hanami Dango](https://geekhack.org/index.php?topic=110049.0)
 
-![Hanami Dango](./media/W4Fzjv.jpg)
+![GMK Hanami Dango](./media/GMK_Hanami_Dango.jpg)
 
 ### ~[80082](https://geekhack.org/index.php?topic=109800)
 
-![80082](./media/3sKk4C.jpg)
+![GMK 80082](media/GMK_80082.jpg)
 
 ### ~[Serika 芹夏](https://geekhack.org/index.php?topic=109505)
 
-![Serika 芹夏](./media/lrCdPZ.jpg)
+![GMKSerika 芹夏](media/GMK_Serika_芹夏.jpg)
 
 ### ~[Pink on Navy](https://geekhack.org/index.php?topic=109930.0)
 
@@ -2032,93 +2044,93 @@
 
 ### 牛年新春 OSA？
 
-![AKKO_OSA_牛年新春](media/AKKO_OSA_牛年新春.jpg)
+![AKKO OSA 牛年新春](media/AKKO_OSA_牛年新春.jpg)
 
 ### 琉璃鹦 OEM
 
-![AKKO_OEM_琉璃鹦](media/AKKO_OEM_琉璃鹦.jpg)
+![AKKO OEM 琉璃鹦](media/AKKO_OEM_琉璃鹦.jpg)
 
 ### 霓虹 OEM
 
-![AKKO_OEM_霓虹](media/AKKO_OEM_霓虹.jpg)
+![AKKO OEM 霓虹](media/AKKO_OEM_霓虹.jpg)
 
 ### 大碳 ASA
 
-![AKKO_ASA_大碳](media/AKKO_ASA_大碳.jpg)
+![AKKO ASA 大碳](media/AKKO_ASA_大碳.jpg)
 
 ### @TODO 还缺一个红豆抹茶的图
 
 ### 琉璃鹦 OSA
 
-![AKKO_OSA_琉璃鹦](media/AKKO_OSA_琉璃鹦.jpg)
+![AKKO OSA 琉璃鹦](media/AKKO_OSA_琉璃鹦.jpg)
 
 ### @TODO 还需要补充3个OSA的图
 
 
 ### 9009 OEM
 
-![AKKO_OEM_9009](media/AKKO_OEM_9009.jpg)
+![AKKO OEM 9009](media/AKKO_OEM_9009.jpg)
 
 ### 蒸汽机 OEM
 
-![AKKO_OEM_蒸汽机](media/AKKO_OEM_蒸汽机.jpg)
+![AKKO OEM 蒸汽机](media/AKKO_OEM_蒸汽机.jpg)
 
 ### 红豆抹茶 OEM
 
-![AKKO_OEM_红豆抹茶](media/AKKO_OEM_红豆抹茶.jpg)
+![AKKO OEM 红豆抹茶](media/AKKO_OEM_红豆抹茶.jpg)
 
 ### 天空之境 OEM
 
-![AKKO_OEM_天空之境](media/AKKO_OEM_天空之境.jpg)
+![AKKO OEM 天空之境](media/AKKO_OEM_天空之境.jpg)
 
 ### 海洋之星 OEM
 
-![AKKO_OEM_海洋之星](media/AKKO_OEM_海洋之星.jpg)
+![AKKO OEM 海洋之星](media/AKKO_OEM_海洋之星.jpg)
 
 ### 地平线 OEM
 
-![AKKO_OEM_地平线](media/AKKO_OEM_地平线.jpg)
+![AKKO OEM 地平线](media/AKKO_OEM_地平线.jpg)
 
 ### 静谧 OEM
 
-![AKKO_OEM_静谧](media/AKKO_OEM_静谧.jpg)
+![AKKO OEM 静谧](media/AKKO_OEM_静谧.jpg)
 
 ### 午夜 OEM
 
-![AKKO_OEM_午夜](media/AKKO_OEM_午夜.jpg)
+![AKKO OEM 午夜](media/AKKO_OEM_午夜.jpg)
 
 ### 金砂灰 OEM
 
-![AKKO_OEM_金砂灰](media/AKKO_OEM_金砂灰.jpg)
+![AKKO OEM 金砂灰](media/AKKO_OEM_金砂灰.jpg)
 
 ### 玫瑰红 OEM
 
-![AKKO_OEM_玫瑰红](media/AKKO_OEM_玫瑰红.jpg)
+![AKKO OEM 玫瑰红](media/AKKO_OEM_玫瑰红.jpg)
 
 ### 清新白 OEM
 
-![AKKO_OEM_清新白](media/AKKO_OEM_清新白.jpg)
+![AKKO OEM 清新白](media/AKKO_OEM_清新白.jpg)
 
 ### 金沙灰 OEM
 
-![AKKO_OEM_金沙灰](media/AKKO_OEM_金沙灰.jpg)
+![AKKO OEM 金沙灰](media/AKKO_OEM_金沙灰.jpg)
 
 ### 樱花粉 OEM
 
-![AKKO_OEM_樱花粉](media/AKKO_OEM_樱花粉.jpg)
+![AKKO OEM 樱花粉](media/AKKO_OEM_樱花粉.jpg)
 
 ### 香芋紫 OEM
 
-![AKKO_OEM_香芋紫](media/AKKO_OEM_香芋紫.jpg)
+![AKKO OEM 香芋紫](media/AKKO_OEM_香芋紫.jpg)
 
 ### 薄荷绿 OEM
 
-![AKKO_OEM_薄荷绿](media/AKKO_OEM_薄荷绿.jpg)
+![AKKO OEM 薄荷绿](media/AKKO_OEM_薄荷绿.jpg)
 
 
 ### 哔哩哔哩 OEM
 
-![AKKO_OEM_哔哩哔哩](media/AKKO_OEM_哔哩哔哩.jpg)
+![AKKO OEM 哔哩哔哩](media/AKKO_OEM_哔哩哔哩.jpg)
 
 ### [美少女战士]()
 
@@ -2134,51 +2146,53 @@
 
 ### 孙悟空 OEM
 
-![AKKO_OEM_孙悟空](media/AKKO_OEM_孙悟空.jpg)
+![AKKO OEM 孙悟空](media/AKKO_OEM_孙悟空.jpg)
 
 ### 贝吉塔 OEM
 
-![AKKO_OEM_贝吉塔](media/AKKO_OEM_贝吉塔.jpg)
+![AKKO OEM 贝吉塔](media/AKKO_OEM_贝吉塔.jpg)
 
 ### 弗利萨 OEM
 
-![AKKO_OEM_弗利萨](media/AKKO_OEM_弗利萨.jpg)
+![AKKO OEM 弗利萨](media/AKKO_OEM_弗利萨.jpg)
 
 ### 乔巴 OEM
 
-![AKKO_OEM_乔巴](media/AKKO_OEM_乔巴.jpg)
+![AKKO OEM 乔巴](media/AKKO_OEM_乔巴.jpg)
 
 ### 路飞 OEM
 
-![AKKO_OEM_路飞](media/AKKO_OEM_路飞.jpg)
+![AKKO OEM 路飞](media/AKKO_OEM_路飞.jpg)
 
 ### 哪吒
 
 ![哪吒](media/16127593265132.jpg)
 ### 佐助 OEM
 
-![AKKO_OEM_佐助](media/AKKO_OEM_佐助.jpg)
+![AKKO OEM 佐助](media/AKKO_OEM_佐助.jpg)
 
 ### 鸣人 OEM
 
-![AKKO_OEM_鸣人](media/AKKO_OEM_鸣人.jpg)
+![AKKO OEM 鸣人](media/AKKO_OEM_鸣人.jpg)
 
 ### Hello Kitty OEM
 
-![AKKO_OEM_Hello_Kitty](media/AKKO_OEM_Hello_Kitty.jpg)
+![AKKO OEM Hello Kitty](media/AKKO_OEM_Hello_Kitty.jpg)
 
 ### 北京故宫 OEM?
 
-![AKKO_OEM_北京故宫](media/AKKO_OEM_北京故宫.jpg)
+![AKKO OEM 北京故宫](media/AKKO_OEM_北京故宫.jpg)
 
 ### 莫奈之池 OEM
 
-![AKKO_OEM_莫奈之池](media/AKKO_OEM_莫奈之池.jpg)
+![AKKO OEM 莫奈之池](media/AKKO_OEM_莫奈之池.jpg)
 
 ### 吉庆有余 锦鲤 OEM
 
-![AKKO_OEM_吉庆有余_锦鲤](media/AKKO_OEM_吉庆有余_锦鲤.jpg)
+![AKKO OEM 吉庆有余 锦鲤](media/AKKO_OEM_吉庆有余_锦鲤.jpg)
 
 ### 东京R2 OEM
 
-![AKKO_OEM_东京R2](media/AKKO_OEM_东京R2.jpg)
+![AKKO OEM 东京R2](media/AKKO_OEM_东京R2.jpg)
+
+
