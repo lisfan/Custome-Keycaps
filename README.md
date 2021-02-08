@@ -4,34 +4,32 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新日期：2021-02-07 16:55:04
+更新日期：2021-02-08 16:20:44
 
 更新内容：
 
-2021-02-07
-- 增加 MAXKEY 所有可搜索到的资料
-- 增加 DOMIKEY 所有可搜索到的资料
-- 增加 GMK Umka
-- 增加 JTK 天问一号
+2021-02-08
+- 增加AKKO 量产键帽
 
 ## 后续更新计划
 
 1. 关注的人多，就会好好整理一下列表的展示和图片的展示，人少就当成纯个人键帽画廊了
-2. 文若开团待补全
+2. 收录文若
 3. 收录无铭
-4. 会出一个专门速查正在IC中的列表
+5. 专门速查正在IC中的列表
 
 ## 说明
 
 1. [[客制化键帽速查表]](https://gitee.com/lisfanOSC/Custome-Keycaps#%E8%AF%B4%E6%98%8E)：国内访问，左侧还有目录可供浏览
-2. [[Custom Keycaps Quick Look]](https://lisfan.gitbook.io/custom-keycaps-quick-look/#shuo-min)：国外访问，左侧还有目录可供浏览
-3. [[Custom Keycaps Quick Look]](https://github.com/lisfan/Custome-Keycaps#%E8%AF%B4%E6%98%8E)：(备用)国外访问，左侧还有目录可供浏览
+2. [[Custom Keycaps Quick Look]](https://lisfan.gitbook.io/custom-keycaps-quick-look/#shuo-min)：国外访问，右侧还有目录可供浏览
+3. [[Custom Keycaps Quick Look]](https://github.com/lisfan/Custome-Keycaps#%E8%AF%B4%E6%98%8E)：(备用)国外访问，无目录
 4. 部分资料来源[Keycaps Info](https://matrixzj.github.io/)
 5. 名称前面带有`~`标记仅代表个人感兴趣🌝
 6. 还在IC中未开团的键帽图暂不收录（以后单独开一个IC键帽速查表）
 7. **点图片上方的键帽名称**可以进入geekhack上的**IC**喔，没找到IC地址的我也尽可能的找到一个可替代的介绍
 8. 部分图片来源于网络，若侵权请联系删除
 9. 还是人为的过滤掉了1%不喜欢的以及不好看的，我连收集的心思也没
+10. 扩大了键帽设计的选择范围，不再局限为纯客制化键帽，一些键帽主题设计好的量疼也会做收入
 
 ## 小banner广告位招租
 
@@ -40,8 +38,6 @@
 不收费
 
 ## 快速导航
-
-注意：点击每个图片上方的键帽名称均可以快速进入对应的IC或者介绍页
 
 - [GMK 系列](#gmk) ：原厂高度
 - [SP 系列](#sp)：SA高度，DSC高度
@@ -52,8 +48,12 @@
 - [KAT 系列](#kat)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](#maxkey)：SA高度
 - [DOMIKEY 系列](#domikey)：SA高度
+- [AKKO 系列（部分无铭的OEM与akko进行了合并）](#AKKO)：OEM高度，OEM高度
+- [无铭 系列](#wumin)：SA高度
 
 ## GMK
+
+注意：点击每个图片上方的键帽名称均可以快速进入对应的IC或者介绍页
 
 ### [Umka](https://geekhack.org/index.php?topic=110422.msg2998220)
 
@@ -277,7 +277,7 @@
 
 ### ~[HammerHead 锤头鲨](https://geekhack.org/index.php?topic=101037.0)
 
-![HammerHead 锤头鲨](./media/bjMdtk.jpg)
+![HammerHead 锤头鲨](./media/GMK_HammerHead_锤头鲨.jpg)
 
 ### [Oni](https://geekhack.org/index.php?topic=107910.0)
 
@@ -767,7 +767,7 @@
 
 ### ~[KA 2019 Valentine 2019情人节](https://geekhack.org/index.php?topic=99498.0)
 
-![KA 2019 Valentine 2019情人节](./media/QKLOsa.jpg)
+![KA 2019 Valentine 2019情人节](./media/QKLOEM.jpg)
 
 ### [Calm Depths 深海](https://kono.store/products/gmk-calm-depths-keycap-set)
 
@@ -2024,3 +2024,161 @@
 ### 黑同刻
 
 ![黑同刻](media/16126702978897.jpg)
+
+### AKKO
+
+1. AKKO会有一些侧刻版本（侧刻版本不作收录）
+2. AKKO的详情里缺少一些键帽高度的信息，请详细咨询客服
+
+### 牛年新春 OSA？
+
+![AKKO_OSA_牛年新春](media/AKKO_OSA_牛年新春.jpg)
+
+### 琉璃鹦 OEM
+
+![AKKO_OEM_琉璃鹦](media/AKKO_OEM_琉璃鹦.jpg)
+
+### 霓虹 OEM
+
+![AKKO_OEM_霓虹](media/AKKO_OEM_霓虹.jpg)
+
+### 大碳 ASA
+
+![AKKO_ASA_大碳](media/AKKO_ASA_大碳.jpg)
+
+### @TODO 还缺一个红豆抹茶的图
+
+### 琉璃鹦 OSA
+
+![AKKO_OSA_琉璃鹦](media/AKKO_OSA_琉璃鹦.jpg)
+
+### @TODO 还需要补充3个OSA的图
+
+
+### 9009 OEM
+
+![AKKO_OEM_9009](media/AKKO_OEM_9009.jpg)
+
+### 蒸汽机 OEM
+
+![AKKO_OEM_蒸汽机](media/AKKO_OEM_蒸汽机.jpg)
+
+### 红豆抹茶 OEM
+
+![AKKO_OEM_红豆抹茶](media/AKKO_OEM_红豆抹茶.jpg)
+
+### 天空之境 OEM
+
+![AKKO_OEM_天空之境](media/AKKO_OEM_天空之境.jpg)
+
+### 海洋之星 OEM
+
+![AKKO_OEM_海洋之星](media/AKKO_OEM_海洋之星.jpg)
+
+### 地平线 OEM
+
+![AKKO_OEM_地平线](media/AKKO_OEM_地平线.jpg)
+
+### 静谧 OEM
+
+![AKKO_OEM_静谧](media/AKKO_OEM_静谧.jpg)
+
+### 午夜 OEM
+
+![AKKO_OEM_午夜](media/AKKO_OEM_午夜.jpg)
+
+### 金砂灰 OEM
+
+![AKKO_OEM_金砂灰](media/AKKO_OEM_金砂灰.jpg)
+
+### 玫瑰红 OEM
+
+![AKKO_OEM_玫瑰红](media/AKKO_OEM_玫瑰红.jpg)
+
+### 清新白 OEM
+
+![AKKO_OEM_清新白](media/AKKO_OEM_清新白.jpg)
+
+### 金沙灰 OEM
+
+![AKKO_OEM_金沙灰](media/AKKO_OEM_金沙灰.jpg)
+
+### 樱花粉 OEM
+
+![AKKO_OEM_樱花粉](media/AKKO_OEM_樱花粉.jpg)
+
+### 香芋紫 OEM
+
+![AKKO_OEM_香芋紫](media/AKKO_OEM_香芋紫.jpg)
+
+### 薄荷绿 OEM
+
+![AKKO_OEM_薄荷绿](media/AKKO_OEM_薄荷绿.jpg)
+
+
+### 哔哩哔哩 OEM
+
+![AKKO_OEM_哔哩哔哩](media/AKKO_OEM_哔哩哔哩.jpg)
+
+### [美少女战士]()
+
+![](media/16127682269222.jpg)
+
+
+![](media/16127682625475.jpg)
+
+
+### 富士山樱花 OEM
+
+![AKKO_OEM_富士山樱花](media/AKKO_OEM_富士山樱花.jpg)
+
+### 孙悟空 OEM
+
+![AKKO_OEM_孙悟空](media/AKKO_OEM_孙悟空.jpg)
+
+### 贝吉塔 OEM
+
+![AKKO_OEM_贝吉塔](media/AKKO_OEM_贝吉塔.jpg)
+
+### 弗利萨 OEM
+
+![AKKO_OEM_弗利萨](media/AKKO_OEM_弗利萨.jpg)
+
+### 乔巴 OEM
+
+![AKKO_OEM_乔巴](media/AKKO_OEM_乔巴.jpg)
+
+### 路飞 OEM
+
+![AKKO_OEM_路飞](media/AKKO_OEM_路飞.jpg)
+
+### 哪吒
+
+![哪吒](media/16127593265132.jpg)
+### 佐助 OEM
+
+![AKKO_OEM_佐助](media/AKKO_OEM_佐助.jpg)
+
+### 鸣人 OEM
+
+![AKKO_OEM_鸣人](media/AKKO_OEM_鸣人.jpg)
+
+### Hello Kitty OEM
+
+![AKKO_OEM_Hello_Kitty](media/AKKO_OEM_Hello_Kitty.jpg)
+
+### 北京故宫 OEM?
+
+![AKKO_OEM_北京故宫](media/AKKO_OEM_北京故宫.jpg)
+
+### 莫奈之池 OEM
+
+![AKKO_OEM_莫奈之池](media/AKKO_OEM_莫奈之池.jpg)
+
+### 吉庆有余 锦鲤 OEM
+
+![AKKO_OEM_吉庆有余_锦鲤](media/AKKO_OEM_吉庆有余_锦鲤.jpg)
+
+### 东京R2 OEM
+
+![AKKO_OEM_东京R2](media/AKKO_OEM_东京R2.jpg)
