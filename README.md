@@ -120,11 +120,11 @@ QQ：448182355
 
 ### ~[Storm 风暴](https://geekhack.org/index.php?topic=109342)
 
-![GMK Storm 风暴](media/GMK Storm 风暴.jpg)
+![GMK Storm 风暴](media/GMK_Storm_风暴.jpg)
 
 ### ~[Baltic 芭堤](https://geekhack.org/index.php?topic=110598.0)
 
-![GMK Baltic 芭堤](media/16127775642183.jpg)
+![GMK Baltic 芭堤](media/GMK_Baltic_芭堤.jpg)
 
 
 ### [Polybius 波利比乌斯](https://geekhack.org/index.php?topic=110511.0)
@@ -524,7 +524,7 @@ QQ：448182355
 
 ### [Hero 英雄](https://geekhack.org/index.php?topic=104486.0)
 
-![GMK Hero 英雄](./media/GMK_Hero_英雄)
+![GMK Hero 英雄](./media/GMK_Hero_英雄.jpg)
 
 ### ~[Future Funk](https://geekhack.org/index.php?topic=104453.0)
 
