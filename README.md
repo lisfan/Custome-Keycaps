@@ -36,27 +36,27 @@
 可以投放开团信息喔（仅仅一小块横幅展示，横幅由您提供喔）
 
 QQ：448182355
-收 1.15 epbt 黛粉
-收 jtk 黑红俄文
-收 epbt 黑武士
-收 epbt 蓝阿拉伯文
+收 1.15 EPBT 原厂 黛粉
+收 JTK 原厂 黑红俄文
+收 EPBT 原厂 黑武士
+收 EPBT 原厂 蓝阿拉伯文
 收 开团价 文若 素白 和 彩色增补
 --- 
 80亏本出 仅上机 DOMIKEY Mobius 莫比乌斯：arrow + space
 140 不包邮出70颗金粉轴
 150 包邮 打包2张 奶爸 eva初号 和 eva 零号 桌垫，全新，已通风晒过
-原价 转单 MelGeek MDA 微光：80% + lamp + number
-原价 zf转单 JTK 夜樱：base + 个性 + 桌垫
+原价 转单 MELGEEK MG MDA 微光：80% + lamp + number
+原价 zf转单 JTK 原厂 夜樱：base + 个性 + 桌垫
 原价 转单 文若 神祇 日升 base 138
 
 ## 快速导航
 
 - [GMK 系列](#gmk) ：原厂高度
 - [SP 系列](#sp)：SA高度，DSC高度
-- [MITO 系列](#mito)：MT3高度
-- [JTK 系列](#jtk)：原厂高度，HSA高度
-- [MelGeek 系列](#melgeek)：MG高度，MDA高度
-- [EPBT 系列](#epbt)：原厂高度
+- [MITO MT3系列](#mito)：MT3高度
+- [JTK 原厂 系列](#jtk)：原厂高度，HSA高度
+- [MELGEEK MG 系列](#melgeek)：MG高度，MDA高度
+- [EPBT 原厂 系列](#epbt)：原厂高度
 - [KAT 系列](#kat)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](#maxkey)：SA高度
 - [DOMIKEY 系列](#domikey)：SA高度
@@ -1406,283 +1406,282 @@ QQ：448182355
 
 ## MITO
 
-### ~[CYBER](https://drop.com/buy/drop-mito-mt3-cyber-custom-keycap-set)
+### ~[CYBER MT3](https://drop.com/buy/drop-mito-mt3-cyber-custom-keycap-set)
 
-![MITO Cyber](media/MITO@Cyber.jpg)
+![MITO MT3 Cyber](media/MITO@MT3@Cyber.jpg)
 
-### ~[SERIKA](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set)
+### ~[SERIKA MT3](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set)
 
-![MITO SERIKA](media/MITO@SERIKA.jpg)
+![MITO MT3 SERIKA](media/MITO@MT3@SERIKA.jpg)
 
-### ~[EXTENDED 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set)
+### ~[EXTENDED 2048 MT3](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set)
 
-![MITO EXTENDED 2048](media/MITO@EXTENDED_2048.jpg)
+![MITO MT3 EXTENDED 2048](media/MITO@MT3@EXTENDED_2048.jpg)
 
-### ~[SUSUWATARI](https://drop.com/buy/drop-matt3o-mt3-susuwatari-custom-keycap-set)
+### ~[SUSUWATARI MT3](https://drop.com/buy/drop-matt3o-mt3-susuwatari-custom-keycap-set)
 
-![MITO SUSUWATARI](media/MITO@SUSUWATARI.jpg)
+![MITO MT3 SUSUWATARI](media/MITO@MT3@SUSUWATARI.jpg)
 
-### ~[/DEV/TTY](https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set)
+### ~[/DEV/TTY MT3](https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set)
 
-![MITO /DEV/TTY](media/MITO@DEV_TTY.jpg)
+![MITO MT3 /DEV/TTY](media/MITO@MT3@DEV_TTY.jpg)
 
-### ~[JUKEBOX](https://drop.com/buy/drop-mt3-jukebox-keycap-set)
+### ~[JUKEBOX MT3](https://drop.com/buy/drop-mt3-jukebox-keycap-set)
 
-![MITO JUKEBOX](media/MITO@JUKEBOX.jpg)
+![MITO MT3 JUKEBOX](media/MITO@MT3@JUKEBOX.jpg)
 
-### [DASHER](https://drop.com/buy/drop-mt3-dasher-keycap-set)
+### [DASHER MT3](https://drop.com/buy/drop-mt3-dasher-keycap-set)
 
-![MITO DASHER.jpg](media/MITO@DASHER.jpg)
+![MITO MT3 DASHER.jpg](media/MITO@MT3@DASHER.jpg)
 
-### [CAMILLO](https://drop.com/buy/drop-mt3-camillo-keycap-set)
+### [CAMILLO MT3](https://drop.com/buy/drop-mt3-camillo-keycap-set)
 
-![MITO CAMILLO](media/MITO@CAMILLO.jpg)
+![MITO MT3 CAMILLO](media/MITO@MT3@CAMILLO.jpg)
 
 
-### [3277](https://drop.com/buy/drop-matt3o-mt3-3277-custom-keycap-set)
+### [3277 MT3](https://drop.com/buy/drop-matt3o-mt3-3277-custom-keycap-set)
 
-![MITO 3277](media/MITO@3277.jpg)
+![MITO MT3 3277](media/MITO@MT3@3277.jpg)
 
 ## JTK
 
-### ~[Griseann GP](https://www.zfrontier.com/app/mch/BwRvKMG4j0Yo)
+### ~[Griseann GP 原厂](https://www.zfrontier.com/app/mch/BwRvKMG4j0Yo)
 
-![JTK Griseann GP](media/JTK@Griseann_GP.jpg)
+![JTK 原厂 Griseann GP](media/JTK@原厂@Griseann_GP.jpg)
 
-### ~[Royal Alpha 皇家打字机](https://www.zfrontier.com/app/mch/BwRvKMG4j0Yo)
+### ~[Royal Alpha 皇家打字机 原厂](https://www.zfrontier.com/app/mch/BwRvKMG4j0Yo)
 
-![JTK Royal Alpha 皇家打字机](media/JTK@Royal_Alpha@皇家打字机.jpg)
+![JTK 原厂 Royal Alpha 皇家打字机](media/JTK@原厂@Royal_Alpha@皇家打字机.jpg)
 
-### [Azure 碧蓝](https://www.zfrontier.com/app/mch/B8qEq9gWAge1)
+### [Azure 碧蓝 原厂](https://www.zfrontier.com/app/mch/B8qEq9gWAge1)
 
-![JTK Azure 碧蓝](media/JTK@Azure@碧蓝.jpg)
+![JTK 原厂 Azure 碧蓝](media/JTK@原厂@Azure@碧蓝.jpg)
 
-### ~[Zen 山水](https://www.zfrontier.com/app/mch/o2epeVZRzZml)
+### ~[Zen 山水 原厂](https://www.zfrontier.com/app/mch/o2epeVZRzZml)
 
-![JTK Zen 山水](media/JTK@Zen@山水.jpg)
+![JTK 原厂 Zen 山水](media/JTK@原厂@Zen@山水.jpg)
 
-### ~[NightSakura 夜樱](https://www.zfrontier.com/app/mch/1KOdjLY3WNk1)
+### ~[NightSakura 夜樱 原厂](https://www.zfrontier.com/app/mch/1KOdjLY3WNk1)
 
-![JTK NightSakura 夜樱](media/JTK@NightSakura@夜樱_1.jpg)
+![JTK 原厂 NightSakura 夜樱](media/JTK@原厂@NightSakura@夜樱_1.jpg)
 
-![JTK NightSakura 夜樱](media/JTK@NightSakura@夜樱_2.jpg)
+![JTK 原厂 NightSakura 夜樱](media/JTK@原厂@NightSakura@夜樱_2.jpg)
 
-### [Classic FC 经典红白机](https://www.zfrontier.com/app/mch/1QZdND4LmM5l)
+### [Classic FC 经典红白机 原厂](https://www.zfrontier.com/app/mch/1QZdND4LmM5l)
 
-![JTK Classic FC 经典红白机](media/JTK@Classic_FC@经典红白机.jpg)
+![JTK 原厂 Classic FC 经典红白机](media/JTK@原厂@Classic_FC@经典红白机.jpg)
 
-### [JW 西装暴徒](https://www.zfrontier.com/app/mch/1EOy8yr9AbYo)
+### [JW 西装暴徒 原厂](https://www.zfrontier.com/app/mch/1EOy8yr9AbYo)
 
-![JTK JW 西装暴徒](media/JTK@JW@西装暴徒_1.jpg)
+![JTK 原厂 JW 西装暴徒](media/JTK@原厂@JW@西装暴徒_1.jpg)
 
-![JTK JW 西装暴徒](media/JTK@JW@西装暴徒_2.jpg)
+![JTK 原厂 JW 西装暴徒](media/JTK@原厂@JW@西装暴徒_2.jpg)
 
-### [东方一号 Vostok-1](https://www.zfrontier.com/app/mch/1n9nkqGRkyXB)
+### [东方一号 Vostok-1 原厂](https://www.zfrontier.com/app/mch/1n9nkqGRkyXB)
 
-![JTK 东方一号 Vostok-1](media/JTK@东方一号@Vostok_1.jpg)
+![JTK 原厂 东方一号 Vostok-1](media/JTK@原厂@东方一号@Vostok_1.jpg)
 
-### [天问一号](https://izhongchou.taobao.com/dreamdetail.htm?spm=a215p.128754.653087.29.29fa3605s92CTq&id=20093218)
+### [天问一号 原厂](https://izhongchou.taobao.com/dreamdetail.htm?spm=a215p.128754.653087.29.29fa3605s92CTq&id=20093218)
 
-![JTK 天问一号](media/JTK@天问一号.jpg)
+![JTK 原厂 天问一号](media/JTK@原厂@天问一号.jpg)
 
+### [Arctic 北极圈 原厂](https://www.zfrontier.com/app/mch/oeJLjwOjQ4PB)
 
-### [Arctic 北极圈](https://www.zfrontier.com/app/mch/oeJLjwOjQ4PB)
+![JTK 原厂 Arctic 北极圈](media/JTK@原厂@Arctic@北极圈.jpg)
 
-![JTK Arctic 北极圈](media/JTK@Arctic@北极圈.jpg)
+### ~[HyperFuse 原厂](https://www.zfrontier.com/app/mch/1aW0MG5ydZno)
 
-### ~[HyperFuse](https://www.zfrontier.com/app/mch/1aW0MG5ydZno)
+![JTK 原厂 HyperFuse](media/JTK@原厂@HyperFuse.jpg)
 
-![JTK HyperFuse](media/JTK@HyperFuse.jpg)
+### [AJ 原厂](https://www.zfrontier.com/app/mch/1xeON2pYpAml)
 
-### [AJ](https://www.zfrontier.com/app/mch/1xeON2pYpAml)
+![JTK 原厂 AJ](media/JTK@原厂@AJ.jpg)
 
-![JTK AJ](media/JTK@AJ.jpg)
+### [毒药 原厂](https://www.zfrontier.com/app/mch/lyrx37dnxe2o)
 
-### [毒药](https://www.zfrontier.com/app/mch/lyrx37dnxe2o)
+![JTK 原厂 毒药](media/JTK@原厂@毒药.jpg)
 
-![JTK 毒药](media/JTK@毒药.jpg)
+### [Yolch 黑金 原厂](https://www.zfrontier.com/app/mch/l4QWnWwQgrzo)
 
-### [Yolch 黑金](https://www.zfrontier.com/app/mch/l4QWnWwQgrzo)
+![JTK 原厂 Yolch 黑金](media/JTK@原厂@Yolch@黑金.jpg)
 
-![JTK Yolch 黑金](media/JTK@Yolch@黑金.jpg)
+### [Cyan 青白 原厂](https://www.zfrontier.com/app/mch/1QZ6OdDq9M5l)
 
-### [Cyan 青白](https://www.zfrontier.com/app/mch/1QZ6OdDq9M5l)
+![JTK 原厂 Cyan 青白](media/JTK@原厂@Cyan@青白.jpg)
 
-![JTK Cyan 青白](media/JTK@Cyan@青白.jpg)
+### [黑粉恶魔 原厂](https://www.zfrontier.com/app/mch/lZqmOkdYr761)
 
-### [黑粉恶魔](https://www.zfrontier.com/app/mch/lZqmOkdYr761)
+![JTK 原厂 黑粉恶魔](media/JTK@原厂@黑粉恶魔_1.jpg)
 
-![JTK 黑粉恶魔](media/JTK@黑粉恶魔_1.jpg)
+![JTK 原厂 黑粉恶魔](media/JTK@原厂@黑粉恶魔_2.jpg)
 
-![JTK 黑粉恶魔](media/JTK@黑粉恶魔_2.jpg)
+### [粉白天使 原厂](https://www.zfrontier.com/app/mch/lZqx9EYJeEO1)
 
-### [粉白天使](https://www.zfrontier.com/app/mch/lZqx9EYJeEO1)
+![JTK 原厂 粉白天使](media/JTK@原厂@粉白天使.jpg)
 
-![JTK 粉白天使](media/JTK@粉白天使.jpg)
+### [Raindrop 雨滴 原厂](https://www.zfrontier.com/app/mch/1g7YjMjgRaJ1)
 
-### [Raindrop 雨滴](https://www.zfrontier.com/app/mch/1g7YjMjgRaJ1)
+![JTK 原厂 Raindrop 雨滴](media/JTK@原厂@Raindrop@雨滴.jpg)
 
-![JTK Raindrop 雨滴](media/JTK@Raindrop@雨滴.jpg)
+### [紫白 原厂](https://www.zfrontier.com/app/mch/10aRXrvPRgVl)
 
-### [紫白](https://www.zfrontier.com/app/mch/10aRXrvPRgVl)
+![JTK 原厂 紫白](media/JTK@原厂@紫白.jpg)
 
-![JTK 紫白](media/JTK@紫白.jpg)
+### [黑 原厂](https://www.zfrontier.com/app/mch/ozeRLNXjPXKl)
 
-### [黑](https://www.zfrontier.com/app/mch/ozeRLNXjPXKl)
+![JTK 原厂 黑](media/JTK@原厂@黑.jpg)
 
-![JTK 黑](media/JTK@黑.jpg)
+### [黑白 HSA](https://www.zfrontier.com/app/mch/1g7d96RdRp21)
 
-### [黑白](https://www.zfrontier.com/app/mch/1g7d96RdRp21)
+![JTK HSA 黑白](media/JTK@HSA@黑白.jpg)
 
-![JTK 黑白](media/JTK@黑白.jpg)
+### [奶白巧克力 HSA](https://www.zfrontier.com/app/mch/lDxYP0NkRrEl)
 
-### [奶白巧克力](https://www.zfrontier.com/app/mch/lDxYP0NkRrEl)
-
-![JTK 奶白巧克力](media/JTK@奶白巧克力.jpg)
+![JTK HSA 奶白巧克力](media/JTK@HSA@奶白巧克力.jpg)
 
 ## MelGeek
 
-### ~[Dawn 破晓](https://www.zfrontier.com/app/flow/28pQZLm8KElg)
+### ~[Dawn 破晓 MG](https://www.zfrontier.com/app/flow/28pQZLm8KElg)
 
-![MELGEEK Dawn 破晓](media/MELGEEK@Dawn@破晓MG.jpg)
+![MELGEEK MG Dawn 破晓](media/MELGEEK@MG@Dawn@破晓.jpg)
 
-### ~[Aurora 极夜](https://www.zfrontier.com/app/flow/28pQZLm8KElg)
+### ~[Aurora 极夜 MG](https://www.zfrontier.com/app/flow/28pQZLm8KElg)
 
-![MELGEEK Aurora 极夜](media/MELGEEK@Aurora@极夜.jpg)
+![MELGEEK MG Aurora 极夜](media/MELGEEK@MG@Aurora@极夜.jpg)
 
-### [Dusk 黄昏](https://www.zfrontier.com/app/flow/28pQZLm8KElg)
+### [Dusk 黄昏 MG](https://www.zfrontier.com/app/flow/28pQZLm8KElg)
 
-![MELGEEK Dusk 黄昏](media/MELGEEK@Dusk@黄昏.jpg)
+![MELGEEK MG Dusk 黄昏](media/MELGEEK@MG@Dusk@黄昏.jpg)
 
-### ~[Monster 憨憨怪兽](https://www.zfrontier.com/app/flow/2Wlvoo13Ewa5)
+### ~[Monster 憨憨怪兽 MG](https://www.zfrontier.com/app/flow/2Wlvoo13Ewa5)
 
-![MELGEEK Monster 憨憨怪兽](media/MELGEEK@Monster@憨憨怪兽.jpg)
+![MELGEEK MG Monster 憨憨怪兽](media/MELGEEK@MG@Monster@憨憨怪兽.jpg)
 
-### [Master 尤达](https://www.zfrontier.com/app/flow/2RQ9WdNd8Lmb)
+### [Master 尤达 MG](https://www.zfrontier.com/app/flow/2RQ9WdNd8Lmb)
 
-![MELGEEK Master 尤达](media/MELGEEK@Master@尤达.jpg)
+![MELGEEK MG Master 尤达](media/MELGEEK@MG@Master@尤达.jpg)
 
-### ~[Wahtsy 袜子](https://www.zfrontier.com/app/flow/2kkVjQEELbyP)
+### ~[Wahtsy 袜子 MG](https://www.zfrontier.com/app/flow/2kkVjQEELbyP)
 
-![MELGEEK Wahtsy 袜子](media/MELGEEK@Wahtsy@袜子.jpg)
+![MELGEEK MG Wahtsy 袜子](media/MELGEEK@MG@Wahtsy@袜子.jpg)
 
-### ~[Christian](https://www.zfrontier.com/app/flow/2OXb50368xk3)
+### ~[Christian MG](https://www.zfrontier.com/app/flow/2OXb50368xk3)
 
-![MELGEEK Christian](media/MELGEEK@Christian.jpg)
+![MELGEEK MG Christian](media/MELGEEK@MG@Christian.jpg)
 
-### [Moss 流浪地球](https://www.zfrontier.com/app/flow/epZzjpWPEYGR)
+### [Moss 流浪地球 MG](https://www.zfrontier.com/app/flow/epZzjpWPEYGR)
 
-![MELGEEK Moss 流浪地球](media/MELGEEK@Moss@流浪地球.jpg)
+![MELGEEK MG Moss 流浪地球](media/MELGEEK@MG@Moss@流浪地球.jpg)
 
-### [Dawn 破晓](https://www.zfrontier.com/app/flow/eVlK9Ym5PYbo)
+### [Dawn 破晓 MDA](https://www.zfrontier.com/app/flow/eVlK9Ym5PYbo)
 
-![MELGEEK Dawn 破晓MDA](media/MELGEEK@Dawn@破晓MDA.jpg)
+![MELGEEK MDA Dawn 破晓MDA](media/MELGEEK@MDA@Dawn@破晓.jpg)
 
-### [Vision 启示](https://www.zfrontier.com/app/flow/DzdBkbyWZJMv)
+### [Vision 启示 MDA](https://www.zfrontier.com/app/flow/DzdBkbyWZJMv)
 
-![MELGEEK Vision 启示](media/MELGEEK@Vision@启示.jpg)
+![MELGEEK MDA Vision 启示](media/MELGEEK@MDA@Vision@启示.jpg)
 
-### [Plastic 塑料](https://www.zfrontier.com/app/flow/2RQZag50L197)
+### [Plastic 塑料 MDA](https://www.zfrontier.com/app/flow/2RQZag50L197)
 
-![MELGEEK Plastic 塑料](media/MELGEEK@Plastic@塑料.jpg)
+![MELGEEK MDA Plastic 塑料](media/MELGEEK@MDA@Plastic@塑料.jpg)
 
-### [BigBone 大骨](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-17768349361.14.6e8a3c8av7A3af&id=581259039862)
+### [BigBone 大骨 MDA](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-17768349361.14.6e8a3c8av7A3af&id=581259039862)
 
-![MELGEEK BigBone 大骨](media/MELGEEK@BigBone@大骨.jpg)
+![MELGEEK MDA BigBone 大骨](media/MELGEEK@MDA@BigBone@大骨.jpg)
 
-### [Nihon 霓虹](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-17768349361.18.6e8a3c8av7A3af&id=602759736588)
+### [Nihon 霓虹 MDA](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-17768349361.18.6e8a3c8av7A3af&id=602759736588)
 
-![MELGEEK Nihon 霓虹](./media/MELGEEK@Nihon@霓虹.jpg)
+![MELGEEK MDA Nihon 霓虹](./media/MELGEEK@MDA@Nihon@霓虹.jpg)
 
 ## EPBT
 
-### ~[RamenStop](https://geekhack.org/index.php?topic=108594.0)
+### ~[RamenStop 原厂](https://geekhack.org/index.php?topic=108594.0)
 
-![EPBT RamenStop](media/EPBT@RamenStop_1.jpg)
+![EPBT 原厂 RamenStop](media/EPBT@原厂@RamenStop_1.jpg)
 
-![EPBT RamenStop](media/EPBT@RamenStop_2.jpg)
+![EPBT 原厂 RamenStop](media/EPBT@原厂@RamenStop_2.jpg)
 
-![EPBT RamenStop](media/EPBT@RamenStop_3.jpg)
+![EPBT 原厂 RamenStop](media/EPBT@原厂@RamenStop_3.jpg)
 
-### ~[KON MOMO 紺桃 黛粉](https://geekhack.org/index.php?topic=107280.0)
+### ~[KON MOMO 紺桃 黛粉 原厂](https://geekhack.org/index.php?topic=107280.0)
 
-![EPBT KON MOMO 紺桃 黛粉](media/EPBT@KON_MOMO@紺桃_黛粉.jpg)
+![EPBT 原厂 KON MOMO 紺桃 黛粉](media/EPBT@原厂@KON_MOMO@紺桃_黛粉.jpg)
 
-### ~[Ivory](https://geekhack.org/index.php?topic=106722)
+### ~[Ivory 原厂](https://geekhack.org/index.php?topic=106722)
 
-![EPBT Ivory](media/EPBT@Ivory.jpg)
+![EPBT 原厂 Ivory](media/EPBT@原厂@Ivory.jpg)
 
-### ~[Extended 2048](https://geekhack.org/index.php?topic=99696.0)
+### ~[Extended 2048 原厂](https://geekhack.org/index.php?topic=99696.0)
 
-![EPBT Extended 2048](media/EPBT@Extended_2048.jpg)
+![EPBT 原厂 Extended 2048](media/EPBT@原厂@Extended_2048.jpg)
 
-### ~[SAMURAI 黑武士](https://kbdfans.com/collections/keycaps/products/samurai)
+### ~[SAMURAI 黑武士 原厂](https://kbdfans.com/collections/keycaps/products/samurai)
 
-![EPBT SAMURAI 黑武士](media/EPBT@SAMURAI@黑武士.jpg)
+![EPBT 原厂 SAMURAI 黑武士](media/EPBT@原厂@SAMURAI@黑武士.jpg)
 
-### ~[Heavy Industry 重工业](https://rama.works/pbt-heavy-industry)
+### ~[Heavy Industry 重工业 原厂](https://rama.works/pbt-heavy-industry)
 
-![EPBT Heavy Industry 重工业](media/EPBT@Heavy_Industry@重工业.jpg)
+![EPBT 原厂 Heavy Industry 重工业](media/EPBT@原厂@Heavy_Industry@重工业.jpg)
 
-### ~[Kuro/Shiro 黑/白](https://kbdfans.com/collections/enjoypbt-keycaps/products/kuro-shiro-r2)
+### ~[Kuro/Shiro 黑/白 原厂](https://kbdfans.com/collections/enjoypbt-keycaps/products/kuro-shiro-r2)
 
-![EPBT Kuro/Shiro 黑/白](media/EPBT@Kuro_Shiro.jpg)
+![EPBT 原厂 Kuro/Shiro 黑/白](media/EPBT@原厂@Kuro_Shiro.jpg)
 
-### [Be the one](https://kbdfans.store/products/Betheone/)
+### [Be the one 原厂](https://kbdfans.store/products/Betheone/)
 
-![EPBT Be the one](media/EPBT@Be_the_one.jpg)
+![EPBT 原厂 Be the one](media/EPBT@原厂@Be_the_one.jpg)
 
-### [WRAITH DARK](https://kbdfans.store/products/DP1463/)
+### [WRAITH DARK 原厂](https://kbdfans.store/products/DP1463/)
 
-![EPBT WRAITH DARK](media/EPBT@WRAITH_DARK.jpg)
+![EPBT 原厂 WRAITH DARK](media/EPBT@原厂@WRAITH_DARK.jpg)
 
-### [SOJU](https://geekhack.org/index.php?topic=108887.0)
+### [SOJU 原厂](https://geekhack.org/index.php?topic=108887.0)
 
-![EPBT SOJU](media/EPBT@SOJU_1.jpg)
+![EPBT 原厂 SOJU](media/EPBT@原厂@SOJU_1.jpg)
 
-![EPBT SOJU](media/EPBT@SOJU_2.jpg)
+![EPBT 原厂 SOJU](media/EPBT@原厂@SOJU_2.jpg)
 
-![EPBT SOJU](./media/EPBT@SOJU_3.jpg)
+![EPBT 原厂 SOJU](./media/EPBT@原厂@SOJU_3.jpg)
 
-### [G81-SAV](https://geekhack.org/index.php?topic=102124.msg2805629)
+### [G81-SAV 原厂](https://geekhack.org/index.php?topic=102124.msg2805629)
 
-![EPBT G81-SAV](media/EPBT@G81_SAV.jpg)
+![EPBT 原厂 G81-SAV](media/EPBT@原厂@G81_SAV.jpg)
 
-### ~[9009](https://kbdfans.store/products/C0015/)
+### ~[9009 原厂](https://kbdfans.store/products/C0015/)
 
-![EPBT 9009](media/EPBT@9009.jpg)
+![EPBT 原厂 9009](media/EPBT@原厂@9009.jpg)
 
-### ~[PS for win](https://kbdfans.store/products/JM000565/)
+### ~[PS for win 原厂](https://kbdfans.store/products/JM000565/)
 
-![EPBT PS for win](media/EPBT@PS_for_win.jpg)
+![EPBT 原厂 PS for win](media/EPBT@原厂@PS_for_win.jpg)
 
-### ~[SKADI](https://geekhack.org/index.php?topic=109034.msg2978641)
+### ~[SKADI 原厂](https://geekhack.org/index.php?topic=109034.msg2978641)
 
-![EPBT SKADI](media/EPBT@SKADI.jpg)
+![EPBT 原厂 SKADI](media/EPBT@原厂@SKADI.jpg)
 
-### [Royal Alpha 皇家打印机](https://kbdfans.com/collections/keycaps/products/epbt-x-donutcat-royal-alpha-keycaps-set)
+### [Royal Alpha 皇家打印机 原厂](https://kbdfans.com/collections/keycaps/products/epbt-x-donutcat-royal-alpha-keycaps-set)
 
-![EPBT Royal Alpha 皇家打印机](media/EPBT@Royal_Alpha@皇家打印机.jpg)
+![EPBT 原厂 Royal Alpha 皇家打印机](media/EPBT@原厂@Royal_Alpha@皇家打印机.jpg)
 
-### [Cool Kids](https://geekhack.org/index.php?topic=106670)
+### [Cool Kids 原厂](https://geekhack.org/index.php?topic=106670)
 
-![EPBT Cool Kids](media/EPBT@Cool_Kids.jpg)
+![EPBT 原厂 Cool Kids](media/EPBT@原厂@Cool_Kids.jpg)
 
-### [SIMPLEJA](https://kbdfans.com/collections/keycaps/products/gb-enjoypbt-x-ai03-simpleja-pbt-keycaps-set)
+### [SIMPLEJA 原厂](https://kbdfans.com/collections/keycaps/products/gb-enjoypbt-x-ai03-simpleja-pbt-keycaps-set)
 
-![EPBT SIMPLEJA](media/EPBT@SIMPLEJA.jpg)
+![EPBT 原厂 SIMPLEJA](media/EPBT@原厂@SIMPLEJA.jpg)
 
-### [红俄文](https://kbdfans.store/products/C0006/)
+### [红俄文 原厂](https://kbdfans.store/products/C0006/)
 
-![EPBT 红俄文](media/EPBT@红俄文.jpg)
+![EPBT 原厂 红俄文](media/EPBT@原厂@红俄文.jpg)
 
-### [橙俄文](https://kbdfans.store/products/C0008/)
+### [橙俄文 原厂](https://kbdfans.store/products/C0008/)
 
-![EPBT 橙俄文](media/EPBT@橙俄文.jpg)
+![EPBT 原厂 橙俄文](media/EPBT@原厂@橙俄文.jpg)
 
-### [水绿](https://kbdfans.com/collections/keycaps/products/enjoypbt-abs-doubleshot-mechanical-keyboard-keycaps-set-3)
+### [水绿 原厂](https://kbdfans.com/collections/keycaps/products/enjoypbt-abs-doubleshot-mechanical-keyboard-keycaps-set-3)
 
-![EPBT 水绿](./media/Wec6nb.jpg)
+![EPBT 原厂 水绿](./media/EPBT@原厂@水绿.jpg)
 
 ## KAT
 
@@ -2083,155 +2082,154 @@ QQ：448182355
 
 ### 牛年新春 OSA？
 
-![AKKO OSA 牛年新春](media/AKKO_OSA_牛年新春.jpg)
+![AKKO OSA 牛年新春](media/AKKO@OSA@牛年新春.jpg)
 
 ### 琉璃鹦 OEM
 
-![AKKO OEM 琉璃鹦](media/AKKO_OEM_琉璃鹦.jpg)
+![AKKO OEM 琉璃鹦](media/AKKO@OEM@琉璃鹦.jpg)
 
 ### 霓虹 OEM
 
-![AKKO OEM 霓虹](media/AKKO_OEM_霓虹.jpg)
+![AKKO OEM 霓虹](media/AKKO@OEM@霓虹.jpg)
 
 ### 大碳 ASA
 
-![AKKO ASA 大碳](media/AKKO_ASA_大碳.jpg)
+![AKKO ASA 大碳](media/AKKO@ASA@大碳.jpg)
 
 ### @TODO 还缺一个红豆抹茶的图
 
 ### 琉璃鹦 OSA
 
-![AKKO OSA 琉璃鹦](media/AKKO_OSA_琉璃鹦.jpg)
+![AKKO OSA 琉璃鹦](media/AKKO@OSA@琉璃鹦.jpg)
 
 ### @TODO 还需要补充3个OSA的图
 
 
 ### 9009 OEM
 
-![AKKO OEM 9009](media/AKKO_OEM_9009.jpg)
+![AKKO OEM 9009](media/AKKO@OEM@9009.jpg)
 
 ### 蒸汽机 OEM
 
-![AKKO OEM 蒸汽机](media/AKKO_OEM_蒸汽机.jpg)
+![AKKO OEM 蒸汽机](media/AKKO@OEM@蒸汽机.jpg)
 
 ### 红豆抹茶 OEM
 
-![AKKO OEM 红豆抹茶](media/AKKO_OEM_红豆抹茶.jpg)
+![AKKO OEM 红豆抹茶](media/AKKO@OEM@红豆抹茶.jpg)
 
 ### 天空之境 OEM
 
-![AKKO OEM 天空之境](media/AKKO_OEM_天空之境.jpg)
+![AKKO OEM 天空之境](media/AKKO@OEM@天空之境.jpg)
 
 ### 海洋之星 OEM
 
-![AKKO OEM 海洋之星](media/AKKO_OEM_海洋之星.jpg)
+![AKKO OEM 海洋之星](media/AKKO@OEM@海洋之星.jpg)
 
 ### 地平线 OEM
 
-![AKKO OEM 地平线](media/AKKO_OEM_地平线.jpg)
+![AKKO OEM 地平线](media/AKKO@OEM@地平线.jpg)
 
 ### 静谧 OEM
 
-![AKKO OEM 静谧](media/AKKO_OEM_静谧.jpg)
+![AKKO OEM 静谧](media/AKKO@OEM@静谧.jpg)
 
 ### 午夜 OEM
 
-![AKKO OEM 午夜](media/AKKO_OEM_午夜.jpg)
+![AKKO OEM 午夜](media/AKKO@OEM@午夜.jpg)
 
 ### 金砂灰 OEM
 
-![AKKO OEM 金砂灰](media/AKKO_OEM_金砂灰.jpg)
+![AKKO OEM 金砂灰](media/AKKO@OEM@金砂灰.jpg)
 
 ### 玫瑰红 OEM
 
-![AKKO OEM 玫瑰红](media/AKKO_OEM_玫瑰红.jpg)
+![AKKO OEM 玫瑰红](media/AKKO@OEM@玫瑰红.jpg)
 
 ### 清新白 OEM
 
-![AKKO OEM 清新白](media/AKKO_OEM_清新白.jpg)
+![AKKO OEM 清新白](media/AKKO@OEM@清新白.jpg)
 
 ### 金沙灰 OEM
 
-![AKKO OEM 金沙灰](media/AKKO_OEM_金沙灰.jpg)
+![AKKO OEM 金沙灰](media/AKKO@OEM@金沙灰.jpg)
 
 ### 樱花粉 OEM
 
-![AKKO OEM 樱花粉](media/AKKO_OEM_樱花粉.jpg)
+![AKKO OEM 樱花粉](media/AKKO@OEM@樱花粉.jpg)
 
 ### 香芋紫 OEM
 
-![AKKO OEM 香芋紫](media/AKKO_OEM_香芋紫.jpg)
+![AKKO OEM 香芋紫](media/AKKO@OEM@香芋紫.jpg)
 
 ### 薄荷绿 OEM
 
-![AKKO OEM 薄荷绿](media/AKKO_OEM_薄荷绿.jpg)
+![AKKO OEM 薄荷绿](media/AKKO@OEM@薄荷绿.jpg)
 
 
 ### 哔哩哔哩 OEM
 
-![AKKO OEM 哔哩哔哩](media/AKKO_OEM_哔哩哔哩.jpg)
+![AKKO OEM 哔哩哔哩](media/AKKO@OEM@哔哩哔哩.jpg)
 
-### [美少女战士]()
+### 美少女战士
 
-![](media/16127682269222.jpg)
+![AKKO OEM 美少女战士Crystal](media/AKKO@OEM@美少女战士Crystal.jpg)
 
-
-![](media/16127682625475.jpg)
-
+![AKKO@OEM@美少女战士](media/AKKO@OEM@美少女战士.jpg)
 
 ### 富士山樱花 OEM
 
-![AKKO_OEM_富士山樱花](media/AKKO_OEM_富士山樱花.jpg)
+![AKKO OEM 富士山樱花](media/AKKO@OEM@富士山樱花.jpg)
 
 ### 孙悟空 OEM
 
-![AKKO OEM 孙悟空](media/AKKO_OEM_孙悟空.jpg)
+![AKKO OEM 孙悟空](media/AKKO@OEM@孙悟空.jpg)
 
 ### 贝吉塔 OEM
 
-![AKKO OEM 贝吉塔](media/AKKO_OEM_贝吉塔.jpg)
+![AKKO OEM 贝吉塔](media/AKKO@OEM@贝吉塔.jpg)
 
 ### 弗利萨 OEM
 
-![AKKO OEM 弗利萨](media/AKKO_OEM_弗利萨.jpg)
+![AKKO OEM 弗利萨](media/AKKO@OEM@弗利萨.jpg)
 
 ### 乔巴 OEM
 
-![AKKO OEM 乔巴](media/AKKO_OEM_乔巴.jpg)
+![AKKO OEM 乔巴](media/AKKO@OEM@乔巴.jpg)
 
 ### 路飞 OEM
 
-![AKKO OEM 路飞](media/AKKO_OEM_路飞.jpg)
+![AKKO OEM 路飞](media/AKKO@OEM@路飞.jpg)
 
 ### 哪吒
 
-![哪吒](media/16127593265132.jpg)
+![AKKO OEM 哪吒](media/AKKO@OEM@哪吒.jpg)
+
 ### 佐助 OEM
 
-![AKKO OEM 佐助](media/AKKO_OEM_佐助.jpg)
+![AKKO OEM 佐助](media/AKKO@OEM@佐助.jpg)
 
 ### 鸣人 OEM
 
-![AKKO OEM 鸣人](media/AKKO_OEM_鸣人.jpg)
+![AKKO OEM 鸣人](media/AKKO@OEM@鸣人.jpg)
 
 ### Hello Kitty OEM
 
-![AKKO OEM Hello Kitty](media/AKKO_OEM_Hello_Kitty.jpg)
+![AKKO OEM Hello Kitty](media/AKKO@OEM@Hello_Kitty.jpg)
 
 ### 北京故宫 OEM?
 
-![AKKO OEM 北京故宫](media/AKKO_OEM_北京故宫.jpg)
+![AKKO OEM 北京故宫](media/AKKO@OEM@北京故宫.jpg)
 
 ### 莫奈之池 OEM
 
-![AKKO OEM 莫奈之池](media/AKKO_OEM_莫奈之池.jpg)
+![AKKO OEM 莫奈之池](media/AKKO@OEM@莫奈之池.jpg)
 
 ### 吉庆有余 锦鲤 OEM
 
-![AKKO OEM 吉庆有余 锦鲤](media/AKKO_OEM_吉庆有余_锦鲤.jpg)
+![AKKO OEM 吉庆有余 锦鲤](media/AKKO@OEM@吉庆有余_锦鲤.jpg)
 
 ### 东京R2 OEM
 
-![AKKO OEM 东京R2](media/AKKO_OEM_东京R2.jpg)
+![AKKO OEM 东京R2](media/AKKO@OEM@东京R2.jpg)
 
 
