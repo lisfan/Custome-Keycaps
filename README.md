@@ -4,11 +4,12 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新日期：2021-02-22 13:58:42
+更新日期：2021-02-22 16:42:06
 
 更新内容：
 
 2021-02-22
+- 增加正在团购中栏目
 - 增加各键帽的厂商以及高度信息
 - 增加键帽轮次信息
 
@@ -18,15 +19,15 @@
 
 ## 后续更新计划
 
-1. 收录文若
+1. 收录文若，DCS、Infinikey、Kate(Rama)、CannonCaps、DSS、CA(JTK)、MDA、OSA(Winmix)、
 2. 收录个人团长的设计
-2. 收录hammer work
-2. 收录SP DSS 高度
-2. 专门速查正在IC中的列表
-3. 增加色卡分类，通过色卡快速筛选
-4. 增加设计者数据数据
-4. 增加开团时间数据
-5. 轴体数据（寻找找大牛做知识共创，有意请联系：448182355）
+3. 收录hammer work
+4. 收录SP DSS 高度
+5. 专门速查正在IC中的列表
+6. 增加色卡分类，通过色卡快速筛选
+7. 增加设计者数据数据
+8. 增加开团时间数据
+9. 轴体数据（寻找找大牛做知识共创，有意请联系：448182355）
 
 ## 访问地址
 
@@ -44,6 +45,9 @@
 6. [zFrontier - 键圈早报聚合](https://www.zfrontier.com/app/user/3mdxPyXj8k9e)：聚合近期IC&开团等信息
 7. [zFrontier - 情报](https://www.zfrontier.com/app/circle/1#2007)：国内发布客制化相关IC信息
 8. [geekhack - IC](https://geekhack.org/index.php?board=132.0)：国外发布客制化相关IC信息
+9. [键帽交付进度](https://hackmd.io/_Ks8KFJNRNKSl0JvBExaEg#%E9%96%8B%E5%9C%98%E4%B8%AD)：汇总各个供应商的键帽更新进度
+10. [无限号小团购列表](http://www.kbyu.top/)：鱼头专车，一般代购drop上的
+11. [reddit](https://www.reddit.com/r/mechmarket/search?q=flair_name%3A%22Interest%20Check%22&restrict_sr=1&sort=new)
 
 ## 说明
 
@@ -75,39 +79,110 @@ QQ：448182355
 
 ## 快速导航
 
-- [正在开团中](#xxx)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
+- [正在团购中](#正在团购中)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [GMK 系列](#gmk) ：原厂高度
 - [SP 系列](#sp)：SA高度，DSC高度
 - [Matt3o 系列](#matt3o)：MT3高度
-- [JTK 原厂 系列](#jtk)：原厂高度，HSA高度
-- [MELGEEK MG 系列](#melgeek)：MG高度，MDA高度
-- [EPBT 原厂 系列](#epbt)：原厂高度
+- [JTK 系列](#jtk)：原厂高度，HSA高度
+- [MELGEEK 系列](#melgeek)：MG高度，MDA高度
+- [EnjoyPBT 系列](#EnjoyPBT)：原厂高度
 - [Keyreative（键设局） 系列](#keyreative)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](#maxkey)：SA高度
 - [DOMIKEY 系列](#domikey)：SA高度
 - [AKKO 系列（无铭的部分键帽和AKKO进行了合并）](#AKKO)：原厂高度，OEM高度，OSA高度，ASA高度
 
-## 正在开团中
+## 正在团购中
 
-建设中
+### [SP DSS Solarized Dark](https://www.reddit.com/r/mechmarket/comments/l5f813/ic_dss_solarized_dark_comprehensive_40s_keyset/)
 
-Inukuma
-Iceberg https://geekhack.org/index.php?topic=111221.0
-Devoted https://geekhack.org/index.php?topic=110941.0
-Maestro https://geekhack.org/index.php?topic=111106.0
+- 设计师：matthewdias
+- 团购时间：2021.02.15 至 2021.03.14
+- 发货时间：2021.05
+- 购买方式：[aeternus](https://store.aeternus.co/collections/group-buys/products/gb-dss-solarized-dark)
 
+![SP DSS Solarized Dark](media/16139816903712.jpg)
+
+### [MelGeek MG Ghost 幽灵](https://www.zfrontier.com/app/flow/2lWB3dEp8VKd)
+
+- 设计师：York Chan
+- 团购时间：2021.02.20 至 2021.03.10
+- 发货时间：2021.10
+- 购买方式：[MelGeek 淘宝店](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.16c11debNqVEk0&ft=t&id=637732464263)
+
+![MelGeek MG Ghost 幽灵](media/16139797123920.jpg)
+
+![](media/16139796942964.jpg)
+
+### [GMK 原厂 Inukuma 伊努熊](https://geekhack.org/index.php?topic=108300.0)
+
+- 设计师：Influenced
+- 团购时间：2021.02.15 至 2021.03.15
+- 发货时间：2022.02
+- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=637632572170)
+
+![GMK 原厂 Inukuma 伊努熊](media/16139786929504.jpg)
+
+### [Keyreative KAT Slurp](https://geekhack.org/index.php?topic=108069)
+
+- 设计师：Ulliam
+- 团购时间：xxxx.xx.xx 至 xxxx.xx.xx
+- 发货时间：xxxx.xx.xx
+- 购买方式：zFrontier 待上，国外已开团
+
+![Keyreative KAT Slurp](media/16139785938101.jpg)
+
+### [Infinikey 原厂 Doggie](https://keebsforall.com/products/pbt-doggie-keycaps)
+
+- 设计师：Nhils
+- 团购时间：2021.02.01 至 2021.02.28
+- 发货时间：2021.07
+- 购买方式：国内未代理
+
+![Infinikey 原厂 Doggie](media/16139783467743.jpg)
+
+
+### [GMK 原厂 Iceberg 冰山](https://geekhack.org/index.php?topic=111221.0)
+
+- 设计师：Nathan
+- 团购时间：2021.02.15 至 2021.03.15
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/ICEBERG/)
+
+![GMK 原厂 Iceberg 冰山](media/16139788140601.jpg)
+
+### [GMK 原厂 Devoted 献身](https://geekhack.org/index.php?topic=110941.0)
+
+- 设计师：ltszBrian
+- 团购时间：2021.02.12 至 2021.03.12
+- 发货时间：2022.Q1
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 Devoted 献身](media/16139788966446.jpg)
+
+### [GMK 原厂 Maestro 大师](https://geekhack.org/index.php?topic=111106.0)
+
+- 设计：HungHingDaiLo
+- 团购时间：2021.02.12 至 2021.03.12
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/1g8We96kenJl)
+
+![GMK 原厂 Maestro 大师](media/16139788805952.jpg)
 
 ### [GMK 原厂 Umka](https://geekhack.org/index.php?topic=110422.msg2998220)
 
-## GMK
-
-注意：点击每个图片上方的键帽名称均可以快速进入对应的IC或者介绍页
-
-### [GMK 原厂 Umka](https://geekhack.org/index.php?topic=110422.msg2998220)
+- 设计：T0mb3ry
+- 团购时间：2021.02.05 至 2021.03.05
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/BdXpXA0YQb2B)
 
 ![GMK 原厂 Umka](media/GMK@原厂@Umka.jpg)
 
 ### ~[GMK 原厂 Dots 圆点](https://geekhack.org/index.php?topic=110668.0)
+
+- 设计：biip
+- 团购时间：2021.02.05 至 2021.02.26
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/Bd8NKdaXALpB)
 
 ![GMK 原厂 Dots 圆点](media/GMK@原厂@Dots@圆点_1.jpg)
 
@@ -117,33 +192,67 @@ Maestro https://geekhack.org/index.php?topic=111106.0
 
 ### ~[GMK 原厂 Dandy 蒲公英](https://geekhack.org/index.php?topic=106325.0)
 
+- 设计：sourmk
+- 团购时间：2021.02.04 至 2021.03.03
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/oNrgZjmrV6qo)
+
 ![GMK 原厂 Dandy 蒲公英](media/GMK@原厂@Dandy@蒲公英_1.jpg)
 
 ![GMK 原厂 Dandy 蒲公英](media/GMK@原厂@Dandy@蒲公英_2.jpg)
 
 ### ~[GMK 原厂 Tuzi 兔子](https://geekhack.org/index.php?topic=110981.0)
 
+- 设计：SenseiJia
+- 团购时间：2021.02.01-2021.02.28
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/OoNVrLpWW53o)
+
 ![GMK 原厂 Tuzi 兔子](media/GMK@原厂@Tuzi@兔子.jpg)
 
-### [GMK 原厂 Mr.Sleeves R2](https://novelkeys.xyz/collections/group-buys/products/gmk-mr-sleeves-r2-gb)
+### [GMK 原厂 Mr.Sleeves 袖子先生 R2](https://novelkeys.xyz/collections/group-buys/products/gmk-mr-sleeves-r2-gb)
 
-![GMK 原厂 Mr.Sleeves R2](./media/GMK@原厂@Mr_Sleeves.jpg)
+- 设计：Taeha
+- 团购时间：2021.02.01-2021.02.26
+- 发货时间：2022.Q2
+- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=637950918706)
+
+![GMK 原厂 Mr.Sleeves 袖子先生 R2](media/16139828589879.jpg)
 
 ### ~[GMK 原厂 Birch 桦木](https://geekhack.org/index.php?topic=107246.0)
 
+- 设计：break
+- 团购时间：2021.02.01-2021.02.28
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/ozRA2bX7gq8o)
+
 ![GMKBirch 桦木](media/GMK@原厂@Birch@桦木.jpg)
 
-### [GMK 原厂 Gateway](https://geekhack.org/index.php?topic=110075)
+### [GMK 原厂 Gateway 传送门](https://geekhack.org/index.php?topic=110075)
 
-![GMK 原厂 Gateway](./media/GMK@原厂@Gateway.jpg)
+- 设计：SMOKEY
+- 团购时间：2021.02.01-2021.02.28
+- 发货时间：2022.01
+- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23041973287.17.25383f55qi6iZp&id=637616785870)
+
+![GMK 原厂 Gateway传送门](./media/GMK@原厂@Gateway@传送门.jpg)
 
 ### [GMK 原厂 Civilizations 文明](https://geekhack.org/index.php?topic=108877.0)
 
+- 设计师：twgecko02
+- 团购时间：2021.01.23-2021.02.24
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/oNLOePrnmd81)
+
 ![GMK 原厂 Civilizations 文明](media/GMK@原厂@Civilizations@文明.jpg)
 
-### [GMK 原厂 Matcha Mocha](https://geekhack.org/index.php?topic=110726)
+## GMK
 
-![GMK 原厂 Matcha Mocha](media/GMK@原厂@Matcha_Mocha.jpg)
+注意：点击每个图片上方的键帽名称均可以快速进入对应的IC或者介绍页
+
+### [GMK 原厂 Matcha Mocha 抹茶摩卡](https://geekhack.org/index.php?topic=110726)
+
+![GMK 原厂 Matcha Mocha 抹茶摩卡](media/GMK@原厂@Matcha_Mocha@抹茶摩卡.jpg)
 
 ### [GMK 原厂 Muted 缄默 R2](https://geekhack.org/index.php?topic=110686.0)
 
@@ -1466,6 +1575,8 @@ Maestro https://geekhack.org/index.php?topic=111106.0
 
 ![Matt3o MT3 /DEV/TTY](media/Matt3o@MT3@DEV_TTY.jpg)
 
+![Matt3o MT3 /DEV/TTY](media/16139770113677.jpg)
+
 ### ~[Matt3o MT3 JUKEBOX](https://drop.com/buy/drop-mt3-jukebox-keycap-set)
 
 ![Matt3o MT3 JUKEBOX](media/Matt3o@MT3@JUKEBOX.jpg)
@@ -1632,7 +1743,7 @@ Maestro https://geekhack.org/index.php?topic=111106.0
 
 ![MelGeek MDA Nihon 霓虹](./media/MELGEEK@MDA@Nihon@霓虹.jpg)
 
-## EPBT
+## EnjoyPBT
 
 ### ~[EPBT 原厂 RamenStop](https://geekhack.org/index.php?topic=108594.0)
 
