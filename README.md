@@ -35,7 +35,7 @@
 2. [[Custom Keycaps Quick Look]](https://lisfan.gitbook.io/custom-keycaps-quick-look/#shuo-min)：国外访问，右侧还有目录可供浏览
 3. [[Custom Keycaps Quick Look]](https://github.com/lisfan/Custome-Keycaps#%E8%AF%B4%E6%98%8E)：(备用)国外访问，无目录
 
-## 建议新手参考的信息来源
+## 建议新人入坑参考以下信息源
 
 1. 本站：后续会不断的迭代，加入更多的功能
 2. [Keycaps Info](https://matrixzj.github.io/) ：收录了gmk、sp品牌键帽信息
@@ -57,6 +57,14 @@
 4. 部分图片来源于网络，若侵权请联系删除
 5. 还是人为的过滤掉了1%不喜欢的以及不好看的，我连收集的心思也没
 6. 扩大了键帽设计的选择范围，不再局限为纯客制化键帽，一些键帽主题设计好的量产品牌也会做收录
+
+## 打字网站
+
+- https://monkeytype.com/
+- https://typings.gg/
+- https://typetest.io/
+- https://barneyzhao.gitee.io/typing-cn/#/monkey
+- https://typing.works/
 
 ## 小banner广告位招租（不收费）
 
@@ -429,6 +437,12 @@ QQ：448182355
 ### ~[GMK 原厂 Posh 粉蓝](https://geekhack.org/index.php?topic=104603.0)
 
 ![GMK 原厂 Posh 粉蓝](media/GMK@原厂@Posh@粉蓝.jpg)
+
+### ~[GMK 原厂 βeta](https://geekhack.org/index.php?topic=108290.0)
+
+![GMK 原厂 βeta](media/GMK@原厂@βeta_1.jpg)
+
+![GMK 原厂 βeta](media/GMK@原厂@βeta_2.jpg)
 
 ### ~[GMK 原厂 Shoko 硝子 R2](https://geekhack.org/index.php?topic=108028.0)
 
@@ -888,7 +902,8 @@ QQ：448182355
 
 ### [GMK 原厂 Denim 丹宁](https://www.originativeco.com/products/denim)
 
-![GMK 原厂 Denim 丹宁](./media/YruGPM.jpg)
+![GMK 原厂 Denim 丹宁](media/16139838855516.jpg)
+
 
 ### [GMK 原厂 Oblivion 码农 R2](https://drop.com/buy/drop-oblotzky-gmk-oblivion-v2-custom-keycap-set)
 
@@ -2343,3 +2358,13 @@ QQ：448182355
 ### AKKO OEM 东京R2
 
 ![AKKO OEM 东京R2](media/AKKO@OEM@东京R2.jpg)
+
+
+## 待整理数据
+
+【开团】SP DSA Pastel Toys 蜡笔玩具
+【开团】 SP DSA Vilebloom
+【开团】SP DSS Shale 页岩
+【开团】SP DSA Paperwork 文档
+【开团】SP DSS Neon Nights 霓虹之夜
+【开团】SP DCS Sleeper 睡眠者
