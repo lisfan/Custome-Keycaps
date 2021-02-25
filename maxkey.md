@@ -25,7 +25,7 @@
 - [Keyreative（键设局） 系列](./keyreative.md)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
-- [AKKO 系列（无铭的部分键帽和AKKO进行了合并）](./akko.md)：原厂高度，OEM高度，OSA高度，ASA高度
+- [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
 
 ## 键帽列表
 
