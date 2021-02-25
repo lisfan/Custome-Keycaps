@@ -1,0 +1,113 @@
+# 客制化键帽速查表 DOMIKEY 篇
+
+> 动动手，点一下**右上角**的Star🤝
+
+如有遗漏，请联系QQ：448182355
+
+更新日期：2021-02-25 13:02:00
+
+更新内容：
+
+2021-02-25
+- 拆分到单个文档管理
+
+## 快速导航
+
+- [根目录](./README.md)：**建议第一次先看这个**，本客制化键帽速查表的总目录页
+- [团购中](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
+- [IC中](./ic.md)：正在IC中的客制化键帽信息
+- [GMK 系列](./gmk.md) ：原厂高度
+- [SP 系列](./sp.md)：SA高度，DSC高度
+- [Matt3o 系列](./matt3o.md)：MT3高度
+- [JTK 系列](./jtk.md)：原厂高度，HSA高度
+- [MELGEEK 系列](./melgeek.md)：MG高度，MDA高度
+- [EnjoyPBT 系列](./enjoypbt.md)：原厂高度
+- [Keyreative（键设局） 系列](./keyreative.md)：KAT高度，KAM高度，原厂高度
+- [MAXKEY 系列](./maxkey.md)：SA高度
+- [DOMIKEY 系列](./domikey.md)：SA高度
+- [AKKO 系列（无铭的部分键帽和AKKO进行了合并）](./akko.md)：原厂高度，OEM高度，OSA高度，ASA高度
+
+
+注意：点击每个图片上方的键帽名称均可以快速进入对应的IC或者介绍页
+
+### [DOMIKEY SA EVA 零号机](https://www.zfrontier.com/app/flow/40K0Kx8o7j96)
+
+![DOMIKEY SA EVA 零号机](media/16126749459130.jpg)
+
+### [DOMIKEY SA 小变态 Villanella](https://www.zfrontier.com/app/flow/eBVMJE1RJdYl)
+
+![DOMIKEY SA 小变态 Villanella](media/16126757028481.jpg)
+
+### [DOMIKEY SA 沙鲁 Cell](https://www.zfrontier.com/app/flow/2Qm18YBlaZZZ)
+
+![DOMIKEY SA 沙鲁 Cell](media/16126757541230.jpg)
+
+### [DOMIKEY SA 莫比乌斯 Mobius](https://www.zfrontier.com/app/flow/2gkvrkBVvkzy)
+
+![DOMIKEY SA 莫比乌斯 Mobius](media/16126752775202.jpg)
+
+### DOMIKEY SA 赛博朋克
+
+![DOMIKEY SA 赛博朋克](media/16126751847154.jpg)
+
+### DOMIKEY SA 复古涂鸦套
+
+![DOMIKEY SA 复古涂鸦套](media/16126750370706.jpg)
+
+### DOMIKEY SA Western World 西部世界
+
+![DOMIKEY SA Western World 西部世界](media/16126760438859.jpg)
+
+### DOMIKEY SA 灰白
+
+![DOMIKEY SA 灰白](media/16126753751704.jpg)
+
+### DOMIKEY SA Polar Light 极光
+
+![DOMIKEY SA Polar Light 极光](media/16126760943296.jpg)
+
+### DOMIKEY SA 蓝波
+
+![DOMIKEY SA 蓝波](media/16126700567395.jpg)
+
+### DOMIKEY SA 亚特斯蒂兰
+
+![DOMIKEY SA 亚特斯蒂兰](media/16126700694795.jpg)
+
+### DOMIKEY SA 瓦斯弹
+
+![DOMIKEY SA 瓦斯弹](media/16126760608955.jpg)
+
+### DOMIKEY SA 昭和
+
+![DOMIKEY SA 昭和](media/16126703142513.jpg)
+
+### DOMIKEY SA 海豹突击队
+
+![DOMIKEY SA 海豹突击队](media/16126702679893.jpg)
+
+### DOMIKEY SA 半导体
+
+![DOMIKEY SA 半导体](media/16126772161264.jpg)
+
+![DOMIKEY SA 半导体](media/16126703571904.jpg)
+
+### DOMIKEY SA 危机
+
+![DOMIKEY SA 危机](media/16126746861507.jpg)
+
+### DOMIKEY SA Dolch
+
+![DOMIKEY SA Dolch](media/16126702805779.jpg)
+
+### DOMIKEY SA Dolch 橙 极客
+
+![DOMIKEY SA Dolch 橙 极客](media/16126700438690.jpg)
+
+### DOMIKEY SA 黑二色
+
+![DOMIKEY SA 黑二色](media/16126702920196.jpg)
+
+### DOMIKEY SA 黑同刻
+
+![DOMIKEY SA 黑同刻](media/16126702978897.jpg)
