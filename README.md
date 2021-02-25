@@ -4,18 +4,13 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新日期：2021-02-22 16:42:06
+更新日期：2021-02-25 10:02:09
 
 更新内容：
 
-2021-02-22
-- 增加正在团购中栏目
-- 增加各键帽的厂商以及高度信息
-- 增加键帽轮次信息
-
-2021-02-19
-- 增加MELGEEK & MITO & JTK & EPBT 品牌的键帽高度标注
-- 替换 MELGEEK & MITO & JTK & EPBT 品牌的高清图源
+2021-02-25
+- 增加今日新团：GMK 派大星，EPBTGRAND_TOUR
+- 增加补分键帽高清图源
 
 ## 后续更新计划
 
@@ -27,7 +22,7 @@
 6. 增加色卡分类，通过色卡快速筛选
 7. 增加设计者数据数据
 8. 增加开团时间数据
-9. 轴体数据（寻找找大牛做知识共创，有意请联系：448182355）
+9. 搞一份轴体数据库（寻找大牛做知识共创，有意请联系：448182355）
 
 ## 访问地址
 
@@ -100,6 +95,24 @@ QQ：448182355
 
 ## 正在团购中
 
+### [EPBT 原厂 GRAND TOUR](https://geekhack.org/index.php?topic=108068.0)
+
+- 设计师：fedemito
+- 团购时间：2021.02.25 至 待定
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/TOUR/)
+
+![EPBT 原厂 GRAND TOUR](media/EPBT@原厂@GRAND_TOUR.jpg)
+
+### [GMK 原厂 Star 派大星](https://geekhack.org/index.php?topic=109392.0)
+
+- 设计师：Paputcher
+- 团购时间：2021.02.23 至 2021.03.28
+- 发货时间：2022.02
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 Star 派大星](media/GMK@原厂@Star@派大星.jpg)
+
 ### [SP DSS Solarized Dark](https://www.reddit.com/r/mechmarket/comments/l5f813/ic_dss_solarized_dark_comprehensive_40s_keyset/)
 
 - 设计师：matthewdias
@@ -107,7 +120,7 @@ QQ：448182355
 - 发货时间：2021.05
 - 购买方式：[aeternus](https://store.aeternus.co/collections/group-buys/products/gb-dss-solarized-dark)
 
-![SP DSS Solarized Dark](media/16139816903712.jpg)
+![SP DSS Solarized Dark](media/SP@DSS@Solarized_Dark.jpg)
 
 ### [MelGeek MG Ghost 幽灵](https://www.zfrontier.com/app/flow/2lWB3dEp8VKd)
 
@@ -116,18 +129,18 @@ QQ：448182355
 - 发货时间：2021.10
 - 购买方式：[MelGeek 淘宝店](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.16c11debNqVEk0&ft=t&id=637732464263)
 
-![MelGeek MG Ghost 幽灵](media/16139797123920.jpg)
+![MelGeek MG Ghost 幽灵](media/MelGeek@MG@Ghost@幽灵_1.jpg)
 
-![](media/16139796942964.jpg)
+![MelGeek MG Ghost 幽灵](media/MelGeek@MG@Ghost@幽灵_2.jpg)
 
-### [GMK 原厂 Inukuma 伊努熊](https://geekhack.org/index.php?topic=108300.0)
+### [~GMK 原厂 Inukuma 伊努熊](https://geekhack.org/index.php?topic=108300.0)
 
 - 设计师：Influenced
 - 团购时间：2021.02.15 至 2021.03.15
 - 发货时间：2022.02
 - 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=637632572170)
 
-![GMK 原厂 Inukuma 伊努熊](media/16139786929504.jpg)
+![GMK 原厂 Inukuma 伊努熊](media/GMK@原厂@Inukuma@伊努熊.jpg)
 
 ### [Keyreative KAT Slurp](https://geekhack.org/index.php?topic=108069)
 
@@ -136,7 +149,7 @@ QQ：448182355
 - 发货时间：xxxx.xx.xx
 - 购买方式：zFrontier 待上，国外已开团
 
-![Keyreative KAT Slurp](media/16139785938101.jpg)
+![Keyreative KAT Slurp](media/Keyreative@KAT@Slurp.jpg)
 
 ### [Infinikey 原厂 Doggie](https://keebsforall.com/products/pbt-doggie-keycaps)
 
@@ -145,17 +158,16 @@ QQ：448182355
 - 发货时间：2021.07
 - 购买方式：国内未代理
 
-![Infinikey 原厂 Doggie](media/16139783467743.jpg)
+![Infinikey 原厂 Doggie](media/Infinikey@原厂@Doggie.jpg)
 
-
-### [GMK 原厂 Iceberg 冰山](https://geekhack.org/index.php?topic=111221.0)
+### [~GMK 原厂 Iceberg 冰山](https://geekhack.org/index.php?topic=111221.0)
 
 - 设计师：Nathan
 - 团购时间：2021.02.15 至 2021.03.15
 - 发货时间：待定
 - 购买方式：[KBDfans](https://kbdfans.store/products/ICEBERG/)
 
-![GMK 原厂 Iceberg 冰山](media/16139788140601.jpg)
+![GMK 原厂 Iceberg 冰山](media/GMK@原厂@Iceberg@冰山.jpg)
 
 ### [GMK 原厂 Devoted 献身](https://geekhack.org/index.php?topic=110941.0)
 
@@ -164,16 +176,16 @@ QQ：448182355
 - 发货时间：2022.Q1
 - 购买方式：[鱼头列车](http://www.kbyu.top/)
 
-![GMK 原厂 Devoted 献身](media/16139788966446.jpg)
+![GMK 原厂 Devoted 献身](media/GMK@原厂@Devoted@献身.jpg)
 
-### [GMK 原厂 Maestro 大师](https://geekhack.org/index.php?topic=111106.0)
+### [~GMK 原厂 Maestro 大师](https://geekhack.org/index.php?topic=111106.0)
 
 - 设计：HungHingDaiLo
 - 团购时间：2021.02.12 至 2021.03.12
 - 发货时间：2022.Q1
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/1g8We96kenJl)
 
-![GMK 原厂 Maestro 大师](media/16139788805952.jpg)
+![GMK 原厂 Maestro 大师](media/GMK@原厂@Maestro@大师.jpg)
 
 ### [GMK 原厂 Umka](https://geekhack.org/index.php?topic=110422.msg2998220)
 
@@ -217,14 +229,14 @@ QQ：448182355
 
 ![GMK 原厂 Tuzi 兔子](media/GMK@原厂@Tuzi@兔子.jpg)
 
-### [~GMK 原厂 Mr.Sleeves 袖子先生 R2](https://novelkeys.xyz/collections/group-buys/products/gmk-mr-sleeves-r2-gb)
+### [~GMK 原厂 Mr.Sleeves 袖子先生 彩色增补 R2](https://novelkeys.xyz/collections/group-buys/products/gmk-mr-sleeves-r2-gb)
 
 - 设计：Taeha
 - 团购时间：2021.02.01-2021.02.26
 - 发货时间：2022.Q2
 - 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=637950918706)
 
-![GMK 原厂 Mr.Sleeves 袖子先生 R2](media/16139828589879.jpg)
+![GMK 原厂 Mr.Sleeves 袖子先生 R2](media/GMK@原厂@Mr_Sleeves@袖子先生.jpg)
 
 ### [GMK 原厂 Birch 桦木](https://geekhack.org/index.php?topic=107246.0)
 
@@ -901,8 +913,7 @@ QQ：448182355
 
 ### [GMK 原厂 Denim 丹宁](https://www.originativeco.com/products/denim)
 
-![GMK 原厂 Denim 丹宁](media/16139838855516.jpg)
-
+![GMK 原厂 Denim 丹宁](media/GMK@原厂@Denim@丹宁.jpg)
 
 ### [GMK 原厂 Oblivion 码农 R2](https://drop.com/buy/drop-oblotzky-gmk-oblivion-v2-custom-keycap-set)
 
@@ -1215,9 +1226,9 @@ QQ：448182355
 
 ### [~SP SA Laser 激光 R2](https://drop.com/buy/drop-mito-sa-laser-custom-keycap-set)
 
-![SP SA Laser 激光 R2](media/16139706062494.jpg)
+![SP SA Laser 激光 R2](media/SP@SA@Laser@激光_1.jpg)
 
-![SP SA Laser 激光 R2](media/16139708298242.jpg)
+![SP SA Laser 激光 R2](media/SP@SA@Laser@激光_2.jpg)
 
 ### [SP SA Recall 回忆](https://geekhack.org/index.php?topic=110207.0)
 
@@ -1245,11 +1256,11 @@ QQ：448182355
 
 ### [SP SA Biso](https://geekhack.org/index.php?topic=109140.0)
 
-![SP SA Biso](media/16128590321872.jpg)
+![SP SA Biso](media/SP@SA@Biso.jpg)
 
 ### [SP SA Carbon 大碳 R3](https://drop.com/buy/carbon)
 
-![SP SA Carbon 大碳 R3](media/16139706201733.jpg)
+![SP SA Carbon 大碳 R3](media/SP@SA@Carbon@大碳.jpg)
 
 ### [SP SA Nightlight](https://geekhack.org/index.php?topic=107592.0)
 
@@ -1269,11 +1280,11 @@ QQ：448182355
 
 ### [SP SA Dual Shot](https://omnitype.com/products/sa-dualshot-keycap-set)
 
-![SP SA Dual Shot](media/16128596625608.jpg)
+![SP SA Dual Shot](media/SP@SA@Dual_Shot.jpg)
 
 ### [SP SA Rocket 火箭](https://thekey.company/products/sa-rocket-keycaps)
 
-![SP SA Rocket 火箭](media/16128597156159.jpg)
+![SP SA Rocket 火箭](media/SP@SA@Rocket@火箭.jpg)
 
 ### [SP SA Skyriter](https://geekhack.org/index.php?topic=107955.msg2984384)
 
@@ -1301,7 +1312,7 @@ QQ：448182355
 
 ### [~SP SA 2600](https://geekhack.org/index.php?topic=105269.0)
 
-![SP SA 2600](media/16128601007662.jpg)
+![SP SA 2600](media/SP@SA@2600.jpg)
 
 ### [SP SA Sail](https://geekhack.org/index.php?topic=104881.0)
 
@@ -1313,7 +1324,7 @@ QQ：448182355
 
 ### [SP SA GodSpeed 神佑 R2](https://drop.com/buy/godspeed-custom-sa-keycap-set)
 
-![SP SA GodSpeed 神佑 R2](media/16139708941248.jpg)
+![SP SA GodSpeed 神佑 R2](media/SP@SA@GodSpeed@神佑.jpg)
 
 ### [~SP SA Sunday Morning 星期天早晨](https://geekhack.org/index.php?topic=103616.0)
 
@@ -1327,13 +1338,13 @@ QQ：448182355
 
 ### [SP SA Yuri 尤里](https://drop.com/buy/drop-t0mb3ry-sa-yuri-custom-keycap-set)
 
-![SP SA Yuri 尤里](media/16139707078966.jpg)
+![SP SA Yuri 尤里](media/SP@SA@Yuri@尤里_1.jpg)
 
-![SP SA Yuri 尤里](media/16139707041146.jpg)
+![SP SA Yuri 尤里](media/SP@SA@Yuri@尤里_2.jpg)
 
 ### [SP SA Royal Navy 皇家海军](http://www.mechsupply.co.uk/product/sa-royal-navy)
 
-![SP SA Royal Navy 皇家海军](media/16128601812861.jpg)
+![SP SA Royal Navy 皇家海军](media/SP@SA@Royal_Navy@皇家海军.jpg)
 
 ### [~SP SA 128K AE](https://www.zfrontier.com/app/flow/eNm1pqb6Vo6X)
 
@@ -1353,7 +1364,7 @@ QQ：448182355
 
 ### [SP SA Hunter Killua 全职猎人](https://drop.com/buy/jack-studio-sa-hunter-keycap-set)
 
-![SP SA Hunter Killua 全职猎人](media/16139706602142.jpg)
+![SP SA Hunter Killua 全职猎人](media/SP@SA@Hunter_Killua@全职猎人.jpg)
 
 ### [SP SA Olivia](https://novelkeys.xyz/products/sa-olivia-gb)
 
@@ -1367,7 +1378,7 @@ QQ：448182355
 
 ### [SP SA Mechanist 机械师](https://www.zfrontier.com/app/mch/l3nWAJXvePp1)
 
-![SP SA Mechanist 机械师](media/16128608140187.jpg)
+![SP SA Mechanist 机械师](media/SP@SA@Mechanist@机械师.jpg)
 
 ### [SP SA Danger Zone 壮志凌云 R2](https://drop.com/buy/danger-zone-sa-keycap-set)
 
@@ -1383,7 +1394,7 @@ QQ：448182355
 
 ### [~SP SA Banana 香蕉](https://www.zfrontier.com/app/flow/4XqAW5bwlx6k)
 
-![SP SA Banana 香蕉](media/16128609564637.jpg)
+![SP SA Banana 香蕉](media/SP@SA@Banana@香蕉.jpg)
 
 ### SP SA Bee 蜜蜂
 
@@ -1409,11 +1420,13 @@ QQ：448182355
 
 ![SP SA Bubble 泡泡](./media/I194Ql.jpg)
 
-### [SP SA Green Screen/Yellow Screen 绿屏/黄屏](https://drop.com/buy/massdrop-x-admgc-sa-green-screen-custom-keycap-set)
+### [SP SA Green Screen 绿屏](https://drop.com/buy/massdrop-x-admgc-sa-green-screen-custom-keycap-set)
 
-![SP SA Green Screen 绿屏](media/16139706909840.jpg)
+![SP SA Green Screen 绿屏](media/SP@SA@Green_Screen@绿屏.jpg)
 
-![SP SA Green Screen 绿屏](media/16139706827855.jpg)
+### [SP SA Yellow Screen 黄屏](https://drop.com/buy/massdrop-x-admgc-sa-green-screen-custom-keycap-set)
+
+![SP SA Green Screen 黄屏](media/SP@SA@Green_Screen@黄屏.jpg)
 
 ### [SP SA Kobayashi 犬岛](https://novelkeys.xyz/products/sa-kobayashi-gb?variant=12158371135581)
 
@@ -1489,9 +1502,9 @@ QQ：448182355
 
 ### [SP SA Dasher & Dancer](https://drop.com/buy/dasher-and-dancer-sa-custom-keycap-set)
 
-![SP SA Dasher & Dancer](media/16139707559901.jpg)
+![SP SA Dasher & Dancer](media/SP@SA@Dasher_Dancer_1.jpg)
 
-![SP SA Dasher & Dancer](./media/QHs6kS.jpg)
+![SP SA Dasher & Dancer](./media/SP@SA@Dasher_Dancer_2.jpg)
 
 ### ~[SP SA Grand Budapest 布达佩斯大饭店](https://geekhack.org/index.php?topic=85413.0)
 
@@ -1507,7 +1520,7 @@ QQ：448182355
 
 ### [~SP SA THE AMAZING CHOCOLATIER 巧克力大亨](https://drop.com/buy/the-amazing-chocolatier-custom-sa-keycap-set)
 
-![SP SA THE AMAZING CHOCOLATIER 巧克力大亨](media/16139707351574.jpg)
+![SP SA THE AMAZING CHOCOLATIER 巧克力大亨](media/SP@SA@THE_AMAZING_CHOCOLATIER@巧克力大亨.jpg)
 
 ### SP SA Add
 
@@ -1533,7 +1546,7 @@ QQ：448182355
 
 ### [SP SA Jukebox 脆皮鸡 R2](https://drop.com/buy/jukebox-sa-keyset)
 
-![SP SA Jukebox 脆皮鸡 R2](media/16139707191724.jpg)
+![SP SA Jukebox 脆皮鸡 R2](media/SP@SA@Jukebox@脆皮鸡.jpg)
 
 ### [SP SA Nantucket Selectric 大航海](https://geekhack.org/index.php?topic=79282.0)
 
@@ -1589,7 +1602,7 @@ QQ：448182355
 
 ![Matt3o MT3 /DEV/TTY](media/Matt3o@MT3@DEV_TTY.jpg)
 
-![Matt3o MT3 /DEV/TTY](media/16139770113677.jpg)
+![Matt3o MT3 /DEV/TTY](media/Matt3o@MT3@DEV_TTY_2.jpg)
 
 ### ~[Matt3o MT3 JUKEBOX](https://drop.com/buy/drop-mt3-jukebox-keycap-set)
 
