@@ -28,8 +28,6 @@
 - [AKKO 系列（无铭的部分键帽和AKKO进行了合并）](./akko.md)：原厂高度，OEM高度，OSA高度，ASA高度
 
 
-注意：点击每个图片上方的键帽名称均可以快速进入对应的IC或者介绍页
-
 ### [DOMIKEY SA EVA 零号机](https://www.zfrontier.com/app/flow/40K0Kx8o7j96)
 
 ![DOMIKEY SA EVA 零号机](media/16126749459130.jpg)

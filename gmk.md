@@ -27,7 +27,6 @@
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [AKKO 系列（无铭的部分键帽和AKKO进行了合并）](./akko.md)：原厂高度，OEM高度，OSA高度，ASA高度
 
-注意：点击每个图片上方的键帽名称均可以快速进入对应的IC或者介绍页
 
 ### [GMK 原厂 Matcha Mocha 抹茶摩卡](https://geekhack.org/index.php?topic=110726)
 
