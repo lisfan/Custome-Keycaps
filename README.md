@@ -113,15 +113,6 @@ QQ：448182355
 
 ![GMK 原厂 Star 派大星](media/GMK@原厂@Star@派大星.jpg)
 
-### [SP DSS Solarized Dark](https://www.reddit.com/r/mechmarket/comments/l5f813/ic_dss_solarized_dark_comprehensive_40s_keyset/)
-
-- 设计师：matthewdias
-- 团购时间：2021.02.15 至 2021.03.14
-- 发货时间：2021.05
-- 购买方式：[aeternus](https://store.aeternus.co/collections/group-buys/products/gb-dss-solarized-dark)
-
-![SP DSS Solarized Dark](media/SP@DSS@Solarized_Dark.jpg)
-
 ### [MelGeek MG Ghost 幽灵](https://www.zfrontier.com/app/flow/2lWB3dEp8VKd)
 
 - 设计师：York Chan
@@ -142,23 +133,14 @@ QQ：448182355
 
 ![GMK 原厂 Inukuma 伊努熊](media/GMK@原厂@Inukuma@伊努熊.jpg)
 
-### [Keyreative KAT Slurp](https://geekhack.org/index.php?topic=108069)
+### [SP DSS Solarized Dark](https://www.reddit.com/r/mechmarket/comments/l5f813/ic_dss_solarized_dark_comprehensive_40s_keyset/)
 
-- 设计师：Ulliam
-- 团购时间：xxxx.xx.xx 至 xxxx.xx.xx
-- 发货时间：xxxx.xx.xx
-- 购买方式：zFrontier 待上，国外已开团
+- 设计师：matthewdias
+- 团购时间：2021.02.15 至 2021.03.14
+- 发货时间：2021.05
+- 购买方式：[aeternus](https://store.aeternus.co/collections/group-buys/products/gb-dss-solarized-dark)
 
-![Keyreative KAT Slurp](media/Keyreative@KAT@Slurp.jpg)
-
-### [Infinikey 原厂 Doggie](https://keebsforall.com/products/pbt-doggie-keycaps)
-
-- 设计师：Nhils
-- 团购时间：2021.02.01 至 2021.02.28
-- 发货时间：2021.07
-- 购买方式：国内未代理
-
-![Infinikey 原厂 Doggie](media/Infinikey@原厂@Doggie.jpg)
+![SP DSS Solarized Dark](media/SP@DSS@Solarized_Dark.jpg)
 
 ### [~GMK 原厂 Iceberg 冰山](https://geekhack.org/index.php?topic=111221.0)
 
@@ -209,6 +191,15 @@ QQ：448182355
 
 ![GMK 原厂 Dots 圆点](media/GMK@原厂@Dots@圆点_3.jpg)
 
+### ~[Matt3o MT3 EXTENDED 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set)
+
+- 设计师：BIIP
+- 团购时间：2021.02.05 至 2021.03.01
+- 发货时间：2021.06
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![Matt3o MT3 EXTENDED 2048](media/Matt3o@MT3@EXTENDED_2048.jpg)
+
 ### [~GMK 原厂 Dandy 蒲公英](https://geekhack.org/index.php?topic=106325.0)
 
 - 设计：sourmk
@@ -223,7 +214,7 @@ QQ：448182355
 ### [~GMK 原厂 Tuzi 兔子](https://geekhack.org/index.php?topic=110981.0)
 
 - 设计：SenseiJia
-- 团购时间：2021.02.01-2021.02.28
+- 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2021.Q4
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/OoNVrLpWW53o)
 
@@ -232,7 +223,7 @@ QQ：448182355
 ### [~GMK 原厂 Mr.Sleeves 袖子先生 彩色增补 R2](https://novelkeys.xyz/collections/group-buys/products/gmk-mr-sleeves-r2-gb)
 
 - 设计：Taeha
-- 团购时间：2021.02.01-2021.02.26
+- 团购时间：2021.02.01 至 2021.02.26
 - 发货时间：2022.Q2
 - 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=637950918706)
 
@@ -241,7 +232,7 @@ QQ：448182355
 ### [GMK 原厂 Birch 桦木](https://geekhack.org/index.php?topic=107246.0)
 
 - 设计：break
-- 团购时间：2021.02.01-2021.02.28
+- 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2021.Q4
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/ozRA2bX7gq8o)
 
@@ -250,20 +241,65 @@ QQ：448182355
 ### [GMK 原厂 Gateway 传送门](https://geekhack.org/index.php?topic=110075)
 
 - 设计：SMOKEY
-- 团购时间：2021.02.01-2021.02.28
+- 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2022.01
 - 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23041973287.17.25383f55qi6iZp&id=637616785870)
 
 ![GMK 原厂 Gateway传送门](./media/GMK@原厂@Gateway@传送门.jpg)
 
+### [Infinikey 原厂 Doggie](https://keebsforall.com/products/pbt-doggie-keycaps)
+
+- 设计师：Nhils
+- 团购时间：2021.02.01 至 2021.02.28
+- 发货时间：2021.07
+- 购买方式：国内未代理
+
+![Infinikey 原厂 Doggie](media/Infinikey@原厂@Doggie.jpg)
+
+### [~Matt3o MT3 CYBER](https://drop.com/buy/drop-mito-mt3-cyber-custom-keycap-set)
+
+- 设计师：Mito
+- 团购时间：2021.01.28 至 2021.02.28
+- 发货时间：2021.05
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![Matt3o MT3 Cyber](media/Matt3o@MT3@Cyber.jpg)
+
 ### [GMK 原厂 Civilizations 文明](https://geekhack.org/index.php?topic=108877.0)
 
 - 设计师：twgecko02
-- 团购时间：2021.01.23-2021.02.24
+- 团购时间：2021.01.23 至 2021.02.24
 - 发货时间：2021.Q4
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/oNLOePrnmd81)
 
 ![GMK 原厂 Civilizations 文明](media/GMK@原厂@Civilizations@文明.jpg)
+
+### [EPBT 原厂 Be the one](https://geekhack.org/index.php?topic=108119.0)
+
+- 设计师：zekth
+- 团购时间：2021.01.21 至 2021.02.28
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Betheone/)
+
+![EPBT 原厂 Be the one](media/EPBT@原厂@Be_the_one.jpg)
+
+### [EPBT 原厂 WRAITH DARK](https://kbdfans.store/products/DP1463/)
+
+- 设计师：BIIP
+- 团购时间：2021.01.15 至 2021.03.15
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/DP1463/)
+-
+![EPBT 原厂 WRAITH DARK](media/EPBT@原厂@WRAITH_DARK.jpg)
+
+### [Keyreative KAT Slurp](https://geekhack.org/index.php?topic=108069)
+
+- 设计师：Ulliam
+- 团购时间：xxxx.xx.xx 至 xxxx.xx.xx
+- 发货时间：xxxx.xx.xx
+- 购买方式：zFrontier 待上，国外已开团
+
+![Keyreative KAT Slurp](media/Keyreative@KAT@Slurp.jpg)
 
 ## GMK
 
@@ -449,7 +485,7 @@ QQ：448182355
 
 ![GMK 原厂 Posh 粉蓝](media/GMK@原厂@Posh@粉蓝.jpg)
 
-### ~[GMK 原厂 βeta](https://geekhack.org/index.php?topic=108290.0)
+### [~GMK 原厂 βeta](https://geekhack.org/index.php?topic=108290.0)
 
 ![GMK 原厂 βeta](media/GMK@原厂@βeta_1.jpg)
 
@@ -977,7 +1013,7 @@ QQ：448182355
 
 ![GMK 原厂 Jamon 火腿](./media/GMK@原厂@Jamon@火腿.jpg)
 
-### ~[GMK 原厂 KA 2019 Valentine 2019情人节](https://geekhack.org/index.php?topic=99498.0)
+### [~GMK 原厂 KA 2019 Valentine 2019情人节](https://geekhack.org/index.php?topic=99498.0)
 
 ![GMK 原厂 KA 2019 Valentine 2019情人节](./media/QKLOEM.jpg)
 
@@ -1301,7 +1337,6 @@ QQ：448182355
 ### [~SP SA Flamingo 火烈鸟](https://www.zfrontier.com/app/flow/2g8y9o8pK59Y)
 
 ![SP SA Flamingo 火烈鸟](media/16128606634640.jpg)
-
 ### [SP SA Mizu 水](https://www.reddit.com/r/mechmarket/comments/h78oig/ic_mizu_is_back_and_in_sa/)
 
 ![SP SA Mizu 水](media/16128598568923.jpg)
@@ -1309,6 +1344,7 @@ QQ：448182355
 ### [SP SA DreamEater](http://www.mechsupply.co.uk/product/sa-dreameater)
 
 ![SP SA DreamEater](media/16128601421979.jpg)
+
 
 ### [~SP SA 2600](https://geekhack.org/index.php?topic=105269.0)
 
@@ -1506,7 +1542,7 @@ QQ：448182355
 
 ![SP SA Dasher & Dancer](./media/SP@SA@Dasher_Dancer_2.jpg)
 
-### ~[SP SA Grand Budapest 布达佩斯大饭店](https://geekhack.org/index.php?topic=85413.0)
+### [~SP SA Grand Budapest 布达佩斯大饭店](https://geekhack.org/index.php?topic=85413.0)
 
 ![SP SA Grand Budapest 布达佩斯大饭店](media/16128617522676.jpg)
 
@@ -1582,29 +1618,21 @@ QQ：448182355
 
 ## Matt3o
 
-### [~Matt3o MT3 CYBER](https://drop.com/buy/drop-mito-mt3-cyber-custom-keycap-set)
-
-![Matt3o MT3 Cyber](media/Matt3o@MT3@Cyber.jpg)
-
-### ~[~Matt3o MT3 SERIKA](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set)
+### [~Matt3o MT3 SERIKA](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set)
 
 ![Matt3o MT3 SERIKA](media/Matt3o@MT3@SERIKA.jpg)
 
-### ~[Matt3o MT3 EXTENDED 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set)
-
-![Matt3o MT3 EXTENDED 2048](media/Matt3o@MT3@EXTENDED_2048.jpg)
-
-### ~[Matt3o MT3 SUSUWATARI](https://drop.com/buy/drop-matt3o-mt3-susuwatari-custom-keycap-set)
+### [~Matt3o MT3 SUSUWATARI](https://drop.com/buy/drop-matt3o-mt3-susuwatari-custom-keycap-set)
 
 ![Matt3o MT3 SUSUWATARI](media/Matt3o@MT3@SUSUWATARI.jpg)
 
-### ~[Matt3o MT3 /DEV/TTY](https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set)
+### [~Matt3o MT3 /DEV/TTY](https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set)
 
 ![Matt3o MT3 /DEV/TTY](media/Matt3o@MT3@DEV_TTY.jpg)
 
 ![Matt3o MT3 /DEV/TTY](media/Matt3o@MT3@DEV_TTY_2.jpg)
 
-### ~[Matt3o MT3 JUKEBOX](https://drop.com/buy/drop-mt3-jukebox-keycap-set)
+### [~Matt3o MT3 JUKEBOX](https://drop.com/buy/drop-mt3-jukebox-keycap-set)
 
 ![Matt3o MT3 JUKEBOX](media/Matt3o@MT3@JUKEBOX.jpg)
 
@@ -1722,7 +1750,7 @@ QQ：448182355
 
 ![MelGeek MG Dawn 破晓](media/MELGEEK@MG@Dawn@破晓.jpg)
 
-### ~[MelGeek MG Aurora 极夜 R2](https://www.zfrontier.com/app/flow/28pQZLm8KElg)
+### [~MelGeek MG Aurora 极夜 R2](https://www.zfrontier.com/app/flow/28pQZLm8KElg)
 
 ![MelGeek MG Aurora 极夜](media/MELGEEK@MG@Aurora@极夜.jpg)
 
@@ -1772,6 +1800,14 @@ QQ：448182355
 
 ## EnjoyPBT
 
+### [EPBT 原厂 SOJU](https://geekhack.org/index.php?topic=108887.0)
+
+![EPBT 原厂 SOJU](media/EPBT@原厂@SOJU_1.jpg)
+
+![EPBT 原厂 SOJU](media/EPBT@原厂@SOJU_2.jpg)
+
+![EPBT 原厂 SOJU](./media/EPBT@原厂@SOJU_3.jpg)
+
 ### [~EPBT 原厂 RamenStop](https://geekhack.org/index.php?topic=108594.0)
 
 ![EPBT 原厂 RamenStop](media/EPBT@原厂@RamenStop_1.jpg)
@@ -1803,22 +1839,6 @@ QQ：448182355
 ### [~EPBT 原厂 Kuro/Shiro 黑/白](https://kbdfans.com/collections/enjoypbt-keycaps/products/kuro-shiro-r2)
 
 ![EPBT 原厂 Kuro/Shiro 黑/白](media/EPBT@原厂@Kuro_Shiro.jpg)
-
-### [EPBT 原厂 Be the one](https://kbdfans.store/products/Betheone/)
-
-![EPBT 原厂 Be the one](media/EPBT@原厂@Be_the_one.jpg)
-
-### [EPBT 原厂 WRAITH DARK](https://kbdfans.store/products/DP1463/)
-
-![EPBT 原厂 WRAITH DARK](media/EPBT@原厂@WRAITH_DARK.jpg)
-
-### [EPBT 原厂 SOJU](https://geekhack.org/index.php?topic=108887.0)
-
-![EPBT 原厂 SOJU](media/EPBT@原厂@SOJU_1.jpg)
-
-![EPBT 原厂 SOJU](media/EPBT@原厂@SOJU_2.jpg)
-
-![EPBT 原厂 SOJU](./media/EPBT@原厂@SOJU_3.jpg)
 
 ### [~EPBT 原厂 G81-SAV](https://geekhack.org/index.php?topic=102124.msg2805629)
 
