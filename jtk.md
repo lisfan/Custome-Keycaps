@@ -27,6 +27,12 @@
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
 
+## 说明
+
+1. 名称前面带有`~`标记仅代表个人感兴趣🌝
+2. **点图片上方的键帽名称**可以进入geekhack上的**IC**喔，没找到IC地址的我也尽可能的找到一个可替代的介绍
+3. 部分图片来源于网络，若侵权请联系删除
+
 ## 键帽列表
 
 ### [~JTK 原厂 JTK Griseann GP](https://www.zfrontier.com/app/mch/BwRvKMG4j0Yo)
