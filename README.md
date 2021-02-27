@@ -17,6 +17,8 @@
 
 <span style="font-size:30px;background-color:#57a564;color:white;padding:10px 4px;line-height:40px"> 文若 BOW & WOB热升华键帽大全套 + 彩色增补</span>
 
+[查看 素白&素黑 彩色增补组合参考图](./geekark.md)（感谢 奈斯兰德 提供）
+
 素白base成团最低价仅需 <span style="font-size:30px;background-color:#57a564;color:white;padding:4px;">**209**</span>
 
 截团时间<span style="font-size:30px;background-color:#57a564;color:white;padding:4px;">**3月25日**</span>
