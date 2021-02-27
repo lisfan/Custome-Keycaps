@@ -13,9 +13,19 @@
 - 增加今日新团：GMK 派大星，EPBTGRAND_TOUR
 - 增加补分键帽高清图源
 
-## 广告位招租
+## 广告位
 
-**不收费，联系QQ：448182355**
+<span style="font-size:30px;background-color:#57a564;color:white;padding:10px 4px;line-height:40px"> 文若 BOW & WOB热升华键帽大全套 + 彩色增补</span>
+
+素白base成团最低价仅需 <span style="font-size:30px;background-color:#57a564;color:white;padding:4px;">**209**</span>
+
+截团时间<span style="font-size:30px;background-color:#57a564;color:white;padding:4px;">**3月25日**</span>
+
+[<span style="font-size:30px;background-color:#57a564;color:white;padding:4px;">参团链接</span>](https://www.geekark.com/product/33?from=lisfan)
+
+----
+
+**广告位招租，不收费，联系QQ：448182355**
 
 可以投放开团信息喔（仅仅一小块横幅展示，横幅由您提供喔）
 
