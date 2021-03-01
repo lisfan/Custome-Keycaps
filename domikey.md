@@ -42,6 +42,7 @@
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
+- [Other 系列](./other.md)：无法归类的
 
 ## 说明
 

@@ -43,6 +43,7 @@
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
+- [Other 系列](./other.md)：无法归类的
 
 ## 说明
 
@@ -51,6 +52,15 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [EPBT 原厂 Be the one](https://geekhack.org/index.php?topic=108119.0)
+
+- 设计师：zekth
+- 团购时间：2021.01.21 至 2021.02.28
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Betheone/)
+
+![EPBT 原厂 Be the one](media/EPBT@原厂@Be_the_one.jpg)
 
 ### [EPBT 原厂 SOJU](https://geekhack.org/index.php?topic=108887.0)
 

@@ -43,6 +43,7 @@
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
+- [Other 系列](./other.md)：无法归类的
 
 ## 说明
 
@@ -51,6 +52,51 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [~GMK 原厂 Tuzi 兔子](https://geekhack.org/index.php?topic=110981.0)
+
+- 设计：SenseiJia
+- 团购时间：2021.02.01 至 2021.02.28
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/OoNVrLpWW53o)
+
+![GMK 原厂 Tuzi 兔子](media/GMK@原厂@Tuzi@兔子.jpg)
+
+### [~GMK 原厂 Mr.Sleeves 袖子先生 彩色增补 R2](https://novelkeys.xyz/collections/group-buys/products/gmk-mr-sleeves-r2-gb)
+
+- 设计：Taeha
+- 团购时间：2021.02.01 至 2021.02.26
+- 发货时间：2022.Q2
+- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=637950918706)
+
+![GMK 原厂 Mr.Sleeves 袖子先生 R2](media/GMK@原厂@Mr_Sleeves@袖子先生.jpg)
+
+### [GMK 原厂 Birch 桦木](https://geekhack.org/index.php?topic=107246.0)
+
+- 设计：break
+- 团购时间：2021.02.01 至 2021.02.28
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/ozRA2bX7gq8o)
+
+![GMKBirch 桦木](media/GMK@原厂@Birch@桦木.jpg)
+
+### [GMK 原厂 Gateway 传送门](https://geekhack.org/index.php?topic=110075)
+
+- 设计：SMOKEY
+- 团购时间：2021.02.01 至 2021.02.28
+- 发货时间：2022.01
+- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23041973287.17.25383f55qi6iZp&id=637616785870)
+
+![GMK 原厂 Gateway传送门](./media/GMK@原厂@Gateway@传送门.jpg)
+
+### [GMK 原厂 Civilizations 文明](https://geekhack.org/index.php?topic=108877.0)
+
+- 设计师：twgecko02
+- 团购时间：2021.01.23 至 2021.02.24
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/oNLOePrnmd81)
+
+![GMK 原厂 Civilizations 文明](media/GMK@原厂@Civilizations@文明.jpg)
 
 ### [GMK 原厂 Matcha Mocha 抹茶摩卡](https://geekhack.org/index.php?topic=110726)
 

@@ -4,12 +4,13 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新日期：2021-02-25 13:02:00
+更新日期：2021-03-01 13:50:54
 
 更新内容：
 
-2021-02-25
-- 拆分到单个文档管理
+2021-03-01
+- 增加新开团：GMK 钴蓝，NicePBT 一九三零，SP 陆军，Geekard Triangle
+- 移除已截团的几个
 
 ## 广告位
 
@@ -43,6 +44,7 @@
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
+- [Other 系列](./other.md)：无法归类的
 
 ## 说明
 
@@ -51,6 +53,48 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [GMK 原厂 Cobalt 钴蓝](https://geekhack.org/index.php?topic=110273)
+
+- 设计师：fatboycarney
+- 团购时间：2021.03.01 至 2021.04.01
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/l6mawvG2vP41)
+
+![GMK 原厂 Cobalt 钴蓝](media/GMK@原厂@Cobalt@钴蓝_1.jpg)
+
+![GMK 原厂 Cobalt 钴蓝](media/GMK@原厂@Cobalt@钴蓝_2.jpg)
+
+### [NicePBT DSA Nineteen Thirty 一九三零](https://geekhack.org/index.php?topic=111053.0)
+
+- 设计师：Prkns & Ulliam
+- 团购时间：2021.03.01 至 2021.04.01
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/10Qy33Ld8eZl)
+
+![NicePBT DSA Nineteen Thirty 一九三零](media/NicePBT@DSA@Nineteen_Thirty@一九三零.jpg)
+
+### [SP SA Strong Spirit 陆军 R2](https://geekhack.org/index.php?topic=87673.0)
+
+- 设计师：Kingnestea
+- 团购时间：2021.03.01 至 2021.03.20
+- 发货时间：2022.Q1
+- 购买方式：[KBDfans](https://www.zfrontier.com/app/mch/lMgybGPgb3xB)
+
+![SP SA Strong Spirit 陆军 R2](media/SP@SA@Strong_Spirit@陆军_2.jpg)
+
+![SP SA Strong Spirit 陆军 R1](media/SP@SA@Strong_Spirit@陆军_1.jpg)
+
+### [Geekark 原厂 Triangle](https://geekhack.org/index.php?topic=110163.0)
+
+- 设计师：ZLightningZAP
+- 团购时间：2021.02.26 至 2021.03.22
+- 发货时间：2021.Q3
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![Geekark 原厂 Triangle](media/Geekark@原厂@Triangle_1.jpg)
+
+![Geekark 原厂 Triangle](media/Geekark@原厂@Triangle_2.jpg)
 
 ### [EPBT 原厂 GRAND TOUR](https://geekhack.org/index.php?topic=108068.0)
 
@@ -168,78 +212,6 @@
 
 ![GMK 原厂 Dandy 蒲公英](media/GMK@原厂@Dandy@蒲公英_2.jpg)
 
-### [~GMK 原厂 Tuzi 兔子](https://geekhack.org/index.php?topic=110981.0)
-
-- 设计：SenseiJia
-- 团购时间：2021.02.01 至 2021.02.28
-- 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/OoNVrLpWW53o)
-
-![GMK 原厂 Tuzi 兔子](media/GMK@原厂@Tuzi@兔子.jpg)
-
-### [~GMK 原厂 Mr.Sleeves 袖子先生 彩色增补 R2](https://novelkeys.xyz/collections/group-buys/products/gmk-mr-sleeves-r2-gb)
-
-- 设计：Taeha
-- 团购时间：2021.02.01 至 2021.02.26
-- 发货时间：2022.Q2
-- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=637950918706)
-
-![GMK 原厂 Mr.Sleeves 袖子先生 R2](media/GMK@原厂@Mr_Sleeves@袖子先生.jpg)
-
-### [GMK 原厂 Birch 桦木](https://geekhack.org/index.php?topic=107246.0)
-
-- 设计：break
-- 团购时间：2021.02.01 至 2021.02.28
-- 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/ozRA2bX7gq8o)
-
-![GMKBirch 桦木](media/GMK@原厂@Birch@桦木.jpg)
-
-### [GMK 原厂 Gateway 传送门](https://geekhack.org/index.php?topic=110075)
-
-- 设计：SMOKEY
-- 团购时间：2021.02.01 至 2021.02.28
-- 发货时间：2022.01
-- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23041973287.17.25383f55qi6iZp&id=637616785870)
-
-![GMK 原厂 Gateway传送门](./media/GMK@原厂@Gateway@传送门.jpg)
-
-### [Infinikey 原厂 Doggie](https://keebsforall.com/products/pbt-doggie-keycaps)
-
-- 设计师：Nhils
-- 团购时间：2021.02.01 至 2021.02.28
-- 发货时间：2021.07
-- 购买方式：国内未代理
-
-![Infinikey 原厂 Doggie](media/Infinikey@原厂@Doggie.jpg)
-
-### [~Matt3o MT3 CYBER](https://drop.com/buy/drop-mito-mt3-cyber-custom-keycap-set)
-
-- 设计师：Mito
-- 团购时间：2021.01.28 至 2021.02.28
-- 发货时间：2021.05
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![Matt3o MT3 Cyber](media/Matt3o@MT3@Cyber.jpg)
-
-### [GMK 原厂 Civilizations 文明](https://geekhack.org/index.php?topic=108877.0)
-
-- 设计师：twgecko02
-- 团购时间：2021.01.23 至 2021.02.24
-- 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/oNLOePrnmd81)
-
-![GMK 原厂 Civilizations 文明](media/GMK@原厂@Civilizations@文明.jpg)
-
-### [EPBT 原厂 Be the one](https://geekhack.org/index.php?topic=108119.0)
-
-- 设计师：zekth
-- 团购时间：2021.01.21 至 2021.02.28
-- 发货时间：待定
-- 购买方式：[KBDfans](https://kbdfans.store/products/Betheone/)
-
-![EPBT 原厂 Be the one](media/EPBT@原厂@Be_the_one.jpg)
-
 ### [EPBT 原厂 WRAITH DARK](https://kbdfans.store/products/DP1463/)
 
 - 设计师：BIIP
@@ -248,12 +220,3 @@
 - 购买方式：[KBDfans](https://kbdfans.store/products/DP1463/)
 -
 ![EPBT 原厂 WRAITH DARK](media/EPBT@原厂@WRAITH_DARK.jpg)
-
-### [Keyreative KAT Slurp](https://geekhack.org/index.php?topic=108069)
-
-- 设计师：Ulliam
-- 团购时间：xxxx.xx.xx 至 xxxx.xx.xx
-- 发货时间：xxxx.xx.xx
-- 购买方式：zFrontier 待上，国外已开团
-
-![Keyreative KAT Slurp](media/Keyreative@KAT@Slurp.jpg)

@@ -1,10 +1,10 @@
-# 客制化键帽速查表 Matt3o 篇
+# 客制化键帽速查表 其他 篇
 
 > 动动手，点一下**右上角**的Star🤝
 
 如有遗漏，请联系QQ：448182355
 
-更新日期：2021-02-25 13:02:00
+更新日期：2021-03-01 13:17:15
 
 更新内容：
 
@@ -53,43 +53,20 @@
 
 ## 键帽列表
 
-### [~Matt3o MT3 CYBER](https://drop.com/buy/drop-mito-mt3-cyber-custom-keycap-set)
+### [Infinikey 原厂 Doggie](https://keebsforall.com/products/pbt-doggie-keycaps)
 
-- 设计师：Mito
-- 团购时间：2021.01.28 至 2021.02.28
-- 发货时间：2021.05
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
+- 设计师：Nhils
+- 团购时间：2021.02.01 至 2021.02.28
+- 发货时间：2021.07
+- 购买方式：国内未代理
 
-![Matt3o MT3 Cyber](media/Matt3o@MT3@Cyber.jpg)
+![Infinikey 原厂 Doggie](media/Infinikey@原厂@Doggie.jpg)
 
+### [Keyreative KAT Slurp](https://geekhack.org/index.php?topic=108069)
 
+- 设计师：Ulliam
+- 团购时间：xxxx.xx.xx 至 xxxx.xx.xx
+- 发货时间：xxxx.xx.xx
+- 购买方式：zFrontier 待上，国外已开团
 
-### [~Matt3o MT3 SUSUWATARI](https://drop.com/buy/drop-matt3o-mt3-susuwatari-custom-keycap-set)
-
-![Matt3o MT3 SUSUWATARI](media/Matt3o@MT3@SUSUWATARI.jpg)
-
-### [~Matt3o MT3 /DEV/TTY](https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set)
-
-![Matt3o MT3 /DEV/TTY](media/Matt3o@MT3@DEV_TTY.jpg)
-
-![Matt3o MT3 /DEV/TTY](media/Matt3o@MT3@DEV_TTY_2.jpg)
-
-### [~Matt3o MT3 SERIKA](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set)
-
-![Matt3o MT3 SERIKA](media/Matt3o@MT3@SERIKA.jpg)
-
-### [~Matt3o MT3 JUKEBOX](https://drop.com/buy/drop-mt3-jukebox-keycap-set)
-
-![Matt3o MT3 JUKEBOX](media/Matt3o@MT3@JUKEBOX.jpg)
-
-### [Matt3o MT3 DASHER](https://drop.com/buy/drop-mt3-dasher-keycap-set)
-
-![Matt3o MT3 DASHER.jpg](media/Matt3o@MT3@DASHER.jpg)
-
-### [Matt3o MT3 CAMILLO](https://drop.com/buy/drop-mt3-camillo-keycap-set)
-
-![Matt3o MT3 CAMILLO](media/Matt3o@MT3@CAMILLO.jpg)
-
-### [Matt3o MT3 3277](https://drop.com/buy/drop-matt3o-mt3-3277-custom-keycap-set)
-
-![Matt3o MT3 3277](media/Matt3o@MT3@3277.jpg)
+![Keyreative KAT Slurp](media/Keyreative@KAT@Slurp.jpg)
