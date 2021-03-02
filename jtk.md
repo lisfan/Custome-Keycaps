@@ -64,9 +64,9 @@
 
 ### [JTK 原厂 JW 西装baotu](https://www.zfrontier.com/app/mch/1EOy8yr9AbYo)
 
-![JTK 原厂 JW 西装baotu](media/JTK@原厂@JW@西装暴徒_1.jpg)
+![JTK 原厂 JW 西装baotu](media/JTK@原厂@JW@西装baotu_1.jpg)
 
-![JTK 原厂 JW 西装baotu](media/JTK@原厂@JW@西装暴徒_2.jpg)
+![JTK 原厂 JW 西装baotu](media/JTK@原厂@JW@西装baotu_2.jpg)
 
 ### [~JTK 原厂 东方一号 Vostok-1](https://www.zfrontier.com/app/mch/1n9nkqGRkyXB)
 
