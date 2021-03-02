@@ -30,9 +30,9 @@
 
 ## 快速导航
 
-- [第一次阅读](./README.md)：本客制化键帽速查表的根目录文案
+- [导读](./README.md)：推荐您在浏览前先阅读
 - [团购中](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [IC中](./ic.md)：正在IC中的客制化键帽信息
+- [IC中](./ic.md)：【正在建设中】正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -133,11 +133,6 @@
 ### [SP SA Mizu 水](https://www.reddit.com/r/mechmarket/comments/h78oig/ic_mizu_is_back_and_in_sa/)
 
 ![SP SA Mizu 水](media/16128598568923.jpg)
-
-### [SP SA DreamEater](http://www.mechsupply.co.uk/product/sa-dreameater)
-
-![SP SA DreamEater](media/16128601421979.jpg)
-
 
 ### [~SP SA 2600](https://geekhack.org/index.php?topic=105269.0)
 

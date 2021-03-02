@@ -30,9 +30,9 @@
 
 ## 快速导航
 
-- [第一次阅读](./README.md)：本客制化键帽速查表的根目录文案
+- [导读](./README.md)：推荐您在浏览前先阅读
 - [团购中](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [IC中](./ic.md)：正在IC中的客制化键帽信息
+- [IC中](./ic.md)：【正在建设中】正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -55,7 +55,7 @@
 
 ### [~GMK 原厂 Tuzi 兔子](https://geekhack.org/index.php?topic=110981.0)
 
-- 设计：SenseiJia
+- 设计师：SenseiJia
 - 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2021.Q4
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/OoNVrLpWW53o)
@@ -64,7 +64,7 @@
 
 ### [~GMK 原厂 Mr.Sleeves 袖子先生 彩色增补 R2](https://novelkeys.xyz/collections/group-buys/products/gmk-mr-sleeves-r2-gb)
 
-- 设计：Taeha
+- 设计师：Taeha
 - 团购时间：2021.02.01 至 2021.02.26
 - 发货时间：2022.Q2
 - 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=637950918706)
@@ -73,7 +73,7 @@
 
 ### [GMK 原厂 Birch 桦木](https://geekhack.org/index.php?topic=107246.0)
 
-- 设计：break
+- 设计师：break
 - 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2021.Q4
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/ozRA2bX7gq8o)
@@ -82,7 +82,7 @@
 
 ### [GMK 原厂 Gateway 传送门](https://geekhack.org/index.php?topic=110075)
 
-- 设计：SMOKEY
+- 设计师：SMOKEY
 - 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2022.01
 - 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23041973287.17.25383f55qi6iZp&id=637616785870)
@@ -277,12 +277,6 @@
 ### [GMK 原厂 Posh 粉蓝](https://geekhack.org/index.php?topic=104603.0)
 
 ![GMK 原厂 Posh 粉蓝](media/GMK@原厂@Posh@粉蓝.jpg)
-
-### [~GMK 原厂 βeta](https://geekhack.org/index.php?topic=108290.0)
-
-![GMK 原厂 βeta](media/GMK@原厂@βeta_1.jpg)
-
-![GMK 原厂 βeta](media/GMK@原厂@βeta_2.jpg)
 
 ### [~GMK 原厂 Shoko 硝子 R2](https://geekhack.org/index.php?topic=108028.0)
 

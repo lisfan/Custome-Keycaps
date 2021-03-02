@@ -4,13 +4,12 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新日期：2021-03-01 13:50:54
+更新日期：2021-03-02 09:47:27
 
 更新内容：
 
-2021-03-01
-- 增加新开团：GMK 钴蓝，NicePBT 一九三零，SP 陆军，Geekard Triangle
-- 移除已截团的几个
+2021-03-02
+- 增加新开团： EPBT Aesthetic，SP 8010，GMK Yeeti 雪怪，GMK Norse 诺斯
 
 ## 广告位
 
@@ -31,9 +30,9 @@
 
 ## 快速导航
 
-- [第一次阅读](./README.md)：本客制化键帽速查表的根目录文案
+- [导读](./README.md)：推荐您在浏览前先阅读
 - [团购中](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [IC中](./ic.md)：正在IC中的客制化键帽信息
+- [IC中](./ic.md)：【正在建设中】正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -53,6 +52,42 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [EPBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
+
+- 设计师：dklein
+- 团购时间：延期至3月5日
+- 发货时间：xxxx
+- 购买方式：KBDfans
+
+![EPBT 原厂 Aesthetic](media/EPBT@原厂@Aesthetic.jpg)
+
+### [SP SA 8010](https://geekhack.org/index.php?topic=106901)
+
+- 设计师：FRANCO
+- 团购时间：延期至3月5日
+- 发货时间：xxxx
+- 购买方式：CannonKeys
+
+![SP SA 8010](media/SP@SA@8010.jpg)
+
+### [GMK 原厂 Yeeti 雪怪](https://geekhack.org/index.php?topic=109227)
+
+- 设计师：Fannie_w
+- 团购时间：2021.03.02 至 2021.04.02
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/lDxdL08a8k7l)
+
+![GMK 原厂 Yeeti 雪怪](media/GMK@原厂@Yeeti@雪怪.jpg)
+
+### [GMK 原厂 Norse 诺斯](https://geekhack.org/index.php?topic=107666.0)
+
+- 设计师：Skok
+- 团购时间：2021.03.02 至 2021.03.30
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/o2exnO7QXzJl)
+
+![GMK 原厂 Norse 诺斯](media/GMK@原厂@Norse@诺斯.jpg)
 
 ### [GMK 原厂 Cobalt 钴蓝](https://geekhack.org/index.php?topic=110273)
 
@@ -114,6 +149,26 @@
 
 ![GMK 原厂 Star 派大星](media/GMK@原厂@Star@派大星.jpg)
 
+### [SP SA DreamEater](http://www.mechsupply.co.uk/product/sa-dreameater)
+
+- 设计师：未知
+- 团购时间：2021.02.23 至 预定完截止
+- 发货时间：2021.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![SP SA DreamEater](media/SP@SA@DreamEater.jpg)
+
+### [~GMK 原厂 βeta & JS](https://geekhack.org/index.php?topic=108290.0)
+
+- 设计师：hineybush
+- 团购时间：2021.02.22 至 预定完截止
+- 发货时间：2021.06
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 βeta](media/GMK@原厂@βeta_1.jpg)
+
+![GMK 原厂 JS](media/GMK@原厂@βeta_2.jpg)
+
 ### [MelGeek MG Ghost 幽灵](https://www.zfrontier.com/app/flow/2lWB3dEp8VKd)
 
 - 设计师：York Chan
@@ -163,7 +218,7 @@
 
 ### [~GMK 原厂 Maestro 大师](https://geekhack.org/index.php?topic=111106.0)
 
-- 设计：HungHingDaiLo
+- 设计师：HungHingDaiLo
 - 团购时间：2021.02.12 至 2021.03.12
 - 发货时间：2022.Q1
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/1g8We96kenJl)
@@ -172,7 +227,7 @@
 
 ### [GMK 原厂 Umka](https://geekhack.org/index.php?topic=110422.msg2998220)
 
-- 设计：T0mb3ry
+- 设计师：T0mb3ry
 - 团购时间：2021.02.05 至 2021.03.05
 - 发货时间：2021.Q4
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/BdXpXA0YQb2B)
@@ -181,7 +236,7 @@
 
 ### [~GMK 原厂 Dots 圆点](https://geekhack.org/index.php?topic=110668.0)
 
-- 设计：biip
+- 设计师：BIIP
 - 团购时间：2021.02.05 至 2021.02.26
 - 发货时间：2021.Q4
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/Bd8NKdaXALpB)
@@ -203,7 +258,7 @@
 
 ### [~GMK 原厂 Dandy 蒲公英](https://geekhack.org/index.php?topic=106325.0)
 
-- 设计：sourmk
+- 设计师：sourmk
 - 团购时间：2021.02.04 至 2021.03.03
 - 发货时间：2021.Q4
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/oNrgZjmrV6qo)
@@ -218,5 +273,5 @@
 - 团购时间：2021.01.15 至 2021.03.15
 - 发货时间：待定
 - 购买方式：[KBDfans](https://kbdfans.store/products/DP1463/)
--
+
 ![EPBT 原厂 WRAITH DARK](media/EPBT@原厂@WRAITH_DARK.jpg)
