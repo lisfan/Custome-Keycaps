@@ -4,41 +4,30 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新日期：2021-03-03 09:38:42
-
 更新内容：
-
-2021-03-02
-- 增加新开团： GMK Striker 前锋 R2
+- 2021-03-03 增加新开团：GMK Striker 前锋 R2
 
 ## 广告位
 
-<span style="font-size:30px;background-color:#57a564;color:white;padding:10px 4px;line-height:40px"> 文若 BOW & WOB热升华键帽大全套 + 彩色增补</span>
+文若 BOW & WOB热升华键帽大全套 + 彩色增补，素白最低价已解锁，[欢迎上车](https://www.geekark.com/product/33?from=lisfan)
 
 [查看 素白&素黑 彩色增补组合参考图](./geekark.md)（感谢 奈斯兰德 提供）
 
-素白base成团最低价仅需 <span style="font-size:30px;background-color:#57a564;color:white;padding:4px;">**209**</span>
-
-截团时间<span style="font-size:30px;background-color:#57a564;color:white;padding:4px;">**3月25日**</span>
-
-[<span style="font-size:30px;background-color:#57a564;color:white;padding:4px;">参团链接</span>](https://www.geekark.com/product/33?from=lisfan)
-
 ----
-**广告位招租，不收费，联系QQ：448182355**
 
-可以投放开团信息喔（仅仅一小块横幅展示，横幅由您提供喔）
+广告位招租，**不收费**，联系QQ：448182355
 
 ## 快速导航
 
 - [导读](./README.md)：推荐您在浏览前先阅读
-- [团购中](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [IC中](./ic.md)：【正在建设中】正在IC中的客制化键帽信息
+- [正在开团中](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
+- [INSERT CHECK](./ic.md)：【正在建设中】正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
 - [JTK 系列](./jtk.md)：原厂高度，HSA高度
-- [MELGEEK 系列](./melgeek.md)：MG高度，MDA高度
 - [EnjoyPBT 系列](./enjoypbt.md)：原厂高度
+- [MELGEEK 系列](./melgeek.md)：MG高度，MDA高度
 - [Keyreative（键设局） 系列](./keyreative.md)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
