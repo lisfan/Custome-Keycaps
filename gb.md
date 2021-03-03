@@ -4,12 +4,12 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新日期：2021-03-02 09:47:27
+更新日期：2021-03-03 09:38:42
 
 更新内容：
 
 2021-03-02
-- 增加新开团： EPBT Aesthetic，SP 8010，GMK Yeeti 雪怪，GMK Norse 诺斯
+- 增加新开团： GMK Striker 前锋 R2
 
 ## 广告位
 
@@ -52,6 +52,15 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [GMK 原厂 Striker 前锋 R2](https://geekhack.org/index.php?topic=100387.0)
+
+- 设计师：Zambumon
+- 团购时间：2021.03.03 至 2021.04.06
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/lMyMyYmNmRYl)
+
+![GMK 原厂 Striker 前锋 R2](media/GMK@原厂@Striker@前锋@R2.jpg)
 
 ### [EPBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
 
