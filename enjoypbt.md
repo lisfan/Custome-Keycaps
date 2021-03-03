@@ -98,7 +98,7 @@
 
 ![EPBT 原厂 Heavy Industry 重工业](media/EPBT@原厂@Heavy_Industry@重工业.jpg)
 
-### [~EPBT 原厂 Kuro/Shiro 黑/白](https://kbdfans.com/collections/enjoypbt-keycaps/products/kuro-shiro-r2)
+### [~EPBT 原厂 Kuro/Shiro 黑/白](https://geekhack.org/index.php?topic=97699.0)
 
 ![EPBT 原厂 Kuro/Shiro 黑/白](media/EPBT@原厂@Kuro_Shiro.jpg)
 

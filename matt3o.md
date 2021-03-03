@@ -74,7 +74,7 @@
 
 ![Matt3o MT3 /DEV/TTY](media/Matt3o@MT3@DEV_TTY_2.jpg)
 
-### [~Matt3o MT3 SERIKA](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set)
+### [~Matt3o MT3 SERIKA](https://geekhack.org/index.php?topic=100489.0)
 
 ![Matt3o MT3 SERIKA](media/Matt3o@MT3@SERIKA.jpg)
 

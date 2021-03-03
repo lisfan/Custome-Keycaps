@@ -52,7 +52,7 @@
 
 ## 键帽列表
 
-### [Infinikey 原厂 Doggie](https://keebsforall.com/products/pbt-doggie-keycaps)
+### [Infinikey 原厂 Doggie](https://www.reddit.com/r/mechmarket/comments/l4uoid/ic_infinikey_doggie_keycap_set/)
 
 - 设计师：Nhils
 - 团购时间：2021.02.01 至 2021.02.28

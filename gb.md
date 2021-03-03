@@ -256,7 +256,7 @@
 
 ![GMK 原厂 Dots 圆点](media/GMK@原厂@Dots@圆点_3.jpg)
 
-### ~[Matt3o MT3 EXTENDED 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set)
+### ~[Matt3o MT3 EXTENDED 2048](https://geekhack.org/index.php?topic=107022.0)
 
 - 设计师：BIIP
 - 团购时间：2021.02.05 至 2021.03.01

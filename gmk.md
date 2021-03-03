@@ -62,7 +62,7 @@
 
 ![GMK 原厂 Tuzi 兔子](media/GMK@原厂@Tuzi@兔子.jpg)
 
-### [~GMK 原厂 Mr.Sleeves 袖子先生 彩色增补 R2](https://novelkeys.xyz/collections/group-buys/products/gmk-mr-sleeves-r2-gb)
+### [~GMK 原厂 Mr.Sleeves 袖子先生 彩色增补 R2](https://geekhack.org/index.php?topic=96561.0)
 
 - 设计师：Taeha
 - 团购时间：2021.02.01 至 2021.02.26
@@ -106,7 +106,7 @@
 
 ![GMK 原厂 Muted 缄默 R2](media/GMK@原厂@Muted@缄默.jpg)
 
-### [GMK 原厂 WoB KATAKANA 黑白日文](https://drop.com/buy/drop-gmk-white-on-black-katakana-custom-keycap-set)
+### [GMK 原厂 WoB KATAKANA 黑白日文](https://geekhack.org/index.php?topic=106762.0)
 
 ![GMK 原厂 WoB KATAKANA 黑白日文](media/GMK@原厂@WoB_KATAKANA@黑白日文.jpg)
 
@@ -340,7 +340,7 @@
 
 ![GMK 原厂 Nuclear Data 核子](./media/GMK@原厂@Nuclear_Data@核子.jpg)
 
-### [~GMK 原厂 Laser 激光 R2](https://drop.com/buy/drop-mito-gmk-laser-custom-keycap-set)
+### [~GMK 原厂 Laser 激光 R2](https://geekhack.org/index.php?topic=85585.0)
 
 ![GMK 原厂 Laser 激光 R2](media/GMK@原厂@Laser@激光.jpg)
 
@@ -444,7 +444,7 @@
 
 ![GMK 原厂 HyperFuse Origins R2](media/GMK@原厂@HyperFuse_Origins.jpg)
 
-### [GMK 原厂 Skeletor 骷髅王 R2](https://www.originativeco.com/products/skeletor)
+### [GMK 原厂 Skeletor 骷髅王 R2](https://geekhack.org/index.php?topic=79340.0)
 
 ![GMK 原厂 Skeletor 骷髅王 R2](media/GMK@原厂@Skeletor@骷髅王.jpg)
 
@@ -452,9 +452,9 @@
 
 ![GMK 原厂 Lunar 追月](./media/GMK@原厂@Lunar@追月.jpg)
 
-### [GMK 原厂 Kaiju 怪兽](https://drop.com/buy/drop-nephlock-gmk-kaiju-custom-keycap-set)
+### [GMK 原厂 Kaiju 怪兽](https://geekhack.org/index.php?topic=100558.0)
 
-![GMK 原厂 Kaiju 怪兽](media/GMK@原厂@Kaiju@怪兽.jpg)
+![](media/16146565852035.jpg)
 
 ### [GMK 原厂 Botanical 植物园](https://geekhack.org/index.php?topic=104954.0)
 
@@ -616,7 +616,7 @@
 
 ![GMK 原厂 Umbra](./media/GMK@原厂@Umbra.jpg)
 
-### [GMK 原厂 Nines 九 R2](https://kono.store/products/gmk-nines-keycap-set)
+### [GMK 原厂 Nines 九 R2](https://geekhack.org/index.php?topic=99372.0)
 
 ![GMK 原厂 Nines 九 R2](media/GMK@原厂@Nines@九.jpg)
 
@@ -654,7 +654,7 @@
 
 ![GMK 原厂 Phosphorous 磷光](media/GMK@原厂@Phosphorous@磷光.jpg)
 
-### [~GMK 原厂 Camping 野营 R2](https://novelkeys.xyz/collections/frontpage/products/gmk-camping-gb-r2)
+### [~GMK 原厂 Camping 野营 R2](https://geekhack.org/index.php?topic=101859.0)
 
 ![GMK 原厂 Camping 野营 R2](media/GMK@原厂@Camping@野营.jpg)
 
@@ -686,9 +686,9 @@
 
 ![GMK 原厂 9009 R3](media/GMK@原厂@9009.jpg)
 
-### [GMK 原厂 WoB Hiragana 黑白日文](https://novelkeys.xyz/products/gmk-wob-hiragana)
+### [GMK 原厂 WoB Hiragana 黑白日文](https://geekhack.org/index.php?topic=97358.0)
 
-![GMK 原厂 WoB Hiragana 黑白日文](./media/Fmftib.jpg)
+![](media/16146568272906.jpg)
 
 ### [GMK 原厂 Fro.Yo 冻酸奶](https://geekhack.org/index.php?topic=102140.0)
 
@@ -720,7 +720,7 @@
 
 ![GMK 原厂 Peach n Cream](./media/iw5Sc2.jpg)
 
-### [GMK 原厂 Vaporwave 蒸汽波](https://novelkeys.xyz/collections/frontpage/products/gmk-vaporwave-gb)
+### [GMK 原厂 Vaporwave 蒸汽波](https://geekhack.org/index.php?topic=101391.0)
 
 ![GMK 原厂 Vaporwave 蒸汽波](./media/1fsccX.jpg)
 
@@ -734,17 +734,17 @@
 
 ![GMK 原厂 Handarbeit](./media/EPXu1G.jpg)
 
-### [GMK 原厂 Denim 丹宁](https://www.originativeco.com/products/denim)
+### [GMK 原厂 Denim 丹宁](https://geekhack.org/index.php?topic=101077.0)
 
 ![GMK 原厂 Denim 丹宁](media/GMK@原厂@Denim@丹宁.jpg)
 
-### [GMK 原厂 Oblivion 码农 R2](https://drop.com/buy/drop-oblotzky-gmk-oblivion-v2-custom-keycap-set)
+### [GMK 原厂 Oblivion 码农 R2](https://geekhack.org/index.php?topic=101034.0)
 
-![GMK 原厂 Oblivion 码农 R2](media/GMK@原厂@Oblivion@码农_1.jpg)
+![](media/16146569993830.jpg)
 
-![GMK 原厂 Oblivion 码农 R2](media/GMK@原厂@Oblivion@码农_2.jpg)
+![](media/16146570169042.jpg)
 
-### [~GMK 原厂 Olive 橄榄](https://novelkeys.xyz/products/gmk-olive-gb)
+### [~GMK 原厂 Olive 橄榄](https://geekhack.org/index.php?topic=100983.0)
 
 ![GMK 原厂 Olive 橄榄](./media/JJjf8Z.jpg)
 
@@ -776,11 +776,11 @@
 
 ![GMK 原厂 Metropolis 大都会](./media/raYMnu.jpg)
 
-### [GMK 原厂 SkIIdata 黑橙 R2](https://thekey.company/products/gmk-skiidata)
+### [GMK 原厂 SkIIdata 黑橙 R2](https://geekhack.org/index.php?topic=76521.0)
 
 ![GMK 原厂 SkIIdata 黑橙 R2](./media/XCvHbC.jpg)
 
-### [GMK 原厂 Lime 青柠](https://kono.store/collections/new/products/gmk-lime-keycap-set)
+### [GMK 原厂 Lime 青柠](https://geekhack.org/index.php?topic=99888.0)
 
 ![GMK 原厂 Lime 青柠](./media/JyyXGT.jpg)
 
@@ -788,15 +788,15 @@
 
 ![GMK 原厂 Vice Nights 反夜](./media/GMK@原厂@Vice_Nights@反夜.jpg)
 
-### [GMK 原厂 Paperwork](https://olkb.com/parts/gmk-paperwork)
+### [GMK 原厂 Paperwork](https://geekhack.org/index.php?topic=99079.0)
 
-![GMK 原厂 Paperwork](./media/VcJ4m0.jpg)
+![](media/16146575314129.jpg)
 
 ### [GMK 原厂 Deep Space 深空](https://originative.co/deepspace)
 
 ![GMK 原厂 Deep Space 深空](./media/VoIdxN.jpg)
 
-### [~GMK 原厂 Jamon 火腿](https://drop.com/buy/massdrop-x-zambumon-gmk-jamon-custom-keycap-set)
+### [~GMK 原厂 Jamon 火腿](https://geekhack.org/index.php?topic=95882.0)
 
 ![GMK 原厂 Jamon 火腿](./media/GMK@原厂@Jamon@火腿.jpg)
 
@@ -804,9 +804,9 @@
 
 ![GMK 原厂 KA 2019 Valentine 2019情人节](./media/QKLOEM.jpg)
 
-### [GMK 原厂 Calm Depths 深海](https://kono.store/products/gmk-calm-depths-keycap-set)
+### [GMK 原厂 Calm Depths 深海](https://geekhack.org/index.php?topic=98330.0)
 
-![GMK 原厂 Calm Depths 深海](./media/Y4zsJp.jpg)
+![](media/16146576009185.jpg)
 
 ### [GMK 原厂 HyperFuse Remix](https://www.originativeco.com/products/hyperfuse-remix)
 
@@ -820,17 +820,17 @@
 
 ![GMK 原厂 Q:01](./media/aj1Ih6.jpg)
 
-### [GMK 原厂 Carbon 大碳](https://drop.com/buy/gmk-carbon-custom-keycap-set)
+### [GMK 原厂 Carbon 大碳](https://geekhack.org/index.php?topic=79693.0)
 
 ![GMK 原厂 Carbon 大碳](media/GMK@原厂@Carbon@大碳_1.jpg)
 
 ![GMK 原厂 Carbon 大碳](media/GMK@原厂@Carbon@大碳_2.jpg)
 
-### [~GMK 原厂 Chocolatier 巧克力](https://www.zfrontier.com/m/4835)
+### [~GMK 原厂 Chocolatier 巧克力](https://geekhack.org/index.php?topic=97630.0)
 
 ![GMK 原厂 Chocolatier 巧克力](./media/EkzAQU.jpg)
 
-### [GMK 原厂 Monochrome 黑白](http://www.zfrontier.com/m/4458)
+### [GMK 原厂 Monochrome 黑白](https://geekhack.org/index.php?topic=97203.0)
 
 ![GMK 原厂 Monochrome 黑白](./media/Ny4mMj.jpg)
 
@@ -846,9 +846,9 @@
 
 ![GMK 原厂 Necro 死灵](./media/EdiZRy.jpg)
 
-### [GMK 原厂 Terminal 终端机 R2](https://thekey.company/collections/archive/products/gmk-terminal_)
+### [GMK 原厂 Terminal 终端机 R2](https://geekhack.org/index.php?topic=85838.0)
 
-![GMK 原厂 Terminal 终端机 R2](./media/zZGGuJ.jpg)
+![](media/16146578142141.jpg)
 
 ### [GMK 原厂 Triumph Adler 90 TA90](https://geekhack.org/index.php?topic=96387.0)
 
@@ -866,15 +866,15 @@
 
 ![GMK 原厂 Violet Tendencies](./media/6daEmR.jpg)
 
-### [GMK 原厂 LedZep 齐柏林飞艇](https://thekey.company/products/gmk-ledzep)
+### [GMK 原厂 Led Zep 齐柏林飞艇](https://geekhack.org/index.php?topic=91314.0)
 
-![GMK 原厂 LedZep 齐柏林飞艇](./media/hn2jgE.jpg)
+![](media/16146579115897.jpg)
 
 ### [GMK 原厂 Classic Retro Cyrillic 灰白红俄文](https://www.originativeco.com/products/classic-retro-cyrillic)
 
 ![GMK 原厂 Classic Retro Cyrillic 灰白红俄文](./media/gQAHzS.jpg)
 
-### [GMK 原厂 TA Royal Alpha 610 Typewriter 皇家打字机 R2](https://matrixzj.github.io/docs/gmk-keycaps/TA-Royal-Alpha-610-Typewriter-R2/)
+### [GMK 原厂 TA Royal Alpha 610 Typewriter 皇家打字机 R2](https://geekhack.org/index.php?topic=79311.0)
 
 ![GMK 原厂 TA Royal Alpha 610 Typewriter 皇家打字机 R2](./media/M81D2I.jpg)
 
@@ -882,7 +882,7 @@
 
 ![GMK 原厂 Red Honey](./media/mfCQyn.jpg)
 
-### [GMK 原厂 Pristine 云石](https://matrixzj.github.io/docs/gmk-keycaps/Pristine/)
+### [GMK 原厂 Pristine 云石](https://geekhack.org/index.php?topic=91796.0)
 
 ![GMK 原厂 Pristine 云石](./media/1crQog.jpg)
 
@@ -912,17 +912,17 @@
 
 ### [GMK 原厂 Miami Nights 迈阿密之夜](https://www.originativeco.com/products/miami-nights)
 
-![GMK 原厂 Miami Nights 迈阿密之夜](./media/uPsZV8.jpg)
+![](media/16146581435790.jpg)
 
-### [GMK 原厂 Miami](https://www.originativeco.com/products/miami)
+### [GMK 原厂 Miami](https://geekhack.org/index.php?topic=89378.0)
 
-![GMK 原厂 Miami 迈阿密](./media/LJWczB.jpg)
+![](media/16146581516321.jpg)
 
 ### [GMK 原厂 Miami Dusk 迈阿密黄昏](https://www.zfrontier.com/m/3365)
 
 ![GMK 原厂 Miami Dusk 迈阿密黄昏](./media/LRHmAf.jpg)
 
-### [GMK 原厂 Aero](https://en.zfrontier.com/products/gmk-aero)
+### [GMK 原厂 Aero](https://geekhack.org/index.php?topic=88726.0)
 
 ![GMK 原厂 Aero](./media/ds6Z2n.jpg)
 
@@ -1001,7 +1001,7 @@
 
 ### [GMK 原厂 White Blue](https://geekhack.org/index.php?topic=82308.0)
 
-### [GMK 原厂 Classic Retro 经典复古](https://www.originativeco.com/products/classic-retro)
+### [GMK 原厂 Classic Retro 经典复古](https://geekhack.org/index.php?topic=80942.0)
 
 ![GMK 原厂 Classic Retro 经典复古](./media/k2bdmY.jpg)
 
@@ -1013,11 +1013,11 @@
 
 ![GMK 原厂 Valentine 情人节](./media/kG2fMy.jpg)
 
-### [GMK 原厂 Sky Dolch](https://drop.com/buy/gmk-sky-dolch)
+### [GMK 原厂 Sky Dolch](https://www.originativeco.com/products/sky-dolch?variant=11176278725)
 
-![GMK 原厂 Sky Dolch](./media/ynqV9I.jpg)
+![](media/16146584352509.jpg)
 
-### [GMK 原厂 Triumph Adler TA](https://www.massdrop.com/buy/triumph-adler-gmk-keyset)
+### [GMK 原厂 Triumph Adler TA](https://geekhack.org/index.php?topic=65724.0)
 
 ![GMK 原厂 Triumph Adler TA](./media/8t9L8A.jpg)
 
