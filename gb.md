@@ -5,7 +5,7 @@
 如有遗漏，请联系QQ：448182355
 
 更新内容：
-- 2021-03-05 增加新开团：GMK Nightshade 夜影
+- 2021-03-05 增加新开团：GMK Nightshade 夜影,GMK 原厂 Red Alert 红警,GMK 原厂 Colorchrome 黑白彩,
 
 ## 广告位
 
@@ -42,24 +42,6 @@
 
 ## 键帽列表
 
-### [GMK 原厂 Nightshade 夜影](https://geekhack.org/index.php?topic=102474.0)
-
-- 设计师：BlindAssassin111
-- 团购时间：2021.03.04 至 2021.04.03
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/lGAEJ4VpKZeB)
-
-![GMK 原厂 Nightshade 夜影](media/GMK@原厂@Nightshade@夜影.jpg)
-
-### [GMK 原厂 Striker 前锋 R2](https://geekhack.org/index.php?topic=100387.0)
-
-- 设计师：Zambumon
-- 团购时间：2021.03.03 至 2021.04.06
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/lMyMyYmNmRYl)
-
-![GMK 原厂 Striker 前锋 R2](media/GMK@原厂@Striker@前锋@R2.jpg)
-
 ### [EPBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
 
 - 设计师：dklein
@@ -77,6 +59,57 @@
 - 购买方式：CannonKeys
 
 ![SP SA 8010](media/SP@SA@8010.jpg)
+
+### [GMK 原厂 Red Alert 红警](https://geekhack.org/index.php?topic=107649.0)
+
+- 设计师：Break
+- 团购时间：2021.03.05 至 2021.04.09
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/B5xDnyGpdm9o)
+
+![GMK 原厂 Red Alert 红警](media/GMK@原厂@Red_Alert@红警.jpg)
+
+### [GMK 原厂 Colorchrome 黑白彩](https://geekhack.org/index.php?topic=106412.0)
+
+- 设计师：Full
+- 团购时间：2021.03.05 至 2021.03.26
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/B9NzQQNXgGO1)
+
+![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_1.jpg)
+
+![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_2.jpg)
+
+![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_3.jpg)
+
+![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_4.jpg)
+
+### [GMK 原厂 WoB Shinethrough 黑二色灯帽](https://geekhack.org/index.php?topic=109476.0)
+
+- 设计师：HoodrowThrillson
+- 团购时间：2021.03.05 至 2021.04.02
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/l7LwrreAqygo)
+
+![GMK 原厂 WoB Shinethrough 黑二色灯帽](media/GMK@原厂@WoB_Shinethrough@黑二色灯帽.jpg)
+
+### [GMK 原厂 Nightshade 夜影](https://geekhack.org/index.php?topic=102474.0)
+
+- 设计师：BlindAssassin111
+- 团购时间：2021.03.04 至 2021.04.03
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/lGAEJ4VpKZeB)
+
+![GMK 原厂 Nightshade 夜影](media/GMK@原厂@Nightshade@夜影.jpg)
+
+### [GMK 原厂 Striker 前锋 R2](https://geekhack.org/index.php?topic=100387.0)
+
+- 设计师：Zambumon
+- 团购时间：2021.03.03 至 2021.04.06
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/lMyMyYmNmRYl)
+
+![GMK 原厂 Striker 前锋 R2](media/GMK@原厂@Striker@前锋@R2.jpg)
 
 ### [GMK 原厂 Yeeti 雪怪](https://geekhack.org/index.php?topic=109227)
 
