@@ -1,4 +1,4 @@
-# 客制化键帽速查表 其他 篇
+# 客制化键帽速查表 即将发车 篇
 
 > 动动手，点一下**右上角**的Star🤝
 
@@ -43,20 +43,4 @@
 
 ## 键帽列表
 
-### [Infinikey 原厂 Doggie](https://www.reddit.com/r/mechmarket/comments/l4uoid/ic_infinikey_doggie_keycap_set/)
-
-- 设计师：Nhils
-- 团购时间：2021.02.01 至 2021.02.28
-- 发货时间：2021.07
-- 购买方式：国内未代理
-
-![Infinikey 原厂 Doggie](media/Infinikey@原厂@Doggie.jpg)
-
-### [Keyreative KAT Slurp](https://geekhack.org/index.php?topic=108069)
-
-- 设计师：Ulliam
-- 团购时间：xxxx.xx.xx 至 xxxx.xx.xx
-- 发货时间：xxxx.xx.xx
-- 购买方式：zFrontier 待上，国外已开团
-
-![Keyreative KAT Slurp](media/Keyreative@KAT@Slurp.jpg)
+建设中
