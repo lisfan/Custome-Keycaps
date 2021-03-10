@@ -5,7 +5,7 @@
 如有遗漏，请联系QQ：448182355
 
 更新内容：
-- 2021-03-05 增加新开团：GMK Nightshade 夜影,GMK 原厂 Red Alert 红警,GMK 原厂 Colorchrome 黑白彩,
+- 2021-03-10 增加新开团：GMK 原厂 Astral 星光
 
 ## 广告位
 
@@ -43,21 +43,21 @@
 
 ## 键帽列表
 
-### [EPBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
+### [GMK 原厂 Astral 星光](https://geekhack.org/index.php?topic=101922.0)
 
-- 设计师：dklein
-- 团购时间：延期至3月5日
-- 发货时间：xxxx
-- 购买方式：KBDfans
+- 设计师：NaturalPack
+- 团购时间：2021.03.08 至 2021.04.06
+- 发货时间：2022.3
+- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=638958484826)
 
-![EPBT 原厂 Aesthetic](media/EPBT@原厂@Aesthetic.jpg)
+![GMK 原厂 Astral 星光](media/GMK@原厂@Astral@星光.jpg)
 
 ### [SP SA 8010](https://geekhack.org/index.php?topic=106901)
 
 - 设计师：FRANCO
-- 团购时间：延期至3月5日
-- 发货时间：xxxx
-- 购买方式：CannonKeys
+- 团购时间：2021.03.05 至 2021.04.01
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
 
 ![SP SA 8010](media/SP@SA@8010.jpg)
 
