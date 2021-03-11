@@ -262,7 +262,7 @@
 
 ![SP SA Solarized Penumbra 白PB](media/16128615403353.jpg)
 
-### [SP SA PULSE 脉冲 R3](https://drop.com/buy/pulse-sa-keycap-set)
+### [SP SA PULSE 脉冲 R3](https://geekhack.org/index.php?topic=61822.0)
 
 ![SP SA PULSE 脉冲 R3](./media/FdoSrx.jpg)
 
@@ -382,7 +382,7 @@
 
 ![SP SA Nuclear Data 核子](./media/oxk2Es.jpg)
 
-### [SP SA Penumbra](https://geekhack.org/index.php?topic=51026.0)
+### [SP SA Penumbra](https://geekhack.org/index.php?topic=49634.0)
 
 ![SP SA Penumbra](./media/XF2dSX.jpg)
 

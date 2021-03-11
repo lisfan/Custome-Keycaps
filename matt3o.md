@@ -43,6 +43,15 @@
 
 ## 键帽列表
 
+### ~[Matt3o MT3 EXTENDED 2048](https://geekhack.org/index.php?topic=107022.0)
+
+- 设计师：BIIP
+- 团购时间：2021.02.05 至 2021.03.01
+- 发货时间：2021.06
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![Matt3o MT3 EXTENDED 2048](media/Matt3o@MT3@EXTENDED_2048.jpg)
+
 ### [~Matt3o MT3 CYBER](https://drop.com/buy/drop-mito-mt3-cyber-custom-keycap-set)
 
 - 设计师：Mito

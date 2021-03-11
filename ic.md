@@ -44,6 +44,8 @@
 
 **还在建设中**
 
+### [GMK METROPOLIS 2](https://geekhack.org/index.php?topic=111614.0)
+
 ### [GMK ReForged](https://geekhack.org/index.php?topic=111586.0)
 
 ### GMK Retrotrip
@@ -704,3 +706,10 @@ https://geekhack.org/index.php?topic=103593.0
 
 
 
+
+[IC] Cospar SA (GB DEC 1st! - NEW GB FORMAT!)
+https://geekhack.org/index.php?topic=62327.0
+
+遗作？ [IC] ALL NEW Midnight SA set  (Read 121568 times)
+
+https://geekhack.org/index.php?topic=52684.0

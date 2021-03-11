@@ -5,7 +5,7 @@
 如有遗漏，请联系QQ：448182355
 
 更新内容：
-- 2021-03-10 增加新开团：GMK 原厂 Astral 星光
+- 2021-03-11 增加新开团：EPBT Aesthetic
 
 ## 广告位
 
@@ -42,6 +42,15 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [EPBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
+
+- 设计师：dklein
+- 团购时间：2021.03.11 至 2021.04.08
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Aesthetic/)
+
+![EPBT 原厂 Aesthetic](media/EPBT@原厂@Aesthetic.jpg)
 
 ### [GMK 原厂 Astral 星光](https://geekhack.org/index.php?topic=101922.0)
 
@@ -265,48 +274,6 @@
 - 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/1g8We96kenJl)
 
 ![GMK 原厂 Maestro 大师](media/GMK@原厂@Maestro@大师.jpg)
-
-### [GMK 原厂 Umka](https://geekhack.org/index.php?topic=110422.msg2998220)
-
-- 设计师：T0mb3ry
-- 团购时间：2021.02.05 至 2021.03.05
-- 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/BdXpXA0YQb2B)
-
-![GMK 原厂 Umka](media/GMK@原厂@Umka.jpg)
-
-### [~GMK 原厂 Dots 圆点](https://geekhack.org/index.php?topic=110668.0)
-
-- 设计师：BIIP
-- 团购时间：2021.02.05 至 2021.02.26
-- 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/Bd8NKdaXALpB)
-
-![GMK 原厂 Dots 圆点](media/GMK@原厂@Dots@圆点_1.jpg)
-
-![GMK 原厂 Dots 圆点](media/GMK@原厂@Dots@圆点_2.jpg)
-
-![GMK 原厂 Dots 圆点](media/GMK@原厂@Dots@圆点_3.jpg)
-
-### ~[Matt3o MT3 EXTENDED 2048](https://geekhack.org/index.php?topic=107022.0)
-
-- 设计师：BIIP
-- 团购时间：2021.02.05 至 2021.03.01
-- 发货时间：2021.06
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![Matt3o MT3 EXTENDED 2048](media/Matt3o@MT3@EXTENDED_2048.jpg)
-
-### [~GMK 原厂 Dandy 蒲公英](https://geekhack.org/index.php?topic=106325.0)
-
-- 设计师：sourmk
-- 团购时间：2021.02.04 至 2021.03.03
-- 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/oNrgZjmrV6qo)
-
-![GMK 原厂 Dandy 蒲公英](media/GMK@原厂@Dandy@蒲公英_1.jpg)
-
-![GMK 原厂 Dandy 蒲公英](media/GMK@原厂@Dandy@蒲公英_2.jpg)
 
 ### [EPBT 原厂 WRAITH DARK](https://kbdfans.store/products/DP1463/)
 
