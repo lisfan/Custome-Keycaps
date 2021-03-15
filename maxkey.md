@@ -5,17 +5,8 @@
 如有遗漏，请联系QQ：448182355
 
 更新内容：
+
 - 2021-02-25 拆分到单个文档管理
-
-## 广告位
-
-文若 BOW & WOB热升华键帽大全套 + 彩色增补，素白最低价已解锁，[欢迎上车](https://www.geekark.com/product/33?from=lisfan)
-
-[查看 素白&素黑 彩色增补组合参考图](./geekark.md)（感谢 奈斯兰德 提供）
-
-----
-
-广告位招租，**不收费**，联系QQ：448182355
 
 ## 快速导航
 
@@ -59,7 +50,7 @@
 
 ![MAXKEY SA 2600](media/16126794523441.jpg)
 
-### [MAXKEY SA 抹 Choco](https://www.zfrontier.com/app/flow/epwElvq1lN54)
+### [MAXKEY SA 抹 Choco](https://geekhack.org/index.php?topic=102042.0)
 
 ![MAXKEY SA 抹 Choco](media/16126813459066.jpg)
 

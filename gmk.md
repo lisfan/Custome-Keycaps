@@ -5,17 +5,8 @@
 如有遗漏，请联系QQ：448182355
 
 更新内容：
+
 - 2021-02-25 拆分到单个文档管理
-
-## 广告位
-
-文若 BOW & WOB热升华键帽大全套 + 彩色增补，素白最低价已解锁，[欢迎上车](https://www.geekark.com/product/33?from=lisfan)
-
-[查看 素白&素黑 彩色增补组合参考图](./geekark.md)（感谢 奈斯兰德 提供）
-
-----
-
-广告位招租，**不收费**，联系QQ：448182355
 
 ## 快速导航
 
@@ -48,7 +39,7 @@
 - 设计师：sourmk
 - 团购时间：2021.02.04 至 2021.03.03
 - 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/oNrgZjmrV6qo)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/oNrgZjmrV6qo)
 
 ![GMK 原厂 Dandy 蒲公英](media/GMK@原厂@Dandy@蒲公英_1.jpg)
 
@@ -59,7 +50,7 @@
 - 设计师：T0mb3ry
 - 团购时间：2021.02.05 至 2021.03.05
 - 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/BdXpXA0YQb2B)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/BdXpXA0YQb2B)
 
 ![GMK 原厂 Umka](media/GMK@原厂@Umka.jpg)
 
@@ -68,7 +59,7 @@
 - 设计师：BIIP
 - 团购时间：2021.02.05 至 2021.02.26
 - 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/Bd8NKdaXALpB)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/Bd8NKdaXALpB)
 
 ![GMK 原厂 Dots 圆点](media/GMK@原厂@Dots@圆点_1.jpg)
 
@@ -81,7 +72,7 @@
 - 设计师：SenseiJia
 - 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/OoNVrLpWW53o)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/OoNVrLpWW53o)
 
 ![GMK 原厂 Tuzi 兔子](media/GMK@原厂@Tuzi@兔子.jpg)
 
@@ -99,7 +90,7 @@
 - 设计师：break
 - 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/ozRA2bX7gq8o)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/ozRA2bX7gq8o)
 
 ![GMKBirch 桦木](media/GMK@原厂@Birch@桦木.jpg)
 
@@ -108,7 +99,9 @@
 - 设计师：SMOKEY
 - 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2022.01
-- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23041973287.17.25383f55qi6iZp&id=637616785870)
+-
+
+购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23041973287.17.25383f55qi6iZp&id=637616785870)
 
 ![GMK 原厂 Gateway传送门](./media/GMK@原厂@Gateway@传送门.jpg)
 
@@ -117,7 +110,7 @@
 - 设计师：twgecko02
 - 团购时间：2021.01.23 至 2021.02.24
 - 发货时间：2021.Q4
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/oNLOePrnmd81)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/oNLOePrnmd81)
 
 ![GMK 原厂 Civilizations 文明](media/GMK@原厂@Civilizations@文明.jpg)
 
@@ -1020,7 +1013,6 @@
 ### [GMK 原厂 Uniqey Blue](https://geekhack.org/index.php?topic=84142.0)
 
 ### [GMK 原厂 Barebones Stormtrooper 风暴兵](https://geekhack.org/index.php?topic=82240.0)
-
 
 ### [GMK 原厂 White Blue](https://geekhack.org/index.php?topic=82308.0)
 

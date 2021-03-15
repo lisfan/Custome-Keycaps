@@ -5,17 +5,8 @@
 如有遗漏，请联系QQ：448182355
 
 更新内容：
-- 2021-03-11 增加新开团：EPBT Aesthetic
 
-## 广告位
-
-文若 BOW & WOB热升华键帽大全套 + 彩色增补，素白最低价已解锁，[欢迎上车](https://www.geekark.com/product/33?from=lisfan)
-
-[查看 素白&素黑 彩色增补组合参考图](./geekark.md)（感谢 奈斯兰德 提供）
-
-----
-
-广告位招租，**不收费**，联系QQ：448182355
+- 2021-03-15 增加新开团：EPBT Less But Better、GMK Fuji 富士、GMK Serenity 宁静
 
 ## 快速导航
 
@@ -42,6 +33,33 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [EPBT 原厂 Less But Better](https://geekhack.org/index.php?topic=109750.0)
+
+- 设计师：Openkey Design
+- 团购时间：2021.03.15 至 2021.04.15
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Less/)
+
+![EPBT Less But Better](media/EPBT@原厂@Less_But_Better.jpg)
+
+### [GMK 原厂 Fuji 富士](https://geekhack.org/index.php?topic=111065.0)
+
+- 设计师：ttom
+- 团购时间：2021.03.15 至 2021.04.15
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/omdQyA69XLjl)
+
+![GMK Fuji 富士](media/GMK@原厂@Fuji@富士.jpg)
+
+### [GMK 原厂 Serenity 宁静](https://geekhack.org/index.php?topic=111065.0)
+
+- 设计师：Mito
+- 团购时间：2021.03.13 至 2021.04.08
+- 发货时间：2021.Q4
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 Serenity 宁静](media/GMK@原厂@Serenity@宁静.jpg)
 
 ### [EPBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
 
@@ -75,7 +93,7 @@
 - 设计师：Break
 - 团购时间：2021.03.05 至 2021.04.09
 - 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/B5xDnyGpdm9o)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/B5xDnyGpdm9o)
 
 ![GMK 原厂 Red Alert 红警](media/GMK@原厂@Red_Alert@红警.jpg)
 
@@ -84,7 +102,7 @@
 - 设计师：Full
 - 团购时间：2021.03.05 至 2021.03.26
 - 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/B9NzQQNXgGO1)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/B9NzQQNXgGO1)
 
 ![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_1.jpg)
 
@@ -99,7 +117,7 @@
 - 设计师：HoodrowThrillson
 - 团购时间：2021.03.05 至 2021.04.02
 - 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/l7LwrreAqygo)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/l7LwrreAqygo)
 
 ![GMK 原厂 WoB Shinethrough 黑二色灯帽](media/GMK@原厂@WoB_Shinethrough@黑二色灯帽.jpg)
 
@@ -108,7 +126,7 @@
 - 设计师：BlindAssassin111
 - 团购时间：2021.03.04 至 2021.04.03
 - 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/lGAEJ4VpKZeB)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lGAEJ4VpKZeB)
 
 ![GMK 原厂 Nightshade 夜影](media/GMK@原厂@Nightshade@夜影.jpg)
 
@@ -117,7 +135,7 @@
 - 设计师：Zambumon
 - 团购时间：2021.03.03 至 2021.04.06
 - 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/lMyMyYmNmRYl)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lMyMyYmNmRYl)
 
 ![GMK 原厂 Striker 前锋 R2](media/GMK@原厂@Striker@前锋@R2.jpg)
 
@@ -126,7 +144,7 @@
 - 设计师：Fannie_w
 - 团购时间：2021.03.02 至 2021.04.02
 - 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/lDxdL08a8k7l)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lDxdL08a8k7l)
 
 ![GMK 原厂 Yeeti 雪怪](media/GMK@原厂@Yeeti@雪怪.jpg)
 
@@ -135,7 +153,7 @@
 - 设计师：Skok
 - 团购时间：2021.03.02 至 2021.03.30
 - 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/o2exnO7QXzJl)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/o2exnO7QXzJl)
 
 ![GMK 原厂 Norse 诺斯](media/GMK@原厂@Norse@诺斯.jpg)
 
@@ -144,7 +162,7 @@
 - 设计师：fatboycarney
 - 团购时间：2021.03.01 至 2021.04.01
 - 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/l6mawvG2vP41)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/l6mawvG2vP41)
 
 ![GMK 原厂 Cobalt 钴蓝](media/GMK@原厂@Cobalt@钴蓝_1.jpg)
 
@@ -155,7 +173,7 @@
 - 设计师：Prkns & Ulliam
 - 团购时间：2021.03.01 至 2021.04.01
 - 发货时间：2021.Q3
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/10Qy33Ld8eZl)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/10Qy33Ld8eZl)
 
 ![NicePBT DSA Nineteen Thirty 一九三零](media/NicePBT@DSA@Nineteen_Thirty@一九三零.jpg)
 
@@ -271,7 +289,7 @@
 - 设计师：HungHingDaiLo
 - 团购时间：2021.02.12 至 2021.03.12
 - 发货时间：2022.Q1
-- 购买方式：[zfrontier](https://www.zfrontier.com/app/mch/1g8We96kenJl)
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1g8We96kenJl)
 
 ![GMK 原厂 Maestro 大师](media/GMK@原厂@Maestro@大师.jpg)
 
