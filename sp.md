@@ -34,6 +34,15 @@
 
 ## 键帽列表
 
+### [SP DSS Solarized Dark](https://www.reddit.com/r/mechmarket/comments/l5f813/ic_dss_solarized_dark_comprehensive_40s_keyset/)
+
+- 设计师：matthewdias
+- 团购时间：2021.02.15 至 2021.03.14
+- 发货时间：2021.05
+- 购买方式：[aeternus](https://store.aeternus.co/collections/group-buys/products/gb-dss-solarized-dark)
+
+![SP DSS Solarized Dark](media/SP@DSS@Solarized_Dark.jpg)
+
 ### [~SP SA Laser 激光 R2](https://drop.com/buy/drop-mito-sa-laser-custom-keycap-set)
 
 ![SP SA Laser 激光 R2](media/SP@SA@Laser@激光_1.jpg)

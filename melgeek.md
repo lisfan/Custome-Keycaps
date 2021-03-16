@@ -34,6 +34,17 @@
 
 ## 键帽列表
 
+### [MelGeek MG Ghost 幽灵](https://www.zfrontier.com/app/flow/2lWB3dEp8VKd)
+
+- 设计师：York Chan
+- 团购时间：2021.02.20 至 2021.03.10
+- 发货时间：2021.10
+- 购买方式：[MelGeek 淘宝店](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.16c11debNqVEk0&ft=t&id=637732464263)
+
+![MelGeek MG Ghost 幽灵](media/MelGeek@MG@Ghost@幽灵_1.jpg)
+
+![MelGeek MG Ghost 幽灵](media/MelGeek@MG@Ghost@幽灵_2.jpg)
+
 ### [~MelGeek MG Dawn 破晓 R2](https://www.zfrontier.com/app/flow/28pQZLm8KElg)
 
 ![MelGeek MG Dawn 破晓](media/MELGEEK@MG@Dawn@破晓.jpg)

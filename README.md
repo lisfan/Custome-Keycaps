@@ -47,6 +47,7 @@
 9. [geekhack - IC](https://geekhack.org/index.php?board=132.0)：国外发布客制化相关IC信息
 10. [geekhack - GB](https://geekhack.org/index.php?board=70.0)：国外发布客制化相关团购信息
 11. [Reddit](https://www.reddit.com/r/mechmarket/new/)
+12. [在线键盘配列编辑器](http://www.keyboard-layout-editor.com/)
 
 ## 打字测试网站
 

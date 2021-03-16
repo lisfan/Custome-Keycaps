@@ -34,6 +34,15 @@
 
 ## 键帽列表
 
+### [EPBT 原厂 WRAITH DARK](https://kbdfans.store/products/DP1463/)
+
+- 设计师：BIIP
+- 团购时间：2021.01.15 至 2021.03.15
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/DP1463/)
+
+![EPBT 原厂 WRAITH DARK](media/EPBT@原厂@WRAITH_DARK.jpg)
+
 ### [EPBT 原厂 Be the one](https://geekhack.org/index.php?topic=108119.0)
 
 - 设计师：zekth

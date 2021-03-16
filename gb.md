@@ -229,7 +229,7 @@
 ### [EPBT 原厂 GRAND TOUR](https://geekhack.org/index.php?topic=108068.0)
 
 - 设计师：fedemito
-- 团购时间：2021.02.25 至 待定
+- 团购时间：2021.02.25 至 2021.03.26
 - 发货时间：待定
 - 购买方式：[KBDfans](https://kbdfans.store/products/TOUR/)
 
@@ -264,67 +264,4 @@
 
 ![GMK 原厂 JS](media/GMK@原厂@βeta_2.jpg)
 
-### [MelGeek MG Ghost 幽灵](https://www.zfrontier.com/app/flow/2lWB3dEp8VKd)
 
-- 设计师：York Chan
-- 团购时间：2021.02.20 至 2021.03.10
-- 发货时间：2021.10
-- 购买方式：[MelGeek 淘宝店](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.16c11debNqVEk0&ft=t&id=637732464263)
-
-![MelGeek MG Ghost 幽灵](media/MelGeek@MG@Ghost@幽灵_1.jpg)
-
-![MelGeek MG Ghost 幽灵](media/MelGeek@MG@Ghost@幽灵_2.jpg)
-
-### [~GMK 原厂 Inukuma 伊努熊](https://geekhack.org/index.php?topic=108300.0)
-
-- 设计师：Influenced
-- 团购时间：2021.02.15 至 2021.03.15
-- 发货时间：2022.02
-- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=637632572170)
-
-![GMK 原厂 Inukuma 伊努熊](media/GMK@原厂@Inukuma@伊努熊.jpg)
-
-### [SP DSS Solarized Dark](https://www.reddit.com/r/mechmarket/comments/l5f813/ic_dss_solarized_dark_comprehensive_40s_keyset/)
-
-- 设计师：matthewdias
-- 团购时间：2021.02.15 至 2021.03.14
-- 发货时间：2021.05
-- 购买方式：[aeternus](https://store.aeternus.co/collections/group-buys/products/gb-dss-solarized-dark)
-
-![SP DSS Solarized Dark](media/SP@DSS@Solarized_Dark.jpg)
-
-### [~GMK 原厂 Iceberg 冰山](https://geekhack.org/index.php?topic=111221.0)
-
-- 设计师：Nathan
-- 团购时间：2021.02.15 至 2021.03.15
-- 发货时间：待定
-- 购买方式：[KBDfans](https://kbdfans.store/products/ICEBERG/)
-
-![GMK 原厂 Iceberg 冰山](media/GMK@原厂@Iceberg@冰山.jpg)
-
-### [GMK 原厂 Devoted 献身](https://geekhack.org/index.php?topic=110941.0)
-
-- 设计师：ltszBrian
-- 团购时间：2021.02.12 至 2021.03.12
-- 发货时间：2022.Q1
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![GMK 原厂 Devoted 献身](media/GMK@原厂@Devoted@献身.jpg)
-
-### [~GMK 原厂 Maestro 大师](https://geekhack.org/index.php?topic=111106.0)
-
-- 设计师：HungHingDaiLo
-- 团购时间：2021.02.12 至 2021.03.12
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1g8We96kenJl)
-
-![GMK 原厂 Maestro 大师](media/GMK@原厂@Maestro@大师.jpg)
-
-### [EPBT 原厂 WRAITH DARK](https://kbdfans.store/products/DP1463/)
-
-- 设计师：BIIP
-- 团购时间：2021.01.15 至 2021.03.15
-- 发货时间：待定
-- 购买方式：[KBDfans](https://kbdfans.store/products/DP1463/)
-
-![EPBT 原厂 WRAITH DARK](media/EPBT@原厂@WRAITH_DARK.jpg)

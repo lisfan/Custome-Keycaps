@@ -35,10 +35,13 @@
 **还在建设中**
 
 
+《MG Salon 沙龙》
+
+
+http://qungz.photo.store.qq.com/qun-qungz/V531pTdp0NkQq24Aicqr4HBuc00kkqyr/V5bCQA4NTQxMzAxODb3o0BfTAzCMA!!/800?w5=2133&h5=1600&rf=viewer_421
 【Jack团】SP SA X-mas Gift键帽，致敬逝去的…
 
 https://www.zfrontier.com/app/flow/en3k7KQn7BdO
-
 
 [IC] GMK Evil Eye
 https://geekhack.org/index.php?topic=111748.0
@@ -86,7 +89,6 @@ Author Topic: [IC] DSA Sunny Side Up Keycaps and Matching Deskmats  (Read 1653 t
 
 https://geekhack.org/index.php?topic=111629.0
 
-
 Author Topic: [IC] GMK Beige/WoB uwu Macro Add-on Kit  (Read 5653 times)
 
 https://geekhack.org/index.php?topic=111610.0
@@ -95,10 +97,10 @@ Author Topic: [IC] ePBT Scandi  (Read 3643 times)
 
 https://geekhack.org/index.php?topic=111609.0
 
-
 Author Topic: [IC] ePBT Inconceivable!  (Read 4336 times)
 
 https://geekhack.org/index.php?topic=111607.0
+
 ### [GMK METROPOLIS 2](https://geekhack.org/index.php?topic=111614.0)
 
 ### [GMK ReForged](https://geekhack.org/index.php?topic=111586.0)
@@ -1013,7 +1015,163 @@ https://geekhack.org/index.php?topic=99130.0
 https://geekhack.org/index.php?topic=98776.0
 Author Topic: [IC] SA Cube (New renders)  (Read 8653 times)
 
+Author Topic: [IC] DSA Frost  (Read 3885 times)
 
+https://geekhack.org/index.php?topic=98319.0
+
+Author Topic: [IC] GMK Achromatic // BIG UPDATE (bringing this back)  (Read 23787 times)
+
+https://geekhack.org/index.php?topic=98299.0
+
+Author Topic: [IC] GMK "Nine to Five" & "Five to Nine"  (Read 6303 times)
+
+https://geekhack.org/index.php?topic=98266.0
+Author Topic: [IC] GMK Omega  (Read 3860 times)
+
+https://geekhack.org/index.php?topic=98219.0
+
+Author Topic: [IC] GMK Keycaps FLawLesS Trying Out Some Ideas  (Read 4502 times)
+
+https://geekhack.org/index.php?topic=98439.0
+
+Author Topic: [IC] DSA Anaglyph  (Read 4564 times)
+
+https://geekhack.org/index.php?topic=98065.0
+
+Author Topic: [IC] GMK Mondrian Round 2 (additional Dox & Stagger Kit!)  (Read 13768 times)
+
+https://geekhack.org/index.php?topic=97844.0
+
+Author Topic: [IC] DSA Chemistry Set  (Read 3477 times)
+
+https://geekhack.org/index.php?topic=97988.0
+
+Author Topic: [IC] DSA Belafonte - A life aquatic themed keyset - Added Renders!  (Read 2305 times)
+
+https://geekhack.org/index.php?topic=98017.0
+
+Author Topic: [IC] SA Monet Morning - Poll Closed, Working on Kits / Novelties  (Read 6960 times)
+
+https://geekhack.org/index.php?topic=97593.0
+
+Author Topic: [IC] GMK Magical Girl  (Read 12765 times)
+
+https://geekhack.org/index.php?topic=97464.0
+
+Author Topic: SA Kaar (AKA SA Grandmaster) (take 2)  (Read 1887 times)
+
+https://geekhack.org/index.php?topic=97346.0
+
+Author Topic: [IC] DSA Stone Age  (Read 1532 times)
+
+https://geekhack.org/index.php?topic=97288.0
+
+Author Topic: [IC] Maxkeys Lavender Fields  (Read 2556 times)
+
+https://geekhack.org/index.php?topic=97648.0
+
+Author Topic: [IC] 2020COMMANDO - SP SA 112344  (Read 9473 times)
+
+https://geekhack.org/index.php?topic=97658.0
+
+Author Topic: 【IC】SA Migaloo Custom Keycap Set  (Read 3536 times)
+
+https://geekhack.org/index.php?topic=97082.0
+
+Author Topic: [IC] SP SA Magic  (Read 2431 times)
+
+https://geekhack.org/index.php?topic=97041.0
+
+\Author Topic: [IC] Classic Space  (Read 26332 times)
+
+https://geekhack.org/index.php?topic=97012.0
+
+Author Topic: [IC] JTK Force  (Read 1954 times)
+
+https://geekhack.org/index.php?topic=96663.0
+
+Author Topic: [IC] SA 富士 (Fuji)  (Read 1711 times)
+
+https://geekhack.org/index.php?topic=96661.0
+
+Author Topic: [IC] SA Ectoplasm  (Read 20725 times)
+
+https://geekhack.org/index.php?topic=96843.0
+
+Author Topic: GMK Good Kid - RENDERS ARE IN (09/21/18)  (Read 27708 times)
+
+https://geekhack.org/index.php?topic=96279.0
+
+Author Topic: [IC] GMK Rainbow on Black ROB  (Read 9049 times)
+
+https://geekhack.org/index.php?topic=96480.0
+
+Author Topic: [IC] GMK Grey on Black  (Read 22428 times)
+
+https://geekhack.org/index.php?topic=95923.0
+
+Author Topic: [IC]SA Raccoon Keycap Set  (Read 7931 times)
+
+https://geekhack.org/index.php?topic=95890.0
+
+Author Topic: [IC] - DSA Deco (Updated 07/03/18: new colors, new font)  (Read 4802 times)
+
+https://geekhack.org/index.php?topic=95886.0
+
+Author Topic: [IC] GMK CP77  (Read 2658 times)
+
+https://geekhack.org/index.php?topic=96135.0
+
+Author Topic: [IC] GMK LIGHTNING STRIKES & Voltaic Green  (Read 3980 times)
+https://geekhack.org/index.php?topic=96157.0
+
+Author Topic: [IC] GMK Calypso  (Read 13215 times)
+
+https://geekhack.org/index.php?topic=96175.0
+
+
+Author Topic: [IC] GMK neighbor  (Read 7738 times)
+
+https://geekhack.org/index.php?topic=96206.0
+
+Author Topic: [IC] GMK Malachite  (Read 11613 times)
+
+https://geekhack.org/index.php?topic=95747.0
+
+Author Topic: [IC] SA Grey Accent (Colors and Kits updated: 2018.5.25)  (Read 16080 times)
+
+https://geekhack.org/index.php?topic=95622.0
+
+Author Topic: [IC] GMK Paper (Black on White) [GMK Renders In]  (Read 33464 times)
+
+https://geekhack.org/index.php?topic=95810.0
+
+Author Topic: [IC] GMK Yellow on Black  (Read 12050 times)
+
+https://geekhack.org/index.php?topic=95109.0
+
+Author Topic: [IC] GMK Saiyan  (Read 9757 times)
+
+https://geekhack.org/index.php?topic=95057.0
+
+Author Topic: [IC] GMK Wāpuro  (Read 29362 times)
+
+https://geekhack.org/index.php?topic=95003.0
+
+Author Topic: [IC] GMK Azure tit  (Read 2407 times)
+
+https://geekhack.org/index.php?topic=94994.0
+
+Author Topic: [IC] SA HYAH!  (Read 4916 times)
+
+https://geekhack.org/index.php?topic=95283.0
+
+Author Topic: [IC] SA Jurassic  (Read 2744 times)
+
+https://geekhack.org/index.php?topic=94751.0
+
+https://geekhack.org/index.php?topic=94868.0
+Author Topic: [IC] GMK Fate (nvm, hit a bad end)  (Read 8516 times)
 
 -----
 
