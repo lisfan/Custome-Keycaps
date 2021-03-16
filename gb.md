@@ -6,7 +6,7 @@
 
 更新内容：
 
-- 2021-03-15 增加新开团：EPBT Less But Better、GMK Fuji 富士、GMK Serenity 宁静
+- 2021-03-16 增加新开团：Maxkey SA Magica、GMK Watermelon 西瓜、SP DSS Drank
 
 ## 快速导航
 
@@ -33,6 +33,33 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [Maxkey SA Magica](https://geekhack.org/index.php?topic=108360.0)
+
+- 设计师：misononyan
+- 团购时间：2021.03.16 至 2021.04.16
+- 发货时间：待定
+- 购买方式：[zfrontier 装备前线 待更新]()
+
+![Maxkey SA Magica](media/Maxkey@SA@Magica.jpg)
+
+### [GMK 原厂 Watermelon 西瓜](https://geekhack.org/index.php?topic=107464.0)
+
+- 设计师：ogWalker
+- 团购时间：2021.03.15 至 2021.04.15
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Watermelon/)
+
+![GMK 原厂 Watermelon 西瓜](media/GMK@原厂@Watermelon@西瓜.jpg)
+
+### [SP DSS Drank](https://geekhack.org/index.php?topic=111721.0)
+
+- 设计师：MikeTheTiger
+- 团购时间：2021.03.14 至 2021.04.10
+- 发货时间：2021.07
+- 购买方式：[keyboardarcade.xyz](https://keyboardarcade.xyz/products/dss-drank-keyset)
+
+![SP DSS Drank](media/SP@DSS@Drank.jpg)
 
 ### [EPBT 原厂 Less But Better](https://geekhack.org/index.php?topic=109750.0)
 

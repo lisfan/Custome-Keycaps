@@ -8,7 +8,7 @@
 
 更新内容：
 
-- 2021-03-15 增加新开团：EPBT Less But Better、GMK Fuji 富士、GMK Serenity 宁静
+- 2021-03-16 增加新开团：Maxkey SA Magica、GMK Watermelon 西瓜、SP DSS Drank
 
 ## 本速查表访问地址
 
@@ -64,9 +64,10 @@
 - 提供团长主动上报功能（附上xx字数的简介和高清大图） 团长还可以对自己的键帽介绍进行补充
 - 问题意见建议提交
 - 键帽信息收集
-- 收录文若，DCS、Infinikey、Kate(Rama)、CannonCaps、DSS、CA(JTK)、MDA、OSA(Winmix)、
+- 收录文若，DCS、Infinikey、Kate(Rama)、CannonCaps、DSS、OSA(Winmix)
 - 收录个人团长的设计
 - 收录hammer work
+- 太豪 drop上可以找到
 - 收录SP DSS 高度
 - 专门速查正在IC中的列表
 - 增加色卡分类，通过色卡快速筛选
@@ -85,4 +86,4 @@
 
 ![Xnip2021-03-03_11-46-18](media/Xnip2021-03-03_11-46-18.png)
 
-- ![QQ群](media/16147444395013.jpg)
+![QQ群](media/16147444395013.jpg)
