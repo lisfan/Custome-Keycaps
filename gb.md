@@ -39,7 +39,7 @@
 - 设计师：misononyan
 - 团购时间：2021.03.16 至 2021.04.16
 - 发货时间：待定
-- 购买方式：[zfrontier 装备前线 待更新]()
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lMnYGp0LdjLo)
 
 ![Maxkey SA Magica](media/Maxkey@SA@Magica.jpg)
 
