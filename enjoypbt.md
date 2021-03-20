@@ -61,7 +61,7 @@
 
 ![EPBT 原厂 SOJU](./media/EPBT@原厂@SOJU_3.jpg)
 
-### [~EPBT 原厂 RamenStop](https://geekhack.org/index.php?topic=108594.0)
+### [EPBT 原厂 RamenStop](https://geekhack.org/index.php?topic=108594.0)
 
 ![EPBT 原厂 RamenStop](media/EPBT@原厂@RamenStop_1.jpg)
 
@@ -77,7 +77,7 @@
 
 ![EPBT 原厂 Ivory](media/EPBT@原厂@Ivory.jpg)
 
-### [~EPBT 原厂 Extended 2048](https://geekhack.org/index.php?topic=99696.0)
+### [EPBT 原厂 Extended 2048](https://geekhack.org/index.php?topic=99696.0)
 
 ![EPBT 原厂 Extended 2048](media/EPBT@原厂@Extended_2048.jpg)
 
@@ -89,7 +89,7 @@
 
 ![EPBT 原厂 Heavy Industry 重工业](media/EPBT@原厂@Heavy_Industry@重工业.jpg)
 
-### [~EPBT 原厂 Kuro/Shiro 黑/白](https://geekhack.org/index.php?topic=97699.0)
+### [EPBT 原厂 Kuro/Shiro 黑/白](https://geekhack.org/index.php?topic=97699.0)
 
 ![EPBT 原厂 Kuro/Shiro 黑/白](media/EPBT@原厂@Kuro_Shiro.jpg)
 
@@ -101,9 +101,9 @@
 
 ![EPBT 原厂 9009](media/EPBT@原厂@9009.jpg)
 
-### [~EPBT 原厂 PS for win](https://kbdfans.store/products/JM000565/)
+### [~EPBT 原厂 PS](https://kbdfans.store/products/JM000565/)
 
-![EPBT 原厂 PS for win](media/EPBT@原厂@PS_for_win.jpg)
+![EPBT 原厂 PS](media/EPBT@原厂@PS_for_win.jpg)
 
 ### [EPBT 原厂 SKADI](https://geekhack.org/index.php?topic=109034.msg2978641)
 

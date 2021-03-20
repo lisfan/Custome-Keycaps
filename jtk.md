@@ -51,7 +51,7 @@
 
 ![JTK 原厂 Zen 山水](media/JTK@原厂@Zen@山水.jpg)
 
-### [~JTK 原厂 NightSakura 夜樱](https://www.zfrontier.com/app/mch/1KOdjLY3WNk1)
+### [JTK 原厂 NightSakura 夜樱](https://www.zfrontier.com/app/mch/1KOdjLY3WNk1)
 
 ![JTK 原厂 NightSakura 夜樱](media/JTK@原厂@NightSakura@夜樱_1.jpg)
 
@@ -71,7 +71,7 @@
 
 ![JTK 原厂 东方一号 Vostok-1](media/JTK@原厂@东方一号@Vostok_1.jpg)
 
-### [JTK 原厂 天问一号](https://izhongchou.taobao.com/dreamdetail.htm?spm=a215p.128754.653087.29.29fa3605s92CTq&id=20093218)
+### [~JTK 原厂 天问一号](https://izhongchou.taobao.com/dreamdetail.htm?spm=a215p.128754.653087.29.29fa3605s92CTq&id=20093218)
 
 ![JTK 原厂 天问一号](media/JTK@原厂@天问一号.jpg)
 
@@ -79,7 +79,7 @@
 
 ![JTK 原厂 Arctic 北极圈](media/JTK@原厂@Arctic@北极圈.jpg)
 
-### [~JTK 原厂 HyperFuse](https://www.zfrontier.com/app/mch/1aW0MG5ydZno)
+### [JTK 原厂 HyperFuse](https://www.zfrontier.com/app/mch/1aW0MG5ydZno)
 
 ![JTK 原厂 HyperFuse](media/JTK@原厂@HyperFuse.jpg)
 

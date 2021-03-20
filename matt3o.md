@@ -35,7 +35,7 @@
 
 ## 键帽列表
 
-### ~[Matt3o MT3 EXTENDED 2048](https://geekhack.org/index.php?topic=107022.0)
+### [~Matt3o MT3 EXTENDED 2048](https://geekhack.org/index.php?topic=107022.0)
 
 - 设计师：BIIP
 - 团购时间：2021.02.05 至 2021.03.01
@@ -67,7 +67,7 @@
 
 ![Matt3o MT3 SERIKA](media/Matt3o@MT3@SERIKA.jpg)
 
-### [~Matt3o MT3 JUKEBOX](https://drop.com/buy/drop-mt3-jukebox-keycap-set)
+### [Matt3o MT3 JUKEBOX](https://drop.com/buy/drop-mt3-jukebox-keycap-set)
 
 ![Matt3o MT3 JUKEBOX](media/Matt3o@MT3@JUKEBOX.jpg)
 

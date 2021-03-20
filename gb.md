@@ -35,11 +35,20 @@
 
 ## 键帽列表
 
+### [SP SA Tatooine™ 塔图因](https://novelkeys.xyz/products/sa-tatooine-preorder)
+
+- 设计师：官方授权
+- 团购时间：2021.03.19 至 2021.04.16
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![SP SA Tatooine™ 塔图因](media/SP@SA@Tatooine@塔图因.jpg)
+
 ### [Maxkey SA Magica](https://geekhack.org/index.php?topic=108360.0)
 
 - 设计师：misononyan
 - 团购时间：2021.03.16 至 2021.04.16
-- 发货时间：待定
+- 发货时间：2021.Q3
 - 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lMnYGp0LdjLo)
 
 ![Maxkey SA Magica](media/Maxkey@SA@Magica.jpg)

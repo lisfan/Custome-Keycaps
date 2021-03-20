@@ -126,7 +126,7 @@
 
 ![SP SA Mizu 水](media/16128598568923.jpg)
 
-### [~SP SA 2600](https://geekhack.org/index.php?topic=105269.0)
+### [SP SA 2600](https://geekhack.org/index.php?topic=105269.0)
 
 ![SP SA 2600](media/SP@SA@2600.jpg)
 
@@ -142,7 +142,7 @@
 
 ![SP SA GodSpeed 神佑 R2](media/SP@SA@GodSpeed@神佑.jpg)
 
-### [~SP SA Sunday Morning 星期天早晨](https://geekhack.org/index.php?topic=103616.0)
+### [SP SA Sunday Morning 星期天早晨](https://geekhack.org/index.php?topic=103616.0)
 
 ![SP SA Sunday Morning 星期天早晨](./media/vRbgPZ.jpg)
 
@@ -223,7 +223,7 @@
 
 ![SP SA Lime 青柠](media/16128611215018.jpg)
 
-### [SP SA Symbiosis 塞班/共生 R2](https://geekhack.org/index.php?topic=94288.0)
+### [~SP SA Symbiosis 塞班/共生 R2](https://geekhack.org/index.php?topic=94288.0)
 
 ![SP SA Symbiosis 塞班/共生 R2](media/16128610648919.jpg)
 
@@ -321,7 +321,7 @@
 
 ![SP SA Dasher & Dancer](./media/SP@SA@Dasher_Dancer_2.jpg)
 
-### [~SP SA Grand Budapest 布达佩斯大饭店](https://geekhack.org/index.php?topic=85413.0)
+### [SP SA Grand Budapest 布达佩斯大饭店](https://geekhack.org/index.php?topic=85413.0)
 
 ![SP SA Grand Budapest 布达佩斯大饭店](media/16128617522676.jpg)
 
@@ -333,7 +333,7 @@
 
 ![SP SA PhotoStudio PS](./media/oKTmVC.jpg)
 
-### [~SP SA THE AMAZING CHOCOLATIER 巧克力大亨](https://geekhack.org/index.php?topic=79722.0)
+### [SP SA THE AMAZING CHOCOLATIER 巧克力大亨](https://geekhack.org/index.php?topic=79722.0)
 
 ![](media/16146560317464.jpg)
 

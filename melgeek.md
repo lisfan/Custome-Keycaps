@@ -66,7 +66,7 @@
 
 ![MelGeek MG Master 尤达](media/MELGEEK@MG@Master@尤达.jpg)
 
-### [~MelGeek MG Wahtsy 袜子](https://www.zfrontier.com/app/flow/2kkVjQEELbyP)
+### [MelGeek MG Wahtsy 袜子](https://www.zfrontier.com/app/flow/2kkVjQEELbyP)
 
 ![MelGeek MG Wahtsy 袜子](media/MELGEEK@MG@Wahtsy@袜子.jpg)
 
@@ -86,7 +86,7 @@
 
 ![MelGeek MDA Vision 启示](media/MELGEEK@MDA@Vision@启示.jpg)
 
-### [MelGeek MDA Plastic 塑料](https://www.zfrontier.com/app/flow/2RQZag50L197)
+### [~MelGeek MDA Plastic 塑料](https://www.zfrontier.com/app/flow/2RQZag50L197)
 
 ![MelGeek MDA Plastic 塑料](media/MELGEEK@MDA@Plastic@塑料.jpg)
 

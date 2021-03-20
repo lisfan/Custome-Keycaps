@@ -52,3 +52,10 @@
 - 购买方式：zFrontier 待上，国外已开团
 
 ![Keyreative KAT Slurp](media/Keyreative@KAT@Slurp.jpg)
+
+Author Topic: [IC] IFK Dark Cyrillic - GB date is set, Oct 9-23, 2020!  (Read 17783 times)
+https://geekhack.org/index.php?topic=107255.0
+
+
+[IC] PBT musubi. 8/28/20 GB LIVE
+https://geekhack.org/index.php?topic=106045.0
