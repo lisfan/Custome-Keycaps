@@ -12,7 +12,7 @@
 
 - [导读](./README.md)：推荐您在浏览前先阅读
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [即将发车](./come.md)：【正在建设中】近期即将发车的团购信息
+- [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
@@ -568,7 +568,7 @@
 
 ![GMK 原厂 Hero 英雄](./media/GMK@原厂@Hero@英雄.jpg)
 
-### [~GMK 原厂 Future Funk](https://geekhack.org/index.php?topic=104453.0)
+### [GMK 原厂 Future Funk](https://geekhack.org/index.php?topic=104453.0)
 
 ![GMK_Future_Funk](media/GMK@原厂@Future_Funk_1.jpg)
 
@@ -628,7 +628,7 @@
 
 ![GMK 原厂 Rudy 鲁迪](media/GMK@原厂@Rudy@鲁迪_2.jpg)
 
-### [~GMK 原厂 Olivia](https://geekhack.org/index.php?topic=103619.0)
+### [GMK 原厂 Olivia](https://geekhack.org/index.php?topic=103619.0)
 
 ![GMK 原厂 Olivia](media/GMK@原厂@Olivia_1.jpg)
 
@@ -638,7 +638,7 @@
 
 ![GMK 原厂 Ursa 大熊](media/GMK@原厂@Ursa@大熊.jpg)
 
-### [~GMK 原厂 Matrix_01](https://item.taobao.com/item.htm?id=607588190728)
+### [~GMK 原厂 Matrix 01](https://item.taobao.com/item.htm?id=607588190728)
 
 ![GMK 原厂 Matrix 01](./media/GMK@原厂@Matrix_01_1.jpg)
 
@@ -688,7 +688,7 @@
 
 ![GMK 原厂 Bingsu 红豆刨冰](media/GMK@原厂@Bingsu@红豆刨冰.jpg)
 
-### [~GMK 原厂 Coral 珊瑚](https://geekhack.org/index.php?topic=102849.0)
+### [GMK 原厂 Coral 珊瑚](https://geekhack.org/index.php?topic=102849.0)
 
 ![GMK 原厂 Coral 珊瑚](./media/GMK@原厂@Coral@珊瑚_1.jpg)
 
@@ -824,7 +824,7 @@
 
 ![GMK 原厂 Wavez 声波](./media/Kgkx7y.jpg)
 
-### [~GMK 原厂 Metropolis 大都会](https://geekhack.org/index.php?topic=99962.0)
+### [GMK 原厂 Metropolis 大都会](https://geekhack.org/index.php?topic=99962.0)
 
 ![GMK 原厂 Metropolis 大都会](./media/raYMnu.jpg)
 
@@ -848,11 +848,11 @@
 
 ![GMK 原厂 Deep Space 深空](./media/VoIdxN.jpg)
 
-### [~GMK 原厂 Jamon 火腿](https://geekhack.org/index.php?topic=95882.0)
+### [GMK 原厂 Jamon 火腿](https://geekhack.org/index.php?topic=95882.0)
 
 ![GMK 原厂 Jamon 火腿](./media/GMK@原厂@Jamon@火腿.jpg)
 
-### [~GMK 原厂 KA 2019 Valentine 2019情人节](https://geekhack.org/index.php?topic=99498.0)
+### [GMK 原厂 KA 2019 Valentine 2019情人节](https://geekhack.org/index.php?topic=99498.0)
 
 ![GMK 原厂 KA 2019 Valentine 2019情人节](./media/QKLOEM.jpg)
 

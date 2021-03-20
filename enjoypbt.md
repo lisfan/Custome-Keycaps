@@ -12,7 +12,7 @@
 
 - [导读](./README.md)：推荐您在浏览前先阅读
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [即将发车](./come.md)：【正在建设中】近期即将发车的团购信息
+- [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
@@ -98,7 +98,7 @@
 
 ![EPBT 原厂 G81-SAV](media/EPBT@原厂@G81_SAV.jpg)
 
-### [~EPBT 原厂 9009](https://kbdfans.store/products/C0015/)
+### [EPBT 原厂 9009](https://kbdfans.store/products/C0015/)
 
 ![EPBT 原厂 9009](media/EPBT@原厂@9009.jpg)
 
@@ -110,7 +110,7 @@
 
 ![EPBT 原厂 SKADI](media/EPBT@原厂@SKADI.jpg)
 
-### [~EPBT 原厂 Royal Alpha 皇家打印机](https://kbdfans.com/collections/keycaps/products/epbt-x-donutcat-royal-alpha-keycaps-set)
+### [EPBT 原厂 Royal Alpha 皇家打印机](https://kbdfans.com/collections/keycaps/products/epbt-x-donutcat-royal-alpha-keycaps-set)
 
 ![EPBT 原厂 Royal Alpha 皇家打印机](media/EPBT@原厂@Royal_Alpha@皇家打印机.jpg)
 

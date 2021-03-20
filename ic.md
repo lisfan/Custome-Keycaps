@@ -12,7 +12,7 @@
 
 - [导读](./README.md)：推荐您在浏览前先阅读
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [即将发车](./come.md)：【正在建设中】近期即将发车的团购信息
+- [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
@@ -45,7 +45,7 @@
 
 ![](media/16160720398418.jpg)
 
-### [GMK Specter](https://geekhack.org/index.php?topic=111770.0)
+### [~GMK Specter](https://geekhack.org/index.php?topic=111770.0)
 
 ![](media/16160720881185.jpg)
 
@@ -76,10 +76,6 @@
 ### [JTK Brown Bear](https://geekhack.org/index.php?topic=111660.0)
 
 ![](media/16161205702417.jpg)
-
-### [GMK Hazakura](https://geekhack.org/index.php?topic=111653.0)
-
-![](media/16161206761686.jpg)
 
 ### [GMK TAIGA](https://geekhack.org/index.php?topic=111656.0)
 
@@ -183,10 +179,6 @@
 
 ![](media/16161254427460.jpg)
 
-### [GMK 95NEON](https://geekhack.org/index.php?topic=111270.0)
-
-![](media/16161254691099.jpg)
-
 ### [~JTK Illusion](https://geekhack.org/index.php?topic=111251.0)
 
 ![](media/16161257484729.jpg)
@@ -283,14 +275,6 @@
 
 ![](media/16161274599540.jpg)
 
-### [GMK Stargaze](https://geekhack.org/index.php?topic=110741.0)
-
-![](media/16161274510145.jpg)
-
-### [~GMK ART](https://geekhack.org/index.php?topic=110737.0)
-
-![](media/16161276340456.jpg)
-
 ### [GMK Galant](https://geekhack.org/index.php?topic=110731.0)
 
 ![](media/16161276527114.jpg)
@@ -308,10 +292,6 @@
 ### [GMK Tamago](https://geekhack.org/index.php?topic=110707.0)
 
 ![](media/16161275979220.jpg)
-
-### [GMK HANOK](https://geekhack.org/index.php?topic=110801.0)
-
-![](media/16161278477745.jpg)
 
 ### [GMK Twilight](https://geekhack.org/index.php?topic=110694.0)
 
@@ -363,10 +343,6 @@
 
 ![](media/16161281910994.jpg)
 
-### [GMK TeraDrive](https://geekhack.org/index.php?topic=110275.0)
-
-![](media/16161283078212.jpg)
-
 ### [GMK The Child](https://geekhack.org/index.php?topic=110248.0)
 
 ![](media/16161283214012.jpg)
@@ -375,47 +351,13 @@
 
 ![](media/16161283355310.jpg)
 
-### [GMK Boulder](https://geekhack.org/index.php?topic=110244.0)
-
-![](media/16161283507932.jpg)
-
-### [GMK Higanbana 彼岸花](https://geekhack.org/index.php?topic=110235.0)
-
-![](media/16161282869204.jpg)
-
-### [GMK Arch](https://geekhack.org/index.php?topic=110180.0)
-
-![](media/16161327706630.jpg)
-
-### [GMK Seafarer](https://geekhack.org/index.php?topic=110169.0)
-
-![](media/16161327502039.jpg)
-
 ### [JTK Cyberkeycapset](https://geekhack.org/index.php?topic=110131.0)
 
 ![](media/16161326912344.jpg)
 
-### [GMK Tako](https://geekhack.org/index.php?topic=110113.0)
-
-![](media/16161327049407.jpg)
-
-### [GMK Vlo](https://geekhack.org/index.php?topic=110051.0)
-
-![](media/16161327265074.jpg)
-
-### [GMK Monarch](https://geekhack.org/index.php?topic=110064.0)
-
-![](media/16161325271258.jpg)
-
 ### [GMK MOAI](https://geekhack.org/index.php?topic=110065.0)
 
 ![](media/16161285675734.jpg)
-
-### [JTK Sora](https://geekhack.org/index.php?topic=110021.0)
-
-![](media/16161324881829.jpg)
-
-![](media/16161324800638.jpg)
 
 ### [GMK ADA](https://geekhack.org/index.php?topic=110016.0)
 
@@ -424,16 +366,6 @@
 ### [GMK Lancaster](https://geekhack.org/index.php?topic=109917.0)
 
 ![](media/16161315073220.jpg)
-
-### [~GMK EARTH TONES](https://geekhack.org/index.php?topic=109898.0)
-
-![](media/16161314866744.jpg)
-
-![](media/16161314939951.jpg)
-
-### [~GMK Fox](https://geekhack.org/index.php?topic=109895.0)
-
-![](media/16161314652084.jpg)
 
 ### [GMK Psyche](https://geekhack.org/index.php?topic=109864.0)
 
@@ -451,33 +383,17 @@
 
 ![](media/16161323887954.jpg)
 
-### [GMK Agent 01](https://geekhack.org/index.php?topic=109777.0)
-
-![](media/16161323416729.jpg)
-
 ### [GMK Halo-halo](https://geekhack.org/index.php?topic=109839.0)
 
 ![](media/16161316784845.jpg)
-
-### [GMK Deepwell](https://geekhack.org/index.php?topic=109622.0)
-
-![](media/16161315510587.jpg)
 
 ### [ePBT BoW Hangul](https://geekhack.org/index.php?topic=109619.0)
 
 ![](media/16161330646451.jpg)
 
-### [GMK Lazurite](https://geekhack.org/index.php?topic=109549.0)
-
-![](media/16161362718066.jpg)
-
 ### [GMK Alexandria](https://geekhack.org/index.php?topic=109510.0)
 
 ![](media/16161362537606.jpg)
-
-### [GMK Kuroge Wagy 黒毛和牛](https://geekhack.org/index.php?topic=109503.0)
-
-![](media/16161361416333.jpg)
 
 ### [~ePBT Divine Plan](https://geekhack.org/index.php?topic=109415.0)
 
@@ -497,16 +413,6 @@
 
 ![](media/16161473953595.jpg)
 
-### [GMK Wise Wolf](https://geekhack.org/index.php?topic=109421.0)
-
-![](media/16161625001385.jpg)
-
-### [~GMK Lavender](https://geekhack.org/index.php?topic=109363.0)
-
-![](media/16161625141488.jpg)
-
-![](media/16161625251388.jpg)
-
 ### [GMK Yami](https://geekhack.org/index.php?topic=109359.0)
 
 ![](media/16161626022864.jpg)
@@ -521,21 +427,9 @@
 
 ![](media/16161624538178.jpg)
 
-### [GMK Ptisserie](https://geekhack.org/index.php?topic=109160.0)
-
-![](media/16161624078670.jpg)
-
-### [GMK Kouhai](https://geekhack.org/index.php?topic=109077.0)
-
-![](media/16161626728046.jpg)
-
 ### [PBT Space Camp: Mars](https://geekhack.org/index.php?topic=109117.0)
 
 ![](media/16161627213874.jpg)
-
-### [GMK Tea Witch](https://geekhack.org/index.php?topic=109074.0)
-
-![](media/16161628561000.jpg)
 
 ![](media/16161628695406.jpg)
 
@@ -555,10 +449,6 @@
 
 ![](media/16161631981530.jpg)
 
-### [GMK Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
-
-![](media/16161632476922.jpg)
-
 ### [~JTK Classic Retro Cyrillic](https://geekhack.org/index.php?topic=108918.0)
 
 ![](media/16161633025856.jpg)
@@ -571,10 +461,6 @@
 
 ![](media/16162422495011.jpg)
 ![](media/16162422392824.jpg)
-
-### [GMK Sunset Surfing](https://geekhack.org/index.php?topic=108752.0)
-
-![](media/16162422068300.jpg)
 
 ### [GMK Jacque$](https://geekhack.org/index.php?topic=108640.0)
 
@@ -593,10 +479,6 @@
 ### [ePBT Night Market](https://geekhack.org/index.php?topic=108405.0)
 
 ![](media/16161638975100.jpg)
-
-### [GMK JIS (Japanese Industrial Standards) WoB](https://geekhack.org/index.php?topic=108328.0)
-
-![](media/16161635561803.jpg)
 
 ### [GMK Gruvbox](https://geekhack.org/index.php?topic=108228.0)
 
@@ -628,12 +510,6 @@
 
 ![](media/16161640542306.jpg)
 
-### [GMK British Racing Green](https://geekhack.org/index.php?topic=107933.0)
-
-![](media/16161640832678.jpg)
-
-![](media/16161640910392.jpg)
-
 ### [GMK Backcountry](https://geekhack.org/index.php?topic=107602.0)
 
 ![](media/16161679534749.jpg)
@@ -645,10 +521,6 @@
 ### [Infinikey Strawberry Lemonade](https://geekhack.org/index.php?topic=107161.0)
 
 ![](media/16161680666323.jpg)
-
-### [GMK Houhai](https://geekhack.org/index.php?topic=107034.0)
-
-![](media/16161680913975.jpg)
 
 ### [GMK Moonlight](https://geekhack.org/index.php?topic=107004.0)
 
@@ -794,7 +666,7 @@
 
 ![](media/16162271041827.jpg)
 
-### [EPBT TA Origins](https://geekhack.org/index.php?topic=104718.0)
+### [ePBT TA Origins](https://geekhack.org/index.php?topic=104718.0)
 
 ![](media/16162271291726.jpg)
 
@@ -820,7 +692,7 @@
 
 ![](media/16162278141373.jpg)
 
-### [~EPBT Mint](https://geekhack.org/index.php?topic=104087.0)
+### [~ePBT Mint](https://geekhack.org/index.php?topic=104087.0)
 
 ![](media/16162278532974.jpg)
 
@@ -896,10 +768,6 @@
 
 ![](media/16162286096451.jpg)
 
-### [GMK Sixes](https://geekhack.org/index.php?topic=102535.0)
-
-![](media/16162285058953.jpg)
-
 ### [GMK Gold Rush](https://geekhack.org/index.php?topic=102524.0)
 
 ![](media/16162285190648.jpg)
@@ -936,7 +804,7 @@
 
 ![](media/16162294748531.jpg)
 
-### [EnjoyPBT Beige on Pink Hangul](https://geekhack.org/index.php?topic=101128.0)
+### [ePBT Beige on Pink Hangul](https://geekhack.org/index.php?topic=101128.0)
 
 ![](media/16162298270831.jpg)
 

@@ -12,7 +12,7 @@
 
 - [导读](./README.md)：推荐您在浏览前先阅读
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [即将发车](./come.md)：【正在建设中】近期即将发车的团购信息
+- [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
@@ -241,10 +241,6 @@
 
 ![](media/16161262484092.jpg)
 
-### [DCS QUACK!](https://geekhack.org/index.php?topic=110937.0)
-
-![](media/16161264160424.jpg)
-
 ### [MT3 Monomanukai](https://geekhack.org/index.php?topic=111011.0)
 
 ![](media/16161261374194.jpg)
@@ -260,10 +256,6 @@
 ![](media/16161253412754.jpg)
 
 ![](media/16161253323605.jpg)
-
-### [DSS Late Harvest](https://geekhack.org/index.php?topic=110904.0)
-
-![](media/16161272774814.jpg)
 
 ### [DSA Feline Knight](https://geekhack.org/index.php?topic=110614.0)
 

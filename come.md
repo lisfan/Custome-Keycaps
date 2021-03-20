@@ -6,13 +6,13 @@
 
 更新内容：
 
-- 2021-02-25 拆分到单个文档管理
+- 2021-03-20 整理即将发车的信息
 
 ## 快速导航
 
 - [导读](./README.md)：推荐您在浏览前先阅读
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [即将发车](./come.md)：【正在建设中】近期即将发车的团购信息
+- [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
@@ -36,33 +36,278 @@
 
 ## 键帽列表
 
-### [GMK METROPOLIS 2](https://geekhack.org/index.php?topic=111614.0)
+### 三月
+
+#### [SP DCS QUACK!](https://geekhack.org/index.php?topic=110937.0)
+
+发车时间：2021.03
+
+![](media/16161264160424.jpg)
+
+#### [GMK Monarch](https://geekhack.org/index.php?topic=110064.0)
+
+发车时间：2021.03
+
+![](media/16161325271258.jpg)
+
+### 四月
+
+#### [SP DCS Delftware](https://geekhack.org/index.php?topic=104417.0)
+
+发车时间：2021.04.01
+
+![](media/16162276000816.jpg)
+
+#### [JTK Sora](https://geekhack.org/index.php?topic=110021.0)
+
+发车时间：2021.04.01
+
+![](media/16161324881829.jpg)
+
+![](media/16161324800638.jpg)
+
+#### [GMK 95NEON](https://geekhack.org/index.php?topic=111270.0)
+
+发车时间：2021.04.01
+
+![](media/16161254691099.jpg)
+
+#### [GMK METROPOLIS 2](https://geekhack.org/index.php?topic=111614.0)
+
+发车时间：2021.04.02
 
 ![](media/16161233583047.jpg)
 
-### [GMK Wasabi V2](https://geekhack.org/index.php?topic=111528.0)
+#### [GMK Sunset Surfing](https://geekhack.org/index.php?topic=108752.0)
+
+发车时间：2021.04.06
+
+![](media/16162422068300.jpg)
+
+#### [GMK Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
+
+发车时间：2021.04.10
+
+![](media/16161632476922.jpg)
+
+#### [SP DSS Late Harvest](https://geekhack.org/index.php?topic=110904.0)
+
+发车时间：2021.04.12
+
+![](media/16161272774814.jpg)
+
+#### [GMK Seafarer](https://geekhack.org/index.php?topic=110169.0)
+
+发车时间：2021.04.16
+
+![](media/16161327502039.jpg)
+
+#### [GMK HANOK 한옥](https://geekhack.org/index.php?topic=110801.0)
+
+发车时间：2021.04
+
+![](media/16161278477745.jpg)
+
+#### [GMK Boulder](https://geekhack.org/index.php?topic=110244.0)
+
+发车时间：2021.04
+
+![](media/16161283507932.jpg)
+
+#### [GMK Peaches n Cream](https://geekhack.org/index.php?topic=101419.0)
+
+发车时间：2021.04
+
+![](media/16162511138561.jpg)
+
+#### [GMK Kouhai](https://geekhack.org/index.php?topic=109077.0)
+
+发车时间：2021.04
+
+![](media/16161626728046.jpg)
+
+#### [~GMK Fox](https://geekhack.org/index.php?topic=109895.0)
+
+发车时间：2021.04.01
+
+![](media/16161314652084.jpg)
+
+#### [JTK Packet Loss](https://www.reddit.com/r/MechanicalKeyboards/comments/l1ccui/jtk_packet_loss_coming_soon/)
+
+发车时间：2021.04
+
+![](media/16162511693671.jpg)
+
+#### [GMK Wasabi V2](https://geekhack.org/index.php?topic=111528.0)
+
+发车时间：2021.04
 
 ![](media/16161242120133.jpg)
-### [SP SA Handarbeit+](https://geekhack.org/index.php?topic=111816.0)
+
+#### [SP SA Handarbeit+](https://geekhack.org/index.php?topic=111816.0)
+
+发车时间：2021.04
 
 ![](media/16161204646471.jpg)
 
-### [GMK Handarbeit+ Round2 & GMK Nachtarbeit](https://geekhack.org/index.php?topic=111758.0)
+### 五月
+
+#### [GMK Hazakura](https://geekhack.org/index.php?topic=111653.0)
+
+发车时间：2021.05.01
+
+![](media/16161206761686.jpg)
+
+#### [GMK Ptisserie](https://geekhack.org/index.php?topic=109160.0)
+
+发车时间：2021.05.17
+
+![](media/16161624078670.jpg)
+
+#### [GMK Houhai](https://geekhack.org/index.php?topic=107034.0)
+
+发车时间：2021.05.31
+
+![](media/16161680913975.jpg)
+
+#### [GMK Handarbeit+ Round2 & GMK Nachtarbeit](https://geekhack.org/index.php?topic=111758.0)
+
+发车时间：2021.05
 
 ![](media/16161205301521.jpg)
 
 ![](media/16161205377567.jpg)
 
-### [DCS Delftware](https://geekhack.org/index.php?topic=104417.0)
+#### [GMK Arch](https://geekhack.org/index.php?topic=110180.0)
 
-![](media/16162276000816.jpg)
+发车时间：2021.05
 
+![](media/16161327706630.jpg)
 
-### [GMK Pretty in Pink 增补，已开团](https://geekhack.org/index.php?topic=102307.0)
+#### [GMK Deepwell](https://geekhack.org/index.php?topic=109622.0)
+
+发车时间：2021.05
+
+![](media/16161315510587.jpg)
+
+#### [GMK British Racing Green](https://geekhack.org/index.php?topic=107933.0)
+
+发车时间：2021.05
+
+![](media/16161640832678.jpg)
+
+![](media/16161640910392.jpg)
+
+#### [GMK Tea Witch](https://geekhack.org/index.php?topic=109074.0)
+
+发车时间：2021.05
+
+![](media/16161628561000.jpg)
+
+#### [GMK Tako](https://geekhack.org/index.php?topic=110113.0)
+
+发车时间：2021.05
+
+![](media/16161327049407.jpg)
+
+### 六月
+
+#### [~GMK EARTH TONES](https://geekhack.org/index.php?topic=109898.0)
+
+发车时间：2021.06.01
+
+![](media/16161314866744.jpg)
+
+![](media/16161314939951.jpg)
+
+#### [GMK Vélo](https://geekhack.org/index.php?topic=110051.0)
+
+发车时间：2021.06.01
+
+![](media/16161327265074.jpg)
+
+#### [GMK Sixes](https://geekhack.org/index.php?topic=102535.0)
+
+发车时间：2021.06
+
+![](media/16162285058953.jpg)
+
+#### [~GMK Lavender](https://geekhack.org/index.php?topic=109363.0)
+
+发车时间：2021.06
+
+![](media/16161625141488.jpg)
+
+![](media/16161625251388.jpg)
+
+#### [GMK Kuroge Wagyū 黒毛和牛](https://geekhack.org/index.php?topic=109503.0)
+
+发车时间：2021.Q2
+
+![](media/16161361416333.jpg)
+
+### 七月
+
+#### [GMK Higanbana 彼岸花](https://geekhack.org/index.php?topic=110235.0)
+
+发车时间：2021.07
+
+![](media/16161282869204.jpg)
+
+#### [~GMK ART](https://geekhack.org/index.php?topic=110737.0)
+
+发车时间：2021.07
+
+![](media/16161276340456.jpg)
+
+#### [GMK JIS (Japanese Industrial Standards) WoB](https://geekhack.org/index.php?topic=108328.0)
+
+发车时间：2021.07
+
+![](media/16161635561803.jpg)
+
+#### [GMK Stargaze](https://geekhack.org/index.php?topic=110741.0)
+
+发车时间：2021.07
+
+![](media/16161274510145.jpg)
+
+### 八月
+
+#### [GMK TeraDrive](https://geekhack.org/index.php?topic=110275.0)
+
+发车时间：2021.08
+
+![](media/16161283078212.jpg)
+
+#### [GMK Wise Wolf](https://geekhack.org/index.php?topic=109421.0)
+
+发车时间：2021.08
+
+![](media/16161625001385.jpg)
+
+### 鸽了
+
+#### [GMK Agent 01](https://geekhack.org/index.php?topic=109777.0)
+
+发车时间：2021.01
+
+![](media/16161323416729.jpg)
+
+#### [GMK Lazurite](https://geekhack.org/index.php?topic=109549.0)
+
+发车时间：2021.02
+
+![](media/16161362718066.jpg)
+
+### 待整理
+
+#### [GMK Pretty in Pink 增补，已开团](https://geekhack.org/index.php?topic=102307.0)
+
 ![](media/16162295819283.jpg)
 
+#### DSA Hana Keyset (Available on SP keyshop)
 
-[IC] DSA Hana Keyset (Available on SP keyshop)
 https://geekhack.org/index.php?topic=74553.0
 https://drop.com/buy/hana-dsa-custom-keycap-set?_ga=2.238811842.35918209.1615176744-2084176719.1607486142
 ![](media/16162382418320.jpg)
