@@ -13,7 +13,8 @@
 - [导读](./README.md)：推荐您在浏览前先阅读
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：【正在建设中】近期即将发车的团购信息
-- [IC](./ic.md)：【正在建设中】正在IC中的客制化键帽信息
+- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
+- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -165,7 +166,7 @@
 
 ![SP SA Royal Navy 皇家海军](media/SP@SA@Royal_Navy@皇家海军.jpg)
 
-### [~SP SA 128K AE](https://www.zfrontier.com/app/flow/eNm1pqb6Vo6X)
+### [~SP SA 128K AE](https://geekhack.org/index.php?topic=100999.0)
 
 ![SP SA 128K AE](media/16128602427609.jpg)
 

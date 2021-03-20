@@ -20,7 +20,8 @@
 - [导读](./README.md)：推荐您在浏览前先阅读
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：【正在建设中】近期即将发车的团购信息
-- [IC](./ic.md)：【正在建设中】正在IC中的客制化键帽信息
+- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
+- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -66,11 +67,11 @@
 - 提供团长主动上报功能（附上xx字数的简介和高清大图） 团长还可以对自己的键帽介绍进行补充
 - 问题意见建议提交
 - 键帽信息收集
-- 收录文若，DCS、Infinikey、Kate(Rama)、CannonCaps、DSS、OSA(Winmix)
+- 收录Infinikey、文若，、Kate(Rama)、CannonCaps、OSA(Winmix)
 - 收录个人团长的设计
 - 收录hammer work
 - 太豪 drop上可以找到
-- 收录SP DSS 高度
+- 收录SP DSS 高度 sp DCS
 - 专门速查正在IC中的列表
 - 增加色卡分类，通过色卡快速筛选
 - 增加设计师，开团时间数据数据

@@ -13,7 +13,8 @@
 - [导读](./README.md)：推荐您在浏览前先阅读
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：【正在建设中】近期即将发车的团购信息
-- [IC](./ic.md)：【正在建设中】正在IC中的客制化键帽信息
+- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
+- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -35,8 +36,33 @@
 
 ## 键帽列表
 
-不断建设中
+### [GMK METROPOLIS 2](https://geekhack.org/index.php?topic=111614.0)
 
-Author Topic: [IC] GMK Handarbeit+ Round2 & GMK Nachtarbeit  (Read 4722 times)
+![](media/16161233583047.jpg)
 
-https://geekhack.org/index.php?topic=111758.0
+### [GMK Wasabi V2](https://geekhack.org/index.php?topic=111528.0)
+
+![](media/16161242120133.jpg)
+### [SP SA Handarbeit+](https://geekhack.org/index.php?topic=111816.0)
+
+![](media/16161204646471.jpg)
+
+### [GMK Handarbeit+ Round2 & GMK Nachtarbeit](https://geekhack.org/index.php?topic=111758.0)
+
+![](media/16161205301521.jpg)
+
+![](media/16161205377567.jpg)
+
+### [DCS Delftware](https://geekhack.org/index.php?topic=104417.0)
+
+![](media/16162276000816.jpg)
+
+
+### [GMK Pretty in Pink 增补，已开团](https://geekhack.org/index.php?topic=102307.0)
+![](media/16162295819283.jpg)
+
+
+[IC] DSA Hana Keyset (Available on SP keyshop)
+https://geekhack.org/index.php?topic=74553.0
+https://drop.com/buy/hana-dsa-custom-keycap-set?_ga=2.238811842.35918209.1615176744-2084176719.1607486142
+![](media/16162382418320.jpg)
