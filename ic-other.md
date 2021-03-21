@@ -27,6 +27,7 @@
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
 - [Other 系列](./other.md)：无法归类的
+- [客制化QQ群](./gg-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
 
@@ -311,7 +312,7 @@
 
 ![](media/16161635868950.jpg)
 
-### [KAT Space Dust](https://geekhack.org/index.php?topic=107942.0)
+### [~KAT Space Dust](https://geekhack.org/index.php?topic=107942.0)
 
 ![](media/16161640720348.jpg)
 

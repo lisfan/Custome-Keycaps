@@ -34,6 +34,7 @@
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
 - [Other 系列](./other.md)：无法归类的
+- [客制化QQ群](./gg-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 建议新人入坑参考以下信息源
 
