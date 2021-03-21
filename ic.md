@@ -37,6 +37,14 @@
 
 ## 键帽列表
 
+### [GMK Marmoreal](https://geekhack.org/index.php?topic=111828.0)
+
+![](media/16163057523980.jpg)
+
+### [GMK Parcel](https://geekhack.org/index.php?topic=111819.0)
+
+![](media/16163057944482.jpg)
+
 ### [~PBT Slash](https://geekhack.org/index.php?topic=111806.0)
 
 ![PBT Slash](media/16160709497315.jpg)
