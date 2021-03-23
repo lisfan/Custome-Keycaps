@@ -6,7 +6,7 @@
 
 更新内容：
 
-- 2021-03-20 整理IC
+- 2021-03-23 新增IC：GMK Morandi，GMK Lilac，ePBT Origami，GMK Media Keys
 
 ## 快速导航
 
@@ -37,6 +37,27 @@
 4. 会对活跃中的帖子提供键帽配列渲染图，但不会精修图片，当帖子被挪到即将**即将发车**状态时会再精挑细选一次渲染图
 
 ## 键帽列表
+
+### [GMK Morandi](https://geekhack.org/index.php?topic=111870.0)
+
+![](media/16164638442237.jpg)
+
+![](media/16164638521648.jpg)
+
+### [GMK Lilac](https://geekhack.org/index.php?topic=111859.0)
+
+![](media/16164639092799.jpg)
+
+### [ePBT Origami](https://geekhack.org/index.php?topic=111860.0)
+
+
+![](media/16164639408201.jpg)
+
+### [GMK Media Keys](https://geekhack.org/index.php?topic=111884.0)
+
+![](media/16164638832698.jpg)
+
+![](media/16164638885989.jpg)
 
 ### [GMK Marmoreal](https://geekhack.org/index.php?topic=111828.0)
 
