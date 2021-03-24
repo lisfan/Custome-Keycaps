@@ -92,10 +92,6 @@
 
 ![](media/16161630774315.jpg)
 
-### [SA Espresso](https://geekhack.org/index.php?topic=108230.0)
-
-![](media/16161636193235.jpg)
-
 ### [SA Outlander](https://geekhack.org/index.php?topic=105573.0)
 
 ![](media/16162268011582.jpg)

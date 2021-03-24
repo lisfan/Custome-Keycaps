@@ -6,7 +6,7 @@
 
 更新内容：
 
-- 2021-03-23 新增IC：GMK Morandi，GMK Lilac，ePBT Origami，GMK Media Keys
+- 2021-03-24 新增IC：PBT Toby
 
 ## 快速导航
 
@@ -37,6 +37,10 @@
 4. 会对活跃中的帖子提供键帽配列渲染图，但不会精修图片，当帖子被挪到即将**即将发车**状态时会再精挑细选一次渲染图
 
 ## 键帽列表
+
+### [PBT Toby](https://geekhack.org/index.php?topic=111899.0)
+
+![](media/16165494822127.jpg)
 
 ### [GMK Morandi](https://geekhack.org/index.php?topic=111870.0)
 
@@ -200,10 +204,6 @@
 ### [GMK Pepperoni](https://geekhack.org/index.php?topic=111463.0)
 
 ![](media/16161252042265.jpg)
-
-### [GMK Jelly Delights](https://geekhack.org/index.php?topic=111390.0)
-
-![](media/16161253023852.jpg)
 
 ### [GMK Void](https://geekhack.org/index.php?topic=111333.0)
 
@@ -499,12 +499,6 @@
 ### [GMK SLASHER](https://geekhack.org/index.php?topic=108484.0)Update
 
 ![](media/16161637830630.jpg)
-
-### [~ePBT 6085](https://geekhack.org/index.php?topic=108456.0)
-
-![](media/16161638354870.jpg)
-
-![](media/16161638485600.jpg)
 
 ### [ePBT Night Market](https://geekhack.org/index.php?topic=108405.0)
 
