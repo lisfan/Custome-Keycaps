@@ -622,10 +622,6 @@
 
 ![](media/16161689175571.jpg)
 
-### [GMK Zooted](https://geekhack.org/index.php?topic=105845.0)
-
-![](media/16161687243482.jpg)
-
 ### [KAT Shogōki](https://geekhack.org/index.php?topic=105842.0)
 
 ![](media/16162266682180.jpg)

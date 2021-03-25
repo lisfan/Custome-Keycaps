@@ -6,7 +6,7 @@
 
 更新内容：
 
-- 2021-03-20 整理即将发车的信息
+- 2021-03-25 更新GMK Zooted和 GMK Agent 01的开团时间
 
 ## 快速导航
 
@@ -97,6 +97,12 @@
 
 ![](media/16162422068300.jpg)
 
+#### [GMK Agent 01](https://geekhack.org/index.php?topic=109777.0)
+
+发车时间：2021.04.09
+
+![](media/16161323416729.jpg)
+
 #### [GMK Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
 
 发车时间：2021.04.10
@@ -134,6 +140,12 @@
 发车时间：2021.04.16
 
 ![](media/16161327502039.jpg)
+
+### [GMK Zooted](https://geekhack.org/index.php?topic=105845.0)
+
+发车时间：2021.04.20
+
+![](media/16161687243482.jpg)
 
 ### [GMK Jelly Delights](https://geekhack.org/index.php?topic=111390.0)
 
@@ -308,12 +320,6 @@
 ![](media/16161625001385.jpg)
 
 ### 鸽了
-
-#### [GMK Agent 01](https://geekhack.org/index.php?topic=109777.0)
-
-发车时间：2021.01
-
-![](media/16161323416729.jpg)
 
 #### [GMK Lazurite](https://geekhack.org/index.php?topic=109549.0)
 

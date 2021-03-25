@@ -68,7 +68,7 @@
 
 ![SP SA Devil Daisy 恶魔雏菊](./media/ytnk6V.jpg)
 
-### ~SP Daisy 雏菊 SA
+### ~SP SA Daisy 雏菊
 
 ![SP SA Daisy 雏菊](./media/jSw8mM.jpg)
 

@@ -67,7 +67,7 @@
 
 ### DOMIKEY SA 灰白
 
-![DOMIKEY SA 灰白](media/16126753751704.jpg)
+![~DOMIKEY SA 灰白](media/16126753751704.jpg)
 
 ### DOMIKEY SA Polar Light 极光
 
