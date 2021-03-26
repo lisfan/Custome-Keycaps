@@ -52,8 +52,7 @@
 
 ![](media/16164639092799.jpg)
 
-### [ePBT Origami](https://geekhack.org/index.php?topic=111860.0)
-
+### [~ePBT Origami](https://geekhack.org/index.php?topic=111860.0)
 
 ![](media/16164639408201.jpg)
 
@@ -263,7 +262,7 @@
 
 ![](media/16161262738934.jpg)
 
-### [~GMK Faceless](https://geekhack.org/index.php?topic=110961.0)
+### [GMK Faceless](https://geekhack.org/index.php?topic=110961.0)
 
 ![](media/16161262562220.jpg)
 
@@ -331,7 +330,7 @@
 
 ![](media/16161278815291.jpg)
 
-### [GMK Lychee 荔枝)](https://geekhack.org/index.php?topic=110587.0)
+### [GMK Lychee 荔枝](https://geekhack.org/index.php?topic=110587.0)
 
 ![](media/16161277995879.jpg)
 
@@ -496,7 +495,7 @@
 
 ![](media/16161637270006.jpg)
 
-### [GMK SLASHER](https://geekhack.org/index.php?topic=108484.0)Update
+### [GMK SLASHER](https://geekhack.org/index.php?topic=108484.0)
 
 ![](media/16161637830630.jpg)
 
@@ -712,7 +711,7 @@
 
 ![](media/16162278141373.jpg)
 
-### [~ePBT Mint](https://geekhack.org/index.php?topic=104087.0)
+### [ePBT Mint](https://geekhack.org/index.php?topic=104087.0)
 
 ![](media/16162278532974.jpg)
 

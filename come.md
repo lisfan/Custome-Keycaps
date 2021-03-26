@@ -6,7 +6,7 @@
 
 更新内容：
 
-- 2021-03-25 更新GMK Zooted和 GMK Agent 01的开团时间
+- 2021-03-26 更新GMK Lazurite、JTK Sora、MG MDA Label
 
 ## 快速导航
 
@@ -59,15 +59,7 @@
 
 ![](media/16162276000816.jpg)
 
-#### [JTK Sora](https://geekhack.org/index.php?topic=110021.0)
-
-发车时间：2021.04.01
-
-![](media/16161324881829.jpg)
-
-![](media/16161324800638.jpg)
-
-#### [~GMK Fox](https://geekhack.org/index.php?topic=109895.0)
+#### [GMK Fox](https://geekhack.org/index.php?topic=109895.0)
 
 发车时间：2021.04.01
 
@@ -91,6 +83,14 @@
 
 ![](media/16161283507932.jpg)
 
+#### [JTK Sora](https://geekhack.org/index.php?topic=110021.0)
+
+发车时间：2021.04.06
+
+![](media/16161324881829.jpg)
+
+![](media/16161324800638.jpg)
+
 #### [GMK Sunset Surfing](https://geekhack.org/index.php?topic=108752.0)
 
 发车时间：2021.04.06
@@ -103,7 +103,7 @@
 
 ![](media/16161323416729.jpg)
 
-#### [GMK Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
+#### [~GMK Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
 
 发车时间：2021.04.10
 
@@ -127,7 +127,7 @@
 
 ![](media/16162511138561.jpg)
 
-### [ePBT 6085](https://geekhack.org/index.php?topic=108456.0)
+### [~ePBT 6085](https://geekhack.org/index.php?topic=108456.0)
 
 发车时间：2021.04.15
 
@@ -158,7 +158,7 @@
 发车时间：2021.04.30
 
 ![](media/16161327706630.jpg)
-
+)
 #### [GMK HANOK 한옥](https://geekhack.org/index.php?topic=110801.0)
 
 发车时间：2021.04
@@ -189,6 +189,14 @@
 
 ![](media/16161204646471.jpg)
 
+#### MG MDA Label
+
+发车时间：2021.04
+
+![MG MDA Label](media/B575A2E58E9014A734FCF094BE5D34A1.jpg)
+
+![MG MDA Label](media/F2A2D863464D720563222C38805743D7.jpg)
+
 ### 五月
 
 #### [GMK Hazakura](https://geekhack.org/index.php?topic=111653.0)
@@ -196,6 +204,12 @@
 发车时间：2021.05.01
 
 ![](media/16161206761686.jpg)
+
+#### [GMK Lazurite](https://geekhack.org/index.php?topic=109549.0)
+
+发车时间：2021.05.07
+
+![](media/16161362718066.jpg)
 
 #### [GMK Ptisserie](https://geekhack.org/index.php?topic=109160.0)
 
@@ -318,11 +332,3 @@
 发车时间：2021.08
 
 ![](media/16161625001385.jpg)
-
-### 鸽了
-
-#### [GMK Lazurite](https://geekhack.org/index.php?topic=109549.0)
-
-发车时间：2021.02
-
-![](media/16161362718066.jpg)
