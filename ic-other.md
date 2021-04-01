@@ -46,10 +46,6 @@
 
 ![](media/16160724230622.jpg)
 
-### [~SP SA Prism](https://geekhack.org/index.php?topic=111464.0)
-
-![](media/16161251432003.jpg)
-
 ### [SA Crimson Wither](https://geekhack.org/index.php?topic=110920.0)
 
 ![](media/16161262867316.jpg)

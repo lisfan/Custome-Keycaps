@@ -41,12 +41,6 @@
 
 ![](media/16161264160424.jpg)
 
-#### [GMK Monarch](https://geekhack.org/index.php?topic=110064.0)
-
-发车时间：2021.03.24
-
-![](media/16161325271258.jpg)
-
 ### 四月
 
 #### [SP DCS Delftware](https://geekhack.org/index.php?topic=104417.0)

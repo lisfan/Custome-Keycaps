@@ -4,9 +4,7 @@
 
 如有遗漏，请联系QQ：448182355
 
-## 更新内容（详细更新历史见最低部）
-
-- 2021-03-16 增加新开团：Maxkey SA Magica、GMK Watermelon 西瓜、SP DSS Drank
+## 更新历史见最底部
 
 ## 本速查表访问地址
 
@@ -93,7 +91,22 @@ https://drop.com/buy/hana-dsa-custom-keycap-set?_ga=2.238811842.35918209.1615176
 
 ## 更新历史
 
+### 2021-04-01
+
+- 开团新增：
+    - Melgeek MG Fishing 渔
+    - DOMIKEY AVOSTAR 鳄梨星
+    - SP X-mas Gift 圣诞礼物
+    - PBT 原厂 Notion
+    - SP SA Prism 棱镜
+    - GMK 原厂 Monarch 君主
+    - GMK 原厂 Hinokoku 火
+    - PBT HIPRO EC （静电容专用）
+- 截团下架：
+    - DOMIKEY saber 亚瑟王
+    - GMK Norse 诺斯
+- 修正皇家海军图片错误
+
 ### 2021-03-31
 
-- [remove] 移除akko的键帽收入
-
+- 移除akko的键帽收入

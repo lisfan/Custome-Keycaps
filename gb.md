@@ -33,11 +33,55 @@
 
 ## 键帽列表
 
+### [PBT 原厂 Notion](https://novelkeys.xyz/collections/keycaps/products/pbt-notion)
+
+- 设计师：BIIP
+- 团购时间：售完截止
+- 发货时间：下单后1个月内
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![PBT 原厂 Notion](media/PBT@原厂@Notion.jpg)
+
+### [SP SA Prism 棱镜](https://geekhack.org/index.php?topic=111464.0)
+
+- 设计师：RivieraS
+- 团购时间：2021.04.01 至 2021.04.30
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![SP SA Prism 棱镜](media/SP@SA@Prism@棱镜.jpg)
+
+#### [GMK 原厂 Monarch 君主](https://geekhack.org/index.php?topic=110064.0)
+
+- 设计师：Scucka
+- 团购时间：2021.03.29 至 2021.04.20
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 Monarch 君主](media/GMK@原厂@Monarch@君主.jpg)
+
+### [GMK 原厂 Hinokoku 火](https://geekhack.org/index.php?topic=108946.0)
+
+- 设计师：GingGing
+- 团购时间：2021.03.29 至 2021.04.05
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 Hinokoku 火](media/GMK@原厂@Hinokoku@火.jpg)
+
+### [~PBT HIPRO EC （静电容专用）](https://kbdfans.store/products/HIPRO/)
+
+- 团购时间：2021.04.01 至 2021.04.20
+- 发货时间：2021.07
+- 购买方式：[KBDfans](https://kbdfans.store/products/HIPRO/)
+
+![PBT HIPRO EC](media/PBT@HIPRO@EC.jpg)
+
 ### [~Melgeek MG Fishing 渔](https://www.zfrontier.com/app/flow/2gdZ5nQKQXlY)
 
 - 设计师：Rifen
 - 团购时间：2021.04.01 至 2021.04.20
-- 发货时间：2022.10
+- 发货时间：2021.10
 - 购买方式：[MelGeek 淘宝店](https://item.taobao.com/item.htm?id=641365205668)
 
 ![Melgeek MG Fishing 渔](media/Melgeek@MG@Fishing@渔.jpg)
@@ -46,7 +90,7 @@
 
 - 设计师：手套
 - 团购时间：2021.03.31 至 2021.04.18
-- 发货时间：2022.08
+- 发货时间：2021.08
 - 购买方式：QQ群
 
 ![DOMIKEY SA AVOSTAR 鳄梨星](media/DOMIKEY@SA@AVOSTAR@鳄梨星.jpg)

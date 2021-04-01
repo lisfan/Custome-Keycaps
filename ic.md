@@ -474,10 +474,6 @@
 
 ![](media/16161627911228.jpg)
 
-### [GMK Hinokoku](https://geekhack.org/index.php?topic=108946.0)
-
-![](media/16161631390469.jpg)
-
 ### [~ePBT Dreamscape](https://geekhack.org/index.php?topic=108937.0)
 
 ![](media/16161631981530.jpg)
