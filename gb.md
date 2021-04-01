@@ -4,29 +4,25 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新内容：
-
-- 2021-03-16 增加新开团：Maxkey SA Magica、GMK Watermelon 西瓜、SP DSS Drank
-
 ## 快速导航
 
-- [导读](./README.md)：推荐您在浏览前先阅读
+- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
+- [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
-- [SP 系列](./sp.md)：SA高度，DSC高度
+- [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
 - [MELGEEK 系列](./melgeek.md)：MG高度，MDA高度
 - [EnjoyPBT 系列](./enjoypbt.md)：原厂高度
 - [JTK 系列](./jtk.md)：原厂高度，HSA高度
-- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度
+- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度，GTO高度
 - [Keyreative（键设局） 系列](./keyreative.md)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
-- [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
-- [Other 系列](./other.md)：无法归类的
+- [Other 系列](./other.md)：不好归类的
 - [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
@@ -36,6 +32,33 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [~Melgeek MG Fishing 渔](https://www.zfrontier.com/app/flow/2gdZ5nQKQXlY)
+
+- 设计师：Rifen
+- 团购时间：2021.04.01 至 2021.04.20
+- 发货时间：2022.10
+- 购买方式：[MelGeek 淘宝店](https://item.taobao.com/item.htm?id=641365205668)
+
+![Melgeek MG Fishing 渔](media/Melgeek@MG@Fishing@渔.jpg)
+
+### [DOMIKEY SA AVOSTAR 鳄梨星](https://www.zfrontier.com/app/flow/epV1ZNw9XxN7)
+
+- 设计师：手套
+- 团购时间：2021.03.31 至 2021.04.18
+- 发货时间：2022.08
+- 购买方式：QQ群
+
+![DOMIKEY SA AVOSTAR 鳄梨星](media/DOMIKEY@SA@AVOSTAR@鳄梨星.jpg)
+
+### [SP SA X-mas Gift 圣诞礼物](https://www.zfrontier.com/app/flow/4ZRVnB38PLWj)
+
+- 设计师：Jack & Dragon L
+- 团购时间：2021.03.21 至 2021.04.11
+- 发货时间：2022.06
+- 购买方式：[JACK键盘键帽客制 淘宝店](https://item.taobao.com/item.htm?id=640919414256)
+
+![SP SA X-mas Gift 圣诞礼物](media/SP@SA@X-mas_Gift@圣诞礼物.jpg)
 
 ### [SP SA Tatooine™ 塔图因](https://novelkeys.xyz/products/sa-tatooine-preorder)
 
@@ -55,14 +78,6 @@
 
 ![Maxkey SA Magica](media/Maxkey@SA@Magica.jpg)
 
-### Domikey Saber 亚瑟王
-
-设计：DCS-老高
-
-团购时间：2021.3.8-2021.3.31
-
-发货时间：2021.6
-
 ### [GMK 原厂 Watermelon 西瓜](https://geekhack.org/index.php?topic=107464.0)
 
 - 设计师：ogWalker
@@ -81,14 +96,14 @@
 
 ![SP DSS Drank](media/SP@DSS@Drank.jpg)
 
-### [~EPBT 原厂 Less But Better](https://geekhack.org/index.php?topic=109750.0)
+### [~ePBT 原厂 Less But Better](https://geekhack.org/index.php?topic=109750.0)
 
 - 设计师：Openkey Design
 - 团购时间：2021.03.15 至 2021.04.15
 - 发货时间：待定
 - 购买方式：[KBDfans](https://kbdfans.store/products/Less/)
 
-![EPBT Less But Better](media/EPBT@原厂@Less_But_Better.jpg)
+![ePBT Less But Better](media/ePBT@原厂@Less_But_Better.jpg)
 
 ### [GMK 原厂 Fuji 富士](https://geekhack.org/index.php?topic=111065.0)
 
@@ -108,14 +123,14 @@
 
 ![GMK 原厂 Serenity 宁静](media/GMK@原厂@Serenity@宁静.jpg)
 
-### [EPBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
+### [ePBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
 
 - 设计师：dklein
 - 团购时间：2021.03.11 至 2021.04.08
 - 发货时间：待定
 - 购买方式：[KBDfans](https://kbdfans.store/products/Aesthetic/)
 
-![EPBT 原厂 Aesthetic](media/EPBT@原厂@Aesthetic.jpg)
+![ePBT 原厂 Aesthetic](media/ePBT@原厂@Aesthetic.jpg)
 
 ### [GMK 原厂 Astral 星光](https://geekhack.org/index.php?topic=101922.0)
 
@@ -177,7 +192,7 @@
 
 ![GMK 原厂 Nightshade 夜影](media/GMK@原厂@Nightshade@夜影.jpg)
 
-### [~GMK 原厂 Striker 前锋 R2](https://geekhack.org/index.php?topic=100387.0)
+### [GMK 原厂 Striker 前锋 R2](https://geekhack.org/index.php?topic=100387.0)
 
 - 设计师：Zambumon
 - 团购时间：2021.03.03 至 2021.04.06
@@ -194,15 +209,6 @@
 - 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lDxdL08a8k7l)
 
 ![GMK 原厂 Yeeti 雪怪](media/GMK@原厂@Yeeti@雪怪.jpg)
-
-### [GMK 原厂 Norse 诺斯](https://geekhack.org/index.php?topic=107666.0)
-
-- 设计师：Skok
-- 团购时间：2021.03.02 至 2021.03.30
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/o2exnO7QXzJl)
-
-![GMK 原厂 Norse 诺斯](media/GMK@原厂@Norse@诺斯.jpg)
 
 ### [GMK 原厂 Cobalt 钴蓝](https://geekhack.org/index.php?topic=110273)
 
@@ -223,65 +229,4 @@
 - 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/10Qy33Ld8eZl)
 
 ![NicePBT DSA Nineteen Thirty 一九三零](media/NicePBT@DSA@Nineteen_Thirty@一九三零.jpg)
-
-### [SP SA Strong Spirit 陆军 R2](https://geekhack.org/index.php?topic=87673.0)
-
-- 设计师：Kingnestea
-- 团购时间：2021.03.01 至 2021.03.20
-- 发货时间：2022.Q1
-- 购买方式：[KBDfans](https://www.zfrontier.com/app/mch/lMgybGPgb3xB)
-
-![SP SA Strong Spirit 陆军 R2](media/SP@SA@Strong_Spirit@陆军_2.jpg)
-
-![SP SA Strong Spirit 陆军 R1](media/SP@SA@Strong_Spirit@陆军_1.jpg)
-
-### [Geekark 原厂 Triangle](https://geekhack.org/index.php?topic=110163.0)
-
-- 设计师：ZLightningZAP
-- 团购时间：2021.02.26 至 2021.03.22
-- 发货时间：2021.Q3
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![Geekark 原厂 Triangle](media/Geekark@原厂@Triangle_1.jpg)
-
-![Geekark 原厂 Triangle](media/Geekark@原厂@Triangle_2.jpg)
-
-### [EPBT 原厂 GRAND TOUR](https://geekhack.org/index.php?topic=108068.0)
-
-- 设计师：fedemito
-- 团购时间：2021.02.25 至 2021.03.26
-- 发货时间：待定
-- 购买方式：[KBDfans](https://kbdfans.store/products/TOUR/)
-
-![EPBT 原厂 GRAND TOUR](media/EPBT@原厂@GRAND_TOUR.jpg)
-
-### [GMK 原厂 Star 派大星](https://geekhack.org/index.php?topic=109392.0)
-
-- 设计师：Paputcher
-- 团购时间：2021.02.23 至 2021.03.28
-- 发货时间：2022.02
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![GMK 原厂 Star 派大星](media/GMK@原厂@Star@派大星.jpg)
-
-### [SP SA DreamEater](http://www.mechsupply.co.uk/product/sa-dreameater)
-
-- 设计师：未知
-- 团购时间：2021.02.23 至 预定完截止
-- 发货时间：2021.Q2
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![SP SA DreamEater](media/SP@SA@DreamEater.jpg)
-
-### [~GMK 原厂 βeta & JS](https://geekhack.org/index.php?topic=108290.0)
-
-- 设计师：hineybush
-- 团购时间：2021.02.22 至 预定完截止
-- 发货时间：2021.06
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![GMK 原厂 βeta](media/GMK@原厂@βeta_1.jpg)
-
-![GMK 原厂 JS](media/GMK@原厂@βeta_2.jpg)
-
 

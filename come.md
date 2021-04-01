@@ -4,29 +4,25 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新内容：
-
-- 2021-03-26 更新GMK Lazurite、JTK Sora、MG MDA Label
-
 ## 快速导航
 
-- [导读](./README.md)：推荐您在浏览前先阅读
+- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
+- [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
-- [SP 系列](./sp.md)：SA高度，DSC高度
+- [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
 - [MELGEEK 系列](./melgeek.md)：MG高度，MDA高度
 - [EnjoyPBT 系列](./enjoypbt.md)：原厂高度
 - [JTK 系列](./jtk.md)：原厂高度，HSA高度
-- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度
+- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度，GTO高度
 - [Keyreative（键设局） 系列](./keyreative.md)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
-- [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
-- [Other 系列](./other.md)：无法归类的
+- [Other 系列](./other.md)：不好归类的
 - [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
@@ -189,7 +185,7 @@
 
 ![](media/16161204646471.jpg)
 
-#### MG MDA Label
+#### ~MG MDA Label
 
 发车时间：2021.04
 
@@ -199,7 +195,7 @@
 
 ### 五月
 
-#### [GMK Hazakura](https://geekhack.org/index.php?topic=111653.0)
+#### [~GMK Hazakura](https://geekhack.org/index.php?topic=111653.0)
 
 发车时间：2021.05.01
 
@@ -211,13 +207,13 @@
 
 ![](media/16161362718066.jpg)
 
-#### [GMK Ptisserie](https://geekhack.org/index.php?topic=109160.0)
+#### [~GMK Pâtisserie](https://geekhack.org/index.php?topic=109160.0)
 
 发车时间：2021.05.17
 
 ![](media/16161624078670.jpg)
 
-#### [GMK Houhai](https://geekhack.org/index.php?topic=107034.0)
+#### [GMK Houhai 后海](https://geekhack.org/index.php?topic=107034.0)
 
 发车时间：2021.05.31
 
@@ -251,7 +247,7 @@
 
 ![](media/16161628561000.jpg)
 
-#### [GMK Tako](https://geekhack.org/index.php?topic=110113.0)
+#### [~GMK Tako](https://geekhack.org/index.php?topic=110113.0)
 
 发车时间：2021.05
 
@@ -301,7 +297,7 @@
 
 ![](media/16161282869204.jpg)
 
-#### [~GMK ART](https://geekhack.org/index.php?topic=110737.0)
+#### [GMK ART](https://geekhack.org/index.php?topic=110737.0)
 
 发车时间：2021.07
 

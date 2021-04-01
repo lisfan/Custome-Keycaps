@@ -4,29 +4,25 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新内容：
-
-- 2021-03-20 整理IC
-
 ## 快速导航
 
-- [导读](./README.md)：推荐您在浏览前先阅读
+- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
+- [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
-- [SP 系列](./sp.md)：SA高度，DSC高度
+- [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
 - [MELGEEK 系列](./melgeek.md)：MG高度，MDA高度
 - [EnjoyPBT 系列](./enjoypbt.md)：原厂高度
 - [JTK 系列](./jtk.md)：原厂高度，HSA高度
-- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度
+- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度，GTO高度
 - [Keyreative（键设局） 系列](./keyreative.md)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
-- [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
-- [Other 系列](./other.md)：无法归类的
+- [Other 系列](./other.md)：不好归类的
 - [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
@@ -42,27 +38,15 @@
 
 ![](media/16163056970365.jpg)
 
-### [~Melgeek MG Fishing](https://geekhack.org/index.php?topic=111657.0)
-
-![](media/16161206095424.jpg)
-
-### [DOMIKEY SA AVOCADO/牛油果](https://www.zfrontier.com/app/flow/2R7mVjbPPmnL)
-
-![](media/16160718335574.jpg)
-
 ### [SA sadboi](https://geekhack.org/index.php?topic=111794.0)
 
 ![](media/16160719519306.jpg)
-
-### [SP SA X-mas Gift](https://www.zfrontier.com/app/flow/en3k7KQn7BdO)
-
-![](media/16160718477011.jpg)
 
 ### [SA Fledgling](https://geekhack.org/index.php?topic=111683.0)
 
 ![](media/16160724230622.jpg)
 
-### [SP SA Prism](https://geekhack.org/index.php?topic=111464.0)
+### [~SP SA Prism](https://geekhack.org/index.php?topic=111464.0)
 
 ![](media/16161251432003.jpg)
 
@@ -308,7 +292,7 @@
 
 ![](media/16161635868950.jpg)
 
-### [~KAT Space Dust](https://geekhack.org/index.php?topic=107942.0)
+### [KAT Space Dust](https://geekhack.org/index.php?topic=107942.0)
 
 ![](media/16161640720348.jpg)
 
@@ -343,6 +327,10 @@
 ### [KAM Jade](https://geekhack.org/index.php?topic=103879.0)
 
 ![](media/16162280505493.jpg)
+
+### [KAT Shogōki](https://geekhack.org/index.php?topic=105842.0)
+
+![](media/16162266682180.jpg)
 
 ### [KAT MUMEI | キャット無銘](https://geekhack.org/index.php?topic=103313.0)
 

@@ -1,31 +1,35 @@
 # 文若 BOW & WOB 彩色增补组合参考
 
+> 动动手，点一下**右上角**的Star🤝
+
+如有遗漏，请联系QQ：448182355
+
 ## 快速导航
 
-- [导读](./README.md)：推荐您在浏览前先阅读
+- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
+- [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
-- [SP 系列](./sp.md)：SA高度，DSC高度
+- [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
 - [MELGEEK 系列](./melgeek.md)：MG高度，MDA高度
 - [EnjoyPBT 系列](./enjoypbt.md)：原厂高度
 - [JTK 系列](./jtk.md)：原厂高度，HSA高度
-- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度
+- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度，GTO高度
 - [Keyreative 键设局 系列](./keyreative.md)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
-- [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
-- [Other 系列](./other.md)：无法归类的
+- [Other 系列](./other.md)：不好归类的
 - [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
 
 ## 键帽列表
 
-### [文若 原厂 素白 R2 & 素黑](https://www.geekark.com/product/33)
+### [~文若 原厂 素白 R2 & 素黑](https://www.geekark.com/product/33)
 
 - 团购时间：2021.02.26 至 2021.03.26
 - 发货时间：2021.06
@@ -47,6 +51,16 @@
 
 ![1614297634675499](media/1614297634675499.png)
 
+### [Geekark 原厂 Triangle](https://geekhack.org/index.php?topic=110163.0)
+
+- 设计师：ZLightningZAP
+- 团购时间：2021.02.26 至 2021.03.22
+- 发货时间：2021.Q3
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![Geekark 原厂 Triangle](media/Geekark@原厂@Triangle_1.jpg)
+
+![Geekark 原厂 Triangle](media/Geekark@原厂@Triangle_2.jpg)
 
 ### [文若 原厂 9009](https://www.geekark.com/product/31)
 
@@ -63,7 +77,6 @@ kit很多，请查看详情
 - 购买方式：联系文总，以现货价格购买
 
 ![1593013228792598](media/1593013228792598.jpg)
-
 
 ### [文若 素白 原厂 彩色增补套](https://www.geekark.com/product/27)
 

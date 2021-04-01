@@ -4,29 +4,25 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新内容：
-
-- 2021-03-24 新增IC：PBT Toby
-
 ## 快速导航
 
-- [导读](./README.md)：推荐您在浏览前先阅读
+- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
+- [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
-- [SP 系列](./sp.md)：SA高度，DSC高度
+- [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
 - [MELGEEK 系列](./melgeek.md)：MG高度，MDA高度
 - [EnjoyPBT 系列](./enjoypbt.md)：原厂高度
 - [JTK 系列](./jtk.md)：原厂高度，HSA高度
-- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度
+- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度，GTO高度
 - [Keyreative（键设局） 系列](./keyreative.md)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
-- [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
-- [Other 系列](./other.md)：无法归类的
+- [Other 系列](./other.md)：不好归类的
 - [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
@@ -37,6 +33,14 @@
 4. 会对活跃中的帖子提供键帽配列渲染图，但不会精修图片，当帖子被挪到即将**即将发车**状态时会再精挑细选一次渲染图
 
 ## 键帽列表
+
+### [~GMK Moomin](https://geekhack.org/index.php?topic=106574.0)
+
+**把这套置顶了，我太期待这套了**
+
+开团时间2021.Q3?
+
+![](media/16161683218892.jpg)
 
 ### [PBT Toby](https://geekhack.org/index.php?topic=111899.0)
 
@@ -52,7 +56,7 @@
 
 ![](media/16164639092799.jpg)
 
-### [~ePBT Origami](https://geekhack.org/index.php?topic=111860.0)
+### [ePBT Origami](https://geekhack.org/index.php?topic=111860.0)
 
 ![](media/16164639408201.jpg)
 
@@ -78,11 +82,11 @@
 
 ![](media/16160720398418.jpg)
 
-### [~GMK Specter](https://geekhack.org/index.php?topic=111770.0)
+### [GMK Specter](https://geekhack.org/index.php?topic=111770.0)
 
 ![](media/16160720881185.jpg)
 
-### [GMK Shashin](https://geekhack.org/index.php?topic=111767.0)
+### [~GMK Shashin](https://geekhack.org/index.php?topic=111767.0)
 
 ![](media/16160721395909.jpg)
 
@@ -172,7 +176,7 @@
 
 ![](media/16161241586932.jpg)
 
-### [GMK Blossom](https://geekhack.org/index.php?topic=111536.0)
+### [~GMK Blossom](https://geekhack.org/index.php?topic=111536.0)
 
 ![](media/16161241978965.jpg)
 
@@ -561,10 +565,6 @@
 
 ![](media/16161682556098.jpg)
 
-### [~GMK Moomin](https://geekhack.org/index.php?topic=106574.0)
-
-![](media/16161683218892.jpg)
-
 ### [GMK Trffelschwein](https://geekhack.org/index.php?topic=106466.0)
 
 ![](media/16162292986786.jpg)
@@ -620,10 +620,6 @@
 ### [GMK Chicklet](https://geekhack.org/index.php?topic=105881.0)
 
 ![](media/16161689175571.jpg)
-
-### [KAT Shogōki](https://geekhack.org/index.php?topic=105842.0)
-
-![](media/16162266682180.jpg)
 
 ### [Infinikey Crisp](https://geekhack.org/index.php?topic=105816.0)
 

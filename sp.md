@@ -4,29 +4,25 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新内容：
-
-- 2021-02-25 拆分到单个文档管理
-
 ## 快速导航
 
-- [导读](./README.md)：推荐您在浏览前先阅读
+- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
+- [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
-- [SP 系列](./sp.md)：SA高度，DSC高度
+- [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
 - [MELGEEK 系列](./melgeek.md)：MG高度，MDA高度
 - [EnjoyPBT 系列](./enjoypbt.md)：原厂高度
 - [JTK 系列](./jtk.md)：原厂高度，HSA高度
-- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度
+- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度，GTO高度
 - [Keyreative（键设局） 系列](./keyreative.md)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
-- [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
-- [Other 系列](./other.md)：无法归类的
+- [Other 系列](./other.md)：不好归类的
 - [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
@@ -36,6 +32,26 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [SP SA Strong Spirit 陆军 R2](https://geekhack.org/index.php?topic=87673.0)
+
+- 设计师：Kingnestea
+- 团购时间：2021.03.01 至 2021.03.20
+- 发货时间：2022.Q1
+- 购买方式：[KBDfans](https://www.zfrontier.com/app/mch/lMgybGPgb3xB)
+
+![SP SA Strong Spirit 陆军 R2](media/SP@SA@Strong_Spirit@陆军_2.jpg)
+
+![SP SA Strong Spirit 陆军 R1](media/SP@SA@Strong_Spirit@陆军_1.jpg)
+
+### [SP SA DreamEater](http://www.mechsupply.co.uk/product/sa-dreameater)
+
+- 设计师：未知
+- 团购时间：2021.02.23 至 预定完截止
+- 发货时间：2021.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![SP SA DreamEater](media/SP@SA@DreamEater.jpg)
 
 ### [SP DSS Solarized Dark](https://www.reddit.com/r/mechmarket/comments/l5f813/ic_dss_solarized_dark_comprehensive_40s_keyset/)
 
@@ -203,7 +219,7 @@
 
 ### [SP SA Danger Zone 壮志凌云 R2](https://geekhack.org/index.php?topic=68563.0)
 
-![SP SA Danger Zone 壮志凌云 R2](media/16146549299087.jpg)
+![SP SA Danger Zone 壮志凌云 R2](media/SP@SA@Danger_Zone@壮志凌云@R2.jpg)
 
 ### [SP SA Forgive 原谅](https://matrixzj.github.io/docs/sa-keycaps/Forgive/)
 
@@ -213,7 +229,7 @@
 
 ![SP SA Violet on Cream 奶紫](media/16128609308971.jpg)
 
-### [~SP SA Banana 香蕉](https://www.zfrontier.com/app/flow/4XqAW5bwlx6k)
+### [SP SA Banana 香蕉](https://www.zfrontier.com/app/flow/4XqAW5bwlx6k)
 
 ![SP SA Banana 香蕉](media/SP@SA@Banana@香蕉.jpg)
 

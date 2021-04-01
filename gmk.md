@@ -4,29 +4,25 @@
 
 如有遗漏，请联系QQ：448182355
 
-更新内容：
-
-- 2021-02-25 拆分到单个文档管理
-
 ## 快速导航
 
-- [导读](./README.md)：推荐您在浏览前先阅读
+- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
+- [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
-- [SP 系列](./sp.md)：SA高度，DSC高度
+- [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
 - [MELGEEK 系列](./melgeek.md)：MG高度，MDA高度
 - [EnjoyPBT 系列](./enjoypbt.md)：原厂高度
 - [JTK 系列](./jtk.md)：原厂高度，HSA高度
-- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度
+- [Geekark 文若 系列](./geekark.md)：【正在建设中】原厂高度，XDA高度，GTO高度
 - [Keyreative（键设局） 系列](./keyreative.md)：KAT高度，KAM高度，原厂高度
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
-- [AKKO 系列](./akko.md)：**（无铭的部分键帽和AKKO进行了合并）**，原厂高度，OEM高度，OSA高度，ASA高度
-- [Other 系列](./other.md)：无法归类的
+- [Other 系列](./other.md)：不好归类的
 - [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
@@ -36,6 +32,35 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [GMK 原厂 Norse 诺斯](https://geekhack.org/index.php?topic=107666.0)
+
+- 设计师：Skok
+- 团购时间：2021.03.02 至 2021.03.30
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/o2exnO7QXzJl)
+
+![GMK 原厂 Norse 诺斯](media/GMK@原厂@Norse@诺斯.jpg)
+
+### [GMK 原厂 Star 派大星](https://geekhack.org/index.php?topic=109392.0)
+
+- 设计师：Paputcher
+- 团购时间：2021.02.23 至 2021.03.28
+- 发货时间：2022.02
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 Star 派大星](media/GMK@原厂@Star@派大星.jpg)
+
+### [GMK 原厂 βeta & JS](https://geekhack.org/index.php?topic=108290.0)
+
+- 设计师：hineybush
+- 团购时间：2021.02.22 至 预定完截止
+- 发货时间：2021.06
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 βeta](media/GMK@原厂@βeta_1.jpg)
+
+![GMK 原厂 JS](media/GMK@原厂@βeta_2.jpg)
 
 ### [GMK 原厂 Inukuma 伊努熊](https://geekhack.org/index.php?topic=108300.0)
 
@@ -64,7 +89,7 @@
 
 ![GMK 原厂 Devoted 献身](media/GMK@原厂@Devoted@献身.jpg)
 
-### [~GMK 原厂 Maestro 大师](https://geekhack.org/index.php?topic=111106.0)
+### [GMK 原厂 Maestro 大师](https://geekhack.org/index.php?topic=111106.0)
 
 - 设计师：HungHingDaiLo
 - 团购时间：2021.02.12 至 2021.03.12
@@ -73,7 +98,7 @@
 
 ![GMK 原厂 Maestro 大师](media/GMK@原厂@Maestro@大师.jpg)
 
-### [~GMK 原厂 Dandy 蒲公英](https://geekhack.org/index.php?topic=106325.0)
+### [GMK 原厂 Dandy 蒲公英](https://geekhack.org/index.php?topic=106325.0)
 
 - 设计师：sourmk
 - 团购时间：2021.02.04 至 2021.03.03
@@ -106,7 +131,7 @@
 
 ![GMK 原厂 Dots 圆点](media/GMK@原厂@Dots@圆点_3.jpg)
 
-### [~GMK 原厂 Tuzi 兔子](https://geekhack.org/index.php?topic=110981.0)
+### [GMK 原厂 Tuzi 兔子](https://geekhack.org/index.php?topic=110981.0)
 
 - 设计师：SenseiJia
 - 团购时间：2021.02.01 至 2021.02.28
@@ -115,7 +140,7 @@
 
 ![GMK 原厂 Tuzi 兔子](media/GMK@原厂@Tuzi@兔子.jpg)
 
-### [~GMK 原厂 Mr.Sleeves 袖子先生 彩色增补 R2](https://geekhack.org/index.php?topic=96561.0)
+### [GMK 原厂 Mr.Sleeves 袖子先生 彩色增补 R2](https://geekhack.org/index.php?topic=96561.0)
 
 - 设计师：Taeha
 - 团购时间：2021.02.01 至 2021.02.26
@@ -138,7 +163,8 @@
 - 设计师：SMOKEY
 - 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2022.01
-- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23041973287.17.25383f55qi6iZp&id=637616785870)
+-
+购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23041973287.17.25383f55qi6iZp&id=637616785870)
 
 ![GMK 原厂 Gateway传送门](./media/GMK@原厂@Gateway@传送门.jpg)
 
@@ -187,7 +213,7 @@
 
 ![GMK 原厂 Awaken 觉醒](media/GMK@原厂@Awaken@觉醒.jpg)
 
-### [~GMK 原厂 Stealth 潜行](https://geekhack.org/index.php?topic=110195)
+### [GMK 原厂 Stealth 潜行](https://geekhack.org/index.php?topic=110195)
 
 ![GMK 原厂 Stealth 潜行](media/GMK@原厂@Stealth@潜行.jpg)
 
@@ -201,11 +227,11 @@
 
 ![GMK 原厂 Gregory 狗勾](media/GMK@原厂@Gregory@狗勾.jpg)
 
-### [~GMK 原厂 Hanami Dango](https://geekhack.org/index.php?topic=110049.0)
+### [GMK 原厂 Hanami Dango](https://geekhack.org/index.php?topic=110049.0)
 
 ![GMK 原厂 Hanami Dango](./media/GMK@原厂@Hanami_Dango.jpg)
 
-### [~GMK 原厂 8008 R2](https://geekhack.org/index.php?topic=109800)
+### [GMK 原厂 8008 R2](https://geekhack.org/index.php?topic=109800)
 
 ![GMK 原厂 8008 R2](media/GMK@原厂@80082.jpg)
 
@@ -229,7 +255,7 @@
 
 ![GMK 原厂 Thai Tea 泰式奶茶](./media/GMK@原厂@Thai_Tea@泰式奶茶.jpg)
 
-### [~GMK 原厂 ThinkCaps](https://geekhack.org/index.php?topic=109588.0)
+### [GMK 原厂 ThinkCaps](https://geekhack.org/index.php?topic=109588.0)
 
 ![GMK 原厂 ThinkCaps](./media/GMK@原厂@ThinkCaps.jpg)
 
@@ -241,7 +267,7 @@
 
 ![GMK 原厂 Yuri 尤里 R2](media/GMK@原厂@Yuri@尤里.jpg)
 
-### [~GMK 原厂 Amethyst 紫水晶](https://geekhack.org/index.php?topic=109468.0)
+### [GMK 原厂 Amethyst 紫水晶](https://geekhack.org/index.php?topic=109468.0)
 
 ![GMK 原厂 Amethyst 紫水晶](media/GMK@原厂@Amethyst@紫水晶.jpg)
 
@@ -279,7 +305,7 @@
 
 ![GMK 原厂 Mudbeam 泥梁](media/GMK@原厂@Mudbeam@泥梁.jpg)
 
-### [~GMK 原厂 Retrocast 复古游戏机](https://geekhack.org/index.php?topic=108959.0)
+### [GMK 原厂 Retrocast 复古游戏机](https://geekhack.org/index.php?topic=108959.0)
 
 ![GMK 原厂 Retrocast 复古游戏机](media/GMK@原厂@Retrocast@复古游戏机.jpg)
 
@@ -307,7 +333,7 @@
 
 ![GMK 原厂 Demon Sword](media/GMK@原厂@Demon_Sword_2.jpg)
 
-### [~GMK 原厂 Sloth 树懒](https://geekhack.org/index.php?topic=108427.0)
+### [GMK 原厂 Sloth 树懒](https://geekhack.org/index.php?topic=108427.0)
 
 ![GMK 原厂 Sloth 树懒](media/GMK@原厂@Sloth@树懒.jpg)
 
@@ -331,11 +357,11 @@
 
 ![GMK 原厂 Posh 粉蓝](media/GMK@原厂@Posh@粉蓝.jpg)
 
-### [~GMK 原厂 Shoko 硝子 R2](https://geekhack.org/index.php?topic=108028.0)
+### [GMK 原厂 Shoko 硝子 R2](https://geekhack.org/index.php?topic=108028.0)
 
 ![GMK 原厂 Shoko 硝子 R2](./media/GMK@原厂@Shoko@硝子.jpg)
 
-### [~GMK 原厂 HammerHead 锤头鲨](https://geekhack.org/index.php?topic=101037.0)
+### [GMK 原厂 HammerHead 锤头鲨](https://geekhack.org/index.php?topic=101037.0)
 
 ![HammerHead 锤头鲨](./media/GMK@原厂@HammerHead@锤头鲨.jpg)
 
@@ -351,7 +377,7 @@
 
 ![GMK 原厂 Bento 便当 R2](media/GMK@原厂@Bento@便当_2.jpg)
 
-### [~GMK 原厂 Minimal 极简白 R2](https://geekhack.org/index.php?topic=107868.0)
+### [GMK 原厂 Minimal 极简白 R2](https://geekhack.org/index.php?topic=107868.0)
 
 ![GMK 原厂 Minimal 极简白 R2](./media/GMK@原厂@Minimal@极简白.jpg)
 
@@ -407,11 +433,11 @@
 
 ![GMK 原厂 Bread 面包](media/GMK@原厂@Bread@面包.jpg)
 
-### [~GMK 原厂 Red Samurai 红武士 R2](https://geekhack.org/index.php?topic=106928)
+### [GMK 原厂 Red Samurai 红武士 R2](https://geekhack.org/index.php?topic=106928)
 
 ![GMK 原厂 Red Samurai 红武士 R2](./media/GMK@原厂@Red_Samurai@红武士.jpg)
 
-### [~GMK 原厂 Blue Samurai 蓝武士](https://geekhack.org/index.php?topic=106928)
+### [GMK 原厂 Blue Samurai 蓝武士](https://geekhack.org/index.php?topic=106928)
 
 ![GMK 原厂 Blue Samurai 蓝武士](./media/GMK@原厂@Blue_Samurai@蓝武士.jpg)
 
@@ -575,7 +601,7 @@
 
 ![GMK_Future_Funk](media/GMK@原厂@Future_Funk_2.jpg)
 
-### [~GMK 原厂 Darling](https://geekhack.org/index.php?topic=104401.0)
+### [GMK 原厂 Darling](https://geekhack.org/index.php?topic=104401.0)
 
 ![GMK 原厂 Darling](media/GMK@原厂@Darling.jpg)
 
@@ -677,7 +703,7 @@
 
 ![GMK 原厂 Delta](media/GMK@原厂@Delta.jpg)
 
-### [~GMK 原厂 DMG R2](https://geekhack.org/index.php?topic=103131.0)
+### [GMK 原厂 DMG R2](https://geekhack.org/index.php?topic=103131.0)
 
 ![GMK 原厂 DMG R2](media/GMK@原厂@DMG.jpg)
 
@@ -797,11 +823,11 @@
 
 ![](media/16146570169042.jpg)
 
-### [~GMK 原厂 Olive 橄榄](https://geekhack.org/index.php?topic=100983.0)
+### [GMK 原厂 Olive 橄榄](https://geekhack.org/index.php?topic=100983.0)
 
 ![GMK 原厂 Olive 橄榄](./media/JJjf8Z.jpg)
 
-### [~GMK 原厂 Mizu 水](https://geekhack.org/index.php?topic=99235.0)
+### [GMK 原厂 Mizu 水](https://geekhack.org/index.php?topic=99235.0)
 
 ![GMK 原厂 Mizu 水](./media/YpgWg2.jpg)
 
@@ -821,7 +847,7 @@
 
 ![GMK 原厂 Eclipse 日蚀](./media/XraaSS.jpg)
 
-### [~GMK 原厂 Wavez 声波](https://geekhack.org/index.php?topic=100063.0)
+### [MK 原厂 Wavez 声波](https://geekhack.org/index.php?topic=100063.0)
 
 ![GMK 原厂 Wavez 声波](./media/Kgkx7y.jpg)
 
