@@ -79,11 +79,11 @@
 
 ### 待整理
 
-#### [GMK Pretty in Pink 增补](https://geekhack.org/index.php?topic=102307.0)
+### [GMK Pretty in Pink 增补](https://geekhack.org/index.php?topic=102307.0)
 
 ![](media/16162295819283.jpg)
 
-#### DSA Hana Keyset (Available on SP keyshop)
+### DSA Hana Keyset (Available on SP keyshop)
 
 https://geekhack.org/index.php?topic=74553.0
 https://drop.com/buy/hana-dsa-custom-keycap-set?_ga=2.238811842.35918209.1615176744-2084176719.1607486142
@@ -99,14 +99,34 @@ https://geekhack.org/index.php?topic=106045.0
 
 ### 2021-04-06
 
-- 开团新增：
-    - GMK 原厂 Wasabi 山葵 V2
-    - GMK 原产 Boulder
-    - SP DCS Delftware 蓝瓷
-    - GMK 原产 Blurple 蓝紫
-    - GMK 原产 METROPOLIS 大都会 R2
-    - GMK 原产 Fox 狐狸
-    - SP SA Handarbeit+
+- 修复 epbt 图片丢失了
+- 新增开团
+  * GMK 原厂 Wasabi 山葵 V2
+  - GMK 原产 Boulder
+  - SP DCS Delftware 蓝瓷
+  - GMK 原产 Blurple 蓝紫
+  - GMK 原产 METROPOLIS 大都会 R2
+  - GMK 原产 Fox 狐狸
+  - SP SA Handarbeit+
+- 开团时间更新
+  - GMK Wise Wolf 改名 GMK Harvest
+  - GMK Lychee 荔枝
+  - GMK Trüffelschwein
+- IC新增
+  - GMK Alphabet
+  - GMK Windowed
+  - PBT The Big Screen
+  - GMK PEDESTRIAN
+  - GMK Diet Soda, MD
+  - ePBT Basic Standard
+  - GMK Redderish Alert
+  - GMK Modern Ink
+  - GMK Ube
+  - GMK Blanks
+  - GMK Windbreaker
+  - GMK Psychedelic
+  - GMK a
+
 
 ### 2021-04-01
 

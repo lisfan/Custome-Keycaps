@@ -208,6 +208,14 @@
 
 ![](media/16161327265074.jpg)
 
+### [GMK Lychee 荔枝](https://geekhack.org/index.php?topic=110587.0)
+
+发车时间：2021.06.18
+
+![](media/16161277995879.jpg)
+
+![](media/16161278130396.jpg)
+
 #### [GMK Sixes](https://geekhack.org/index.php?topic=102535.0)
 
 发车时间：2021.06
@@ -262,8 +270,12 @@
 
 ![](media/16161283078212.jpg)
 
-#### [GMK Wise Wolf](https://geekhack.org/index.php?topic=109421.0)
+#### [GMK Harvest](https://geekhack.org/index.php?topic=109421.0)
 
 发车时间：2021.08
 
 ![](media/16161625001385.jpg)
+
+### [GMK Trüffelschwein](https://geekhack.org/index.php?topic=106466.0)
+
+![](media/16162292986786.jpg)
