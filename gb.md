@@ -33,6 +33,92 @@
 
 ## 键帽列表
 
+### [GMK 原厂 Wasabi 山葵 V2](https://geekhack.org/index.php?topic=111528.0)
+
+- 设计师：Sourmk
+- 团购时间：2021.04.05 至 2021.05.03
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lApr8eqx7Qv1)
+
+![GMK 原厂 Wasabi 山葵 V2](media/GMK@原厂@Wasabi@山葵@V2.jpg)
+
+#### [GMK 原产 Boulder](https://geekhack.org/index.php?topic=110244.0)
+
+- 设计师：shiba
+- 团购时间：2021.04.02 至 2021.05.02
+- 发货时间：2022.Q2
+- 购买方式：[KBDfans](https://kbdfans.store/products/BOULDER/)
+
+![GMK 原产 Boulder](media/GMK@原产@Boulder.jpg)
+
+#### [SP DCS Delftware 蓝瓷](https://geekhack.org/index.php?topic=104417.0)
+
+- 设计师：Zephyraeon
+- 团购时间：2021.04.01 至 2021.04.30
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/EBbzAEZyazDB)
+
+![SP DCS Delftware 蓝瓷](media/SP@DCS@Delftware@蓝瓷.jpg)
+
+### [GMK 原产 Blurple 蓝紫](https://geekhack.org/index.php?topic=109480.0)
+
+- 设计师：PhantomTaco
+- 团购时间：2021.04.02 至 2021.04.30
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1k25jmVnAD9B)
+
+![GMK 原产 Blurple 蓝紫](media/GMK@原产@Blurple@蓝紫.jpg)
+
+#### [GMK 原产 METROPOLIS 大都会 R2](https://geekhack.org/index.php?topic=111614.0)
+
+- 设计师：Nephlock
+- 团购时间：2021.04.02 至 2021.04.30
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/EBbzAEZyazDB)
+
+![GMK 原产 METROPOLIS 大都会 R2](media/GMK@原产@METROPOLIS@大都会@R2.jpg)
+
+#### [GMK 原产 Fox 狐狸](https://geekhack.org/index.php?topic=109895.0)
+
+- 设计师：boneandbee
+- 团购时间：2021.04.02 至 2021.04.30
+- 发货时间：2022.05
+- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=642201043647)
+
+![GMK 原产 Fox 狐狸](media/GMK@原产@Fox@狐狸.jpg)
+
+#### [SP SA Handarbeit+](https://geekhack.org/index.php?topic=111816.0)
+
+- 设计师：cocobrais
+- 团购时间：2021.04.03 至 2021.04.29
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![SP SA Handarbeit+](media/SP@SA@Handarbeit+.jpg)
+
+#### [GMK 原产 95NEON](https://geekhack.org/index.php?topic=111270.0)
+
+发车时间：2021.04.01
+
+延迟中
+
+![](media/16176886161920.jpg)
+
+#### [JTK 原产 Sora](https://geekhack.org/index.php?topic=110021.0)
+
+发车时间：2021.04.06
+
+![](media/16161324881829.jpg)
+
+![](media/16161324800638.jpg)
+
+#### [GMK 原产 Sunset Surfing](https://geekhack.org/index.php?topic=108752.0)
+
+- 设计师：archerypro459
+- 暂无数据
+
+![GMK 原产 Sunset Surfing](media/GMK@原产@Sunset_Surfing.jpg)
+
 ### [PBT 原厂 Notion](https://novelkeys.xyz/collections/keycaps/products/pbt-notion)
 
 - 设计师：BIIP
@@ -91,7 +177,7 @@
 - 设计师：手套
 - 团购时间：2021.03.31 至 2021.04.18
 - 发货时间：2021.08
-- 购买方式：QQ群
+- 购买方式：[GLOVE 淘宝](https://item.taobao.com/item.htm?id=642127051611)
 
 ![DOMIKEY SA AVOSTAR 鳄梨星](media/DOMIKEY@SA@AVOSTAR@鳄梨星.jpg)
 
@@ -203,39 +289,6 @@
 
 ![GMK 原厂 Red Alert 红警](media/GMK@原厂@Red_Alert@红警.jpg)
 
-### [GMK 原厂 Colorchrome 黑白彩](https://geekhack.org/index.php?topic=106412.0)
-
-- 设计师：Full
-- 团购时间：2021.03.05 至 2021.03.26
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/B9NzQQNXgGO1)
-
-![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_1.jpg)
-
-![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_2.jpg)
-
-![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_3.jpg)
-
-![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_4.jpg)
-
-### [GMK 原厂 WoB Shinethrough 黑二色灯帽](https://geekhack.org/index.php?topic=109476.0)
-
-- 设计师：HoodrowThrillson
-- 团购时间：2021.03.05 至 2021.04.02
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/l7LwrreAqygo)
-
-![GMK 原厂 WoB Shinethrough 黑二色灯帽](media/GMK@原厂@WoB_Shinethrough@黑二色灯帽.jpg)
-
-### [GMK 原厂 Nightshade 夜影](https://geekhack.org/index.php?topic=102474.0)
-
-- 设计师：BlindAssassin111
-- 团购时间：2021.03.04 至 2021.04.03
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lGAEJ4VpKZeB)
-
-![GMK 原厂 Nightshade 夜影](media/GMK@原厂@Nightshade@夜影.jpg)
-
 ### [GMK 原厂 Striker 前锋 R2](https://geekhack.org/index.php?topic=100387.0)
 
 - 设计师：Zambumon
@@ -244,33 +297,3 @@
 - 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lMyMyYmNmRYl)
 
 ![GMK 原厂 Striker 前锋 R2](media/GMK@原厂@Striker@前锋@R2.jpg)
-
-### [GMK 原厂 Yeeti 雪怪](https://geekhack.org/index.php?topic=109227)
-
-- 设计师：Fannie_w
-- 团购时间：2021.03.02 至 2021.04.02
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lDxdL08a8k7l)
-
-![GMK 原厂 Yeeti 雪怪](media/GMK@原厂@Yeeti@雪怪.jpg)
-
-### [GMK 原厂 Cobalt 钴蓝](https://geekhack.org/index.php?topic=110273)
-
-- 设计师：fatboycarney
-- 团购时间：2021.03.01 至 2021.04.01
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/l6mawvG2vP41)
-
-![GMK 原厂 Cobalt 钴蓝](media/GMK@原厂@Cobalt@钴蓝_1.jpg)
-
-![GMK 原厂 Cobalt 钴蓝](media/GMK@原厂@Cobalt@钴蓝_2.jpg)
-
-### [NicePBT DSA Nineteen Thirty 一九三零](https://geekhack.org/index.php?topic=111053.0)
-
-- 设计师：Prkns & Ulliam
-- 团购时间：2021.03.01 至 2021.04.01
-- 发货时间：2021.Q3
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/10Qy33Ld8eZl)
-
-![NicePBT DSA Nineteen Thirty 一九三零](media/NicePBT@DSA@Nineteen_Thirty@一九三零.jpg)
-

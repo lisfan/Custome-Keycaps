@@ -89,7 +89,24 @@ https://geekhack.org/index.php?topic=74553.0
 https://drop.com/buy/hana-dsa-custom-keycap-set?_ga=2.238811842.35918209.1615176744-2084176719.1607486142
 ![](media/16162382418320.jpg)
 
+Author Topic: [IC] IFK Dark Cyrillic - GB date is set, Oct 9-23, 2020!  (Read 17783 times)
+https://geekhack.org/index.php?topic=107255.0
+
+[IC] PBT musubi. 8/28/20 GB LIVE
+https://geekhack.org/index.php?topic=106045.0
+
 ## 更新历史
+
+### 2021-04-06
+
+- 开团新增：
+    - GMK 原厂 Wasabi 山葵 V2
+    - GMK 原产 Boulder
+    - SP DCS Delftware 蓝瓷
+    - GMK 原产 Blurple 蓝紫
+    - GMK 原产 METROPOLIS 大都会 R2
+    - GMK 原产 Fox 狐狸
+    - SP SA Handarbeit+
 
 ### 2021-04-01
 

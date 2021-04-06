@@ -51,8 +51,12 @@
 
 ![Keyreative KAT Slurp](media/Keyreative@KAT@Slurp.jpg)
 
-Author Topic: [IC] IFK Dark Cyrillic - GB date is set, Oct 9-23, 2020!  (Read 17783 times)
-https://geekhack.org/index.php?topic=107255.0
+### [NicePBT DSA Nineteen Thirty 一九三零](https://geekhack.org/index.php?topic=111053.0)
 
-[IC] PBT musubi. 8/28/20 GB LIVE
-https://geekhack.org/index.php?topic=106045.0
+- 设计师：Prkns & Ulliam
+- 团购时间：2021.03.01 至 2021.04.01
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/10Qy33Ld8eZl)
+
+![NicePBT DSA Nineteen Thirty 一九三零](media/NicePBT@DSA@Nineteen_Thirty@一九三零.jpg)
+

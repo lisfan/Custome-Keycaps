@@ -34,6 +34,18 @@
 
 ## 键帽列表
 
+### [SP DSS White on Black](https://geekhack.org/index.php?topic=111967.0)
+
+![](media/16172811096768.jpg)
+
+### [DSS Sencillo](https://geekhack.org/index.php?topic=111960.0)
+
+![](media/16172812226220.jpg)
+
+### Melgeek MG 未知
+
+![QQ20210401-0](media/QQ20210401-0.jpg)
+
 ### [SA Spectra](https://geekhack.org/index.php?topic=111830.0)
 
 ![](media/16163056970365.jpg)
@@ -69,8 +81,6 @@
 ### [SA Ramses](https://geekhack.org/index.php?topic=108914.0)
 
 ![](media/16161630534555.jpg)
-
-![](media/16161630774315.jpg)
 
 ### [SA Outlander](https://geekhack.org/index.php?topic=105573.0)
 

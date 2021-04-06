@@ -33,6 +33,59 @@
 
 ## 键帽列表
 
+### [GMK 原厂 Nightshade 夜影](https://geekhack.org/index.php?topic=102474.0)
+
+- 设计师：BlindAssassin111
+- 团购时间：2021.03.04 至 2021.04.03
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lGAEJ4VpKZeB)
+
+![GMK 原厂 Nightshade 夜影](media/GMK@原厂@Nightshade@夜影.jpg)
+
+### [GMK 原厂 WoB Shinethrough 黑二色灯帽](https://geekhack.org/index.php?topic=109476.0)
+
+- 设计师：HoodrowThrillson
+- 团购时间：2021.03.05 至 2021.04.02
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/l7LwrreAqygo)
+
+![GMK 原厂 WoB Shinethrough 黑二色灯帽](media/GMK@原厂@WoB_Shinethrough@黑二色灯帽.jpg)
+
+### [GMK 原厂 Yeeti 雪怪](https://geekhack.org/index.php?topic=109227)
+
+- 设计师：Fannie_w
+- 团购时间：2021.03.02 至 2021.04.02
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lDxdL08a8k7l)
+
+![GMK 原厂 Yeeti 雪怪](media/GMK@原厂@Yeeti@雪怪.jpg)
+
+### [GMK 原厂 Cobalt 钴蓝](https://geekhack.org/index.php?topic=110273)
+
+- 设计师：fatboycarney
+- 团购时间：2021.03.01 至 2021.04.01
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/l6mawvG2vP41)
+
+![GMK 原厂 Cobalt 钴蓝](media/GMK@原厂@Cobalt@钴蓝_1.jpg)
+
+![GMK 原厂 Cobalt 钴蓝](media/GMK@原厂@Cobalt@钴蓝_2.jpg)
+
+### [GMK 原厂 Colorchrome 黑白彩](https://geekhack.org/index.php?topic=106412.0)
+
+- 设计师：Full
+- 团购时间：2021.03.05 至 2021.03.26
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/B9NzQQNXgGO1)
+
+![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_1.jpg)
+
+![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_2.jpg)
+
+![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_3.jpg)
+
+![GMK 原厂 Colorchrome 黑白彩](media/GMK@原厂@Colorchrome@黑白彩_4.jpg)
+
 ### [GMK 原厂 Norse 诺斯](https://geekhack.org/index.php?topic=107666.0)
 
 - 设计师：Skok
@@ -164,6 +217,7 @@
 - 团购时间：2021.02.01 至 2021.02.28
 - 发货时间：2022.01
 -
+
 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23041973287.17.25383f55qi6iZp&id=637616785870)
 
 ![GMK 原厂 Gateway传送门](./media/GMK@原厂@Gateway@传送门.jpg)
@@ -745,10 +799,6 @@
 
 ![GMK 原厂 Firefly 萤火虫](media/GMK@原厂@Firefly@萤火虫.jpg)
 
-### [GMK 原厂 Wasabi 芥末](https://www.originativeco.com/products/wasabi)
-
-![GMK 原厂 Wasabi 芥末](media/GMK@原厂@Wasabi@芥末.jpg)
-
 ### [GMK 原厂 Crimson Cadet 猩红学员](https://geekhack.org/index.php?topic=102510)
 
 ![GMK 原厂 Crimson Cadet 猩红学员](media/GMK@原厂@Crimson_Cadet@猩红学员.jpg)
@@ -850,10 +900,6 @@
 ### [MK 原厂 Wavez 声波](https://geekhack.org/index.php?topic=100063.0)
 
 ![GMK 原厂 Wavez 声波](./media/Kgkx7y.jpg)
-
-### [GMK 原厂 Metropolis 大都会](https://geekhack.org/index.php?topic=99962.0)
-
-![GMK 原厂 Metropolis 大都会](./media/raYMnu.jpg)
 
 ### [GMK 原厂 SkIIdata 黑橙 R2](https://geekhack.org/index.php?topic=76521.0)
 
