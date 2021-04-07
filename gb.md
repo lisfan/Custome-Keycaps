@@ -4,6 +4,11 @@
 
 如有遗漏，请联系QQ：448182355
 
+## 推广
+
+[![MOO·OON 阳·白昼 QQ群：745363789](media/444.jpg)
+](https://www.zfrontier.com/app/flow/D6mwV5nwK9lp)
+
 ## 快速导航
 
 - qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
@@ -33,6 +38,15 @@
 
 ## 键帽列表
 
+### [MOO·OON 原厂 阳·白昼 Yang·Daytime](https://geekhack.org/index.php?topic=111568.0)
+
+- 设计师：MOO·OON
+- 团购时间：2021.03.30 至 2021.04.27
+- 发货时间：2021.06.12(可能提前)
+- 购买方式：[MOOOON 淘宝店](https://item.taobao.com/item.htm?id=639578406264)
+
+![MOO·OON 原厂 阳·白昼 Yang·Daytime](media/MOO·OON@原厂@阳·白昼@Yang·Daytime.jpg)
+
 ### [GMK 原厂 Wasabi 山葵 V2](https://geekhack.org/index.php?topic=111528.0)
 
 - 设计师：Sourmk
@@ -42,14 +56,14 @@
 
 ![GMK 原厂 Wasabi 山葵 V2](media/GMK@原厂@Wasabi@山葵@V2.jpg)
 
-### [GMK 原产 Boulder](https://geekhack.org/index.php?topic=110244.0)
+### [GMK 原厂 Boulder](https://geekhack.org/index.php?topic=110244.0)
 
 - 设计师：shiba
 - 团购时间：2021.04.02 至 2021.05.02
 - 发货时间：2022.Q2
 - 购买方式：[KBDfans](https://kbdfans.store/products/BOULDER/)
 
-![GMK 原产 Boulder](media/GMK@原产@Boulder.jpg)
+![GMK 原厂 Boulder](media/GMK@原厂@Boulder.jpg)
 
 ### [SP DCS Delftware 蓝瓷](https://geekhack.org/index.php?topic=104417.0)
 
@@ -60,32 +74,32 @@
 
 ![SP DCS Delftware 蓝瓷](media/SP@DCS@Delftware@蓝瓷.jpg)
 
-### [GMK 原产 Blurple 蓝紫](https://geekhack.org/index.php?topic=109480.0)
+### [GMK 原厂 Blurple 蓝紫](https://geekhack.org/index.php?topic=109480.0)
 
 - 设计师：PhantomTaco
 - 团购时间：2021.04.02 至 2021.04.30
 - 发货时间：2022.Q2
 - 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1k25jmVnAD9B)
 
-![GMK 原产 Blurple 蓝紫](media/GMK@原产@Blurple@蓝紫.jpg)
+![GMK 原厂 Blurple 蓝紫](media/GMK@原厂@Blurple@蓝紫.jpg)
 
-### [GMK 原产 METROPOLIS 大都会 R2](https://geekhack.org/index.php?topic=111614.0)
+### [GMK 原厂 METROPOLIS 大都会 R2](https://geekhack.org/index.php?topic=111614.0)
 
 - 设计师：Nephlock
 - 团购时间：2021.04.02 至 2021.04.30
 - 发货时间：2022.Q2
 - 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/EBbzAEZyazDB)
 
-![GMK 原产 METROPOLIS 大都会 R2](media/GMK@原产@METROPOLIS@大都会@R2.jpg)
+![GMK 原厂 METROPOLIS 大都会 R2](media/GMK@原厂@METROPOLIS@大都会@R2.jpg)
 
-### [GMK 原产 Fox 狐狸](https://geekhack.org/index.php?topic=109895.0)
+### [GMK 原厂 Fox 狐狸](https://geekhack.org/index.php?topic=109895.0)
 
 - 设计师：boneandbee
 - 团购时间：2021.04.02 至 2021.04.30
 - 发货时间：2022.05
 - 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=642201043647)
 
-![GMK 原产 Fox 狐狸](media/GMK@原产@Fox@狐狸.jpg)
+![GMK 原厂 Fox 狐狸](media/GMK@原厂@Fox@狐狸.jpg)
 
 ### [SP SA Handarbeit+](https://geekhack.org/index.php?topic=111816.0)
 
@@ -96,7 +110,7 @@
 
 ![SP SA Handarbeit+](media/SP@SA@Handarbeit+.jpg)
 
-### [GMK 原产 95NEON](https://geekhack.org/index.php?topic=111270.0)
+### [GMK 原厂 95NEON](https://geekhack.org/index.php?topic=111270.0)
 
 发车时间：2021.04.01
 
@@ -104,20 +118,13 @@
 
 ![](media/16176886161920.jpg)
 
-### [JTK 原产 Sora](https://geekhack.org/index.php?topic=110021.0)
+### [JTK 原厂 Sora](https://geekhack.org/index.php?topic=110021.0)
 
 发车时间：2021.04.06
 
 ![](media/16161324881829.jpg)
 
 ![](media/16161324800638.jpg)
-
-### [GMK 原产 Sunset Surfing](https://geekhack.org/index.php?topic=108752.0)
-
-- 设计师：archerypro459
-- 暂无数据
-
-![GMK 原产 Sunset Surfing](media/GMK@原产@Sunset_Surfing.jpg)
 
 ### [PBT 原厂 Notion](https://novelkeys.xyz/collections/keycaps/products/pbt-notion)
 

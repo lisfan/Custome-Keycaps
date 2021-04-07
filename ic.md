@@ -4,6 +4,11 @@
 
 如有遗漏，请联系QQ：448182355
 
+## 推广
+
+[![MOO·OON 阳·白昼 QQ群：745363789](media/444.jpg)
+](https://www.zfrontier.com/app/flow/D6mwV5nwK9lp)
+
 ## 快速导航
 
 - qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
@@ -41,6 +46,39 @@
 开团时间2021.Q3?
 
 ![](media/16161683218892.jpg)
+
+### [JTK Monke](https://geekhack.org/index.php?topic=112126.0)
+
+![](media/16177700670643.jpg)
+
+
+![](media/16177700730795.jpg)
+
+### [GMK BLY](https://geekhack.org/index.php?topic=112146.0)
+
+![](media/16177700940829.jpg)
+
+### [ePBT Infernal](https://geekhack.org/index.php?topic=112135.0)
+
+![](media/16177701275625.jpg)
+
+
+### [GMK Brutalist](https://geekhack.org/index.php?topic=112115.0)
+
+![](media/16177701570371.jpg)
+
+### [GMK Gunfight](https://geekhack.org/index.php?topic=112067.0)
+
+![](media/16177644303270.jpg)
+
+### [GMK Aegyptus](https://geekhack.org/index.php?topic=112098.0)
+
+![](media/16177645285448.jpg)
+
+
+### [GMK Mercury](https://geekhack.org/index.php?topic=112000.0)
+
+![](media/img.png)
 
 ### [GMK Oborozakura](https://geekhack.org/index.php?topic=112109.0)
 
@@ -123,9 +161,6 @@ https://geekhack.org/index.php?topic=111984.0
 
 ![](media/16164639092799.jpg)
 
-### [ePBT Origami](https://geekhack.org/index.php?topic=111860.0)
-
-![](media/16164639408201.jpg)
 
 ### [GMK Media Keys](https://geekhack.org/index.php?topic=111884.0)
 
