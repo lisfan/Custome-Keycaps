@@ -95,18 +95,45 @@ https://geekhack.org/index.php?topic=107255.0
 [IC] PBT musubi. 8/28/20 GB LIVE
 https://geekhack.org/index.php?topic=106045.0
 
+Author Topic: [GB] PBT Amalfi  (Read 8308 times)
+https://geekhack.org/index.php?topic=108093.0
+
+https://geekhack.org/index.php?topic=110564.0
+Infinikey Marshmallow
+
+Author Topic: [GB] IFK Blacklight Sep 10th - 25th  (Read 10091 times)
+
+https://geekhack.org/index.php?topic=108557.0
+
+https://geekhack.org/index.php?topic=95655.0
+Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761 times)
+
 ## 更新历史
+
+### 2021-04-07
+
+- 开团时间确定
+  - KAM Li'l Dragon
+  - SP SA Spectra
+  - ePBT Origami
+
+- IC新增
+  - GMK Aegyptus
+  - GMK Mercury
+  - GMK Gunfight
+  - KAT arbeit
+
 
 ### 2021-04-06
 
 - 修复 epbt 图片丢失了
 - 新增开团
   * GMK 原厂 Wasabi 山葵 V2
-  - GMK 原产 Boulder
+  - GMK 原厂 Boulder
   - SP DCS Delftware 蓝瓷
-  - GMK 原产 Blurple 蓝紫
-  - GMK 原产 METROPOLIS 大都会 R2
-  - GMK 原产 Fox 狐狸
+  - GMK 原厂 Blurple 蓝紫
+  - GMK 原厂 METROPOLIS 大都会 R2
+  - GMK 原厂 Fox 狐狸
   - SP SA Handarbeit+
 - 开团时间更新
   - GMK Wise Wolf 改名 GMK Harvest
