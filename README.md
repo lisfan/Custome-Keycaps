@@ -115,6 +115,11 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-08
+
+- 开团时间确定
+  - JTK Hanami：2021.05
+
 ### 2021-04-07
 
 - 开团时间确定

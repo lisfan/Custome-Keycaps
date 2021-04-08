@@ -546,12 +546,6 @@ https://geekhack.org/index.php?topic=111984.0
 
 ![](media/16161626022864.jpg)
 
-### [JTK Hanami](https://geekhack.org/index.php?topic=109337.0)
-
-![](media/16162421171825.jpg)
-
-![](media/16162421238317.jpg)
-
 ### [Infinikey Delight](https://geekhack.org/index.php?topic=109334.0)
 
 ![](media/16161624538178.jpg)
