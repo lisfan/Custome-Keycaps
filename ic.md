@@ -47,6 +47,14 @@
 
 ![](media/16161683218892.jpg)
 
+### [ePbt Wapuro](https://geekhack.org/index.php?topic=112196.0)
+
+![](media/16179371291178.jpg)
+
+### [GMK Rub Out](https://geekhack.org/index.php?topic=112192.0)
+
+![](media/16179371650561.jpg)
+
 ### [JTK Monke](https://geekhack.org/index.php?topic=112126.0)
 
 ![](media/16177700670643.jpg)
@@ -188,10 +196,6 @@ https://geekhack.org/index.php?topic=111984.0
 
 ![](media/16160720881185.jpg)
 
-### [~GMK Shashin](https://geekhack.org/index.php?topic=111767.0)
-
-![](media/16160721395909.jpg)
-
 ### [GMK Evil Eye](https://geekhack.org/index.php?topic=111748.0)
 
 ![](media/16160723239851.jpg)
@@ -237,10 +241,6 @@ https://geekhack.org/index.php?topic=111984.0
 ### [ePBT Inconceivable!](https://geekhack.org/index.php?topic=111607.0)
 
 ![](media/16161231588747.jpg)
-
-### [GMK ReForged](https://geekhack.org/index.php?topic=111586.0)
-
-![](media/16161233773849.jpg)
 
 ### [GMK Retrotrip](https://geekhack.org/index.php?topic=111583.0)
 
@@ -634,10 +634,6 @@ https://geekhack.org/index.php?topic=111984.0
 ### [Infinikey Strawberry Lemonade](https://geekhack.org/index.php?topic=107161.0)
 
 ![](media/16161680666323.jpg)
-
-### [GMK Moonlight](https://geekhack.org/index.php?topic=107004.0)
-
-![](media/16161684076688.jpg)
 
 ### [GMK Lasaka](https://geekhack.org/index.php?topic=106833.0)
 

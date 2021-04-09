@@ -47,6 +47,15 @@
 
 ![MOO·OON 原厂 阳·白昼 Yang·Daytime](media/MOO·OON@原厂@阳·白昼@Yang·Daytime.jpg)
 
+### [GMK Agent 01](https://geekhack.org/index.php?topic=109777.0)
+
+- 设计师：SxM Designs
+- 团购时间：2021.04.09 至 2021.05.09
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Agent01/)
+
+![](media/16161323416729.jpg)
+
 ### [GMK 原厂 Wasabi 山葵 V2](https://geekhack.org/index.php?topic=111528.0)
 
 - 设计师：Sourmk

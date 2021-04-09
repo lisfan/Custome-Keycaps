@@ -115,11 +115,26 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-09
+
+- 今日开团
+  - GMK Agent 01
+
+- 开团时间确定
+  - GMK Shashin：2021.05.01
+  - GMK Modern Japanese Desko： 调整为2021.04.19
+  - GMK Moonlight： 2021.05.21
+  - GMK ReForged：2021.09
+
+- IC新增
+  - GMK Rub Out
+  - ePbt Wapuro
+
 ### 2021-04-08
 
 - 开团时间确定
   - JTK Hanami：2021.05
-
+  
 ### 2021-04-07
 
 - 开团时间确定
@@ -141,8 +156,8 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 ### 2021-04-06
 
 - 修复 epbt 图片丢失了
-- 新增开团
-  * GMK 原厂 Wasabi 山葵 V2
+- 今日开团
+  - GMK 原厂 Wasabi 山葵 V2
   - GMK 原厂 Boulder
   - SP DCS Delftware 蓝瓷
   - GMK 原厂 Blurple 蓝紫
@@ -171,7 +186,7 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ### 2021-04-01
 
-- 开团新增：
+- 今日开团
     - Melgeek MG Fishing 渔
     - DOMIKEY AVOSTAR 鳄梨星
     - SP X-mas Gift 圣诞礼物
