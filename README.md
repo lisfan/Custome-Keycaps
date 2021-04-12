@@ -115,6 +115,20 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-12
+
+- 信息变更
+    - ePBT Psychedelic × Sweet girl：代工方从gmk改为epbt
+
+- 开团时间确定
+    - GMK Classic Arabic
+    
+- IC新增
+    - GMK Shadow
+    - GMK Fleuriste
+    - DSA Historic
+    - GMK Shiryō
+
 ### 2021-04-09
 
 - 今日开团

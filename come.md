@@ -323,6 +323,14 @@
 
 ![](media/16161233773849.jpg)
 
+## Q3
+
+### [~GMK Classic Arabic](https://geekhack.org/index.php?topic=110721.0)
+
+![](media/16161276770198.jpg)
+
+![](media/16161276888958.jpg)
+
 ## Q4
 
 ### [GMK Vaporwave R2]

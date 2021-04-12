@@ -47,6 +47,18 @@
 
 ![](media/16161683218892.jpg)
 
+### [GMK Fleuriste](https://geekhack.org/index.php?topic=112243.0)
+
+![](media/16181948231274.jpg)
+
+### [GMK Shadow](https://geekhack.org/index.php?topic=112240.0)
+
+![](media/16181948634395.jpg)
+
+### [GMK Shiryō](https://geekhack.org/index.php?topic=112233.0)
+
+![](media/16181084707666.jpg)
+
 ### [ePbt Wapuro](https://geekhack.org/index.php?topic=112196.0)
 
 ![](media/16179371291178.jpg)
@@ -96,7 +108,7 @@
 
 ![](media/16176950409580.jpg)
 
-### [GMK Psychedelic](https://geekhack.org/index.php?topic=112022.0)
+### [ePBT Psychedelic × Sweet girl](https://geekhack.org/index.php?topic=112022.0)
 
 ![](media/16176950785500.jpg)
 
@@ -413,12 +425,6 @@ https://geekhack.org/index.php?topic=111984.0
 ### [GMK Galant](https://geekhack.org/index.php?topic=110731.0)
 
 ![](media/16161276527114.jpg)
-
-### [~GMK Classic Arabic](https://geekhack.org/index.php?topic=110721.0)
-
-![](media/16161276770198.jpg)
-
-![](media/16161276888958.jpg)
 
 ### [GMK Cluck](https://geekhack.org/index.php?topic=110734.0)
 
