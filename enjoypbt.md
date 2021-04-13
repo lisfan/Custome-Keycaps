@@ -38,6 +38,15 @@
 
 ## 键帽列表
 
+### [ePBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
+
+- 设计师：dklein
+- 团购时间：2021.03.11 至 2021.04.08
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Aesthetic/)
+
+![ePBT 原厂 Aesthetic](media/ePBT@原厂@Aesthetic.jpg)
+
 ### [ePBT 原厂 GRAND TOUR](https://geekhack.org/index.php?topic=108068.0)
 
 - 设计师：fedemito

@@ -47,6 +47,11 @@
 
 ![](media/16161683218892.jpg)
 
+### [GMK Classic Black on White](https://geekhack.org/index.php?topic=112264.0)
+
+![](media/16182777213040.jpg)
+
+
 ### [GMK Fleuriste](https://geekhack.org/index.php?topic=112243.0)
 
 ![](media/16181948231274.jpg)
@@ -195,10 +200,6 @@ https://geekhack.org/index.php?topic=111984.0
 ### [GMK Parcel](https://geekhack.org/index.php?topic=111819.0)
 
 ![](media/16163057944482.jpg)
-
-### [~PBT Slash](https://geekhack.org/index.php?topic=111806.0)
-
-![PBT Slash](media/16160709497315.jpg)
 
 ### [GMK Poke](https://geekhack.org/index.php?topic=111777.0)
 

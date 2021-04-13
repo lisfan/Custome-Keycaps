@@ -38,6 +38,51 @@
 
 ## 键帽列表
 
+### [GMK 原厂 Serenity 宁静](https://geekhack.org/index.php?topic=111065.0)
+
+- 设计师：Mito
+- 团购时间：2021.03.13 至 2021.04.08
+- 发货时间：2021.Q4
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 Serenity 宁静](media/GMK@原厂@Serenity@宁静.jpg)
+
+### [GMK 原厂 Astral 星光](https://geekhack.org/index.php?topic=101922.0)
+
+- 设计师：NaturalPack
+- 团购时间：2021.03.08 至 2021.04.06
+- 发货时间：2022.3
+- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=638958484826)
+
+![GMK 原厂 Astral 星光](media/GMK@原厂@Astral@星光.jpg)
+
+### [SP SA 8010](https://geekhack.org/index.php?topic=106901)
+
+- 设计师：FRANCO
+- 团购时间：2021.03.05 至 2021.04.01
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![SP SA 8010](media/SP@SA@8010.jpg)
+
+### [GMK 原厂 Red Alert 红警](https://geekhack.org/index.php?topic=107649.0)
+
+- 设计师：Break
+- 团购时间：2021.03.05 至 2021.04.09
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/B5xDnyGpdm9o)
+
+![GMK 原厂 Red Alert 红警](media/GMK@原厂@Red_Alert@红警.jpg)
+
+### [GMK 原厂 Striker 前锋 R2](https://geekhack.org/index.php?topic=100387.0)
+
+- 设计师：Zambumon
+- 团购时间：2021.03.03 至 2021.04.06
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lMyMyYmNmRYl)
+
+![GMK 原厂 Striker 前锋 R2](media/GMK@原厂@Striker@前锋@R2.jpg)
+
 ### [GMK 原厂 Nightshade 夜影](https://geekhack.org/index.php?topic=102474.0)
 
 - 设计师：BlindAssassin111

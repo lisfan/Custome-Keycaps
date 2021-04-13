@@ -303,10 +303,6 @@
 
 ![](media/16161640720348.jpg)
 
-### [DCS Alps Pingmaster](https://geekhack.org/index.php?topic=107021.0)
-
-![](media/16161681325953.jpg)
-
 ### [KAM Ocean Front](https://geekhack.org/index.php?topic=106644.0)
 
 ![](media/16161682179650.jpg)

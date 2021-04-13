@@ -38,23 +38,61 @@
 
 ## 键帽列表
 
-### [MOO·OON 原厂 阳·白昼 Yang·Daytime](https://geekhack.org/index.php?topic=111568.0)
+### [GMK 原厂 Kouhai](https://geekhack.org/index.php?topic=109077.0)
 
-- 设计师：MOO·OON
-- 团购时间：2021.03.30 至 2021.04.27
+- 设计师：Bachoo
+- 团购时间：2021.04.12 至 2021.05.09
+- 发货时间：2022.Q2
+- 购买方式：国内无代理
+
+![GMK 原厂 Kouhai](media/GMK@原厂@Kouhai.jpg)
+
+### [SP DSS Late Harvest](https://geekhack.org/index.php?topic=110904.0)
+
+- 设计师：NoPunIn10Did
+- 团购时间：2021.04.12 至 2021.05.12
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/DSSlate/)
+
+![SP DSS Late Harvest](media/SP@DSS@Late_Harvest.jpg)
+
+### [SP SA Espresso 浓缩咖啡](https://geekhack.org/index.php?topic=108230.0)
+
+- 设计师：JPoc
+- 团购时间：2021.04.13 至 2021.05.14
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1Xk4eqDZLy5B)
+
+![SP SA Espresso 浓缩咖啡](media/SP@SA@Espresso@浓缩咖啡.jpg)
+
+### [Geekark 原厂 Slash](https://geekhack.org/index.php?topic=111806.0)
+
+- 设计师：seh0nk
+- 团购时间：2021.04.12 至 2021.05.31
 - 发货时间：2021.06.12(可能提前)
-- 购买方式：[MOOOON 淘宝店](https://item.taobao.com/item.htm?id=639578406264)
+- 购买方式：国内未开
 
-![MOO·OON 原厂 阳·白昼 Yang·Daytime](media/MOO·OON@原厂@阳·白昼@Yang·Daytime.jpg)
+![Geekark 原厂 Slash](media/Geekark@原厂@Slash.jpg)
 
-### [GMK Agent 01](https://geekhack.org/index.php?topic=109777.0)
+### [GMK 原厂 Agent 01](https://geekhack.org/index.php?topic=109777.0)
 
 - 设计师：SxM Designs
 - 团购时间：2021.04.09 至 2021.05.09
 - 发货时间：待定
 - 购买方式：[KBDfans](https://kbdfans.store/products/Agent01/)
 
-![](media/16161323416729.jpg)
+![GMK 原厂 Agent 01](media/GMK@原厂@Agent@01.jpg)
+
+### [JTK 原厂 Sora](https://geekhack.org/index.php?topic=110021.0)
+
+- 设计师：sauv
+- 团购时间：2021.04.06 至 2021.05.06
+- 发货时间：2022.Q2
+- 购买方式：国内未开
+
+![JTK 原厂 Sora](media/JTK@原厂@Sora_1.jpg)
+
+![JTK 原厂 Sora](media/JTK@原厂@Sora_2.jpg)
 
 ### [GMK 原厂 Wasabi 山葵 V2](https://geekhack.org/index.php?topic=111528.0)
 
@@ -119,21 +157,14 @@
 
 ![SP SA Handarbeit+](media/SP@SA@Handarbeit+.jpg)
 
-### [GMK 原厂 95NEON](https://geekhack.org/index.php?topic=111270.0)
+### [MOO·OON 原厂 阳·白昼 Yang·Daytime](https://geekhack.org/index.php?topic=111568.0)
 
-发车时间：2021.04.01
+- 设计师：MOO·OON
+- 团购时间：2021.03.30 至 2021.04.27
+- 发货时间：2021.06.12(可能提前)
+- 购买方式：[MOOOON 淘宝店](https://item.taobao.com/item.htm?id=639578406264)
 
-延迟中
-
-![](media/16176886161920.jpg)
-
-### [JTK 原厂 Sora](https://geekhack.org/index.php?topic=110021.0)
-
-发车时间：2021.04.06
-
-![](media/16161324881829.jpg)
-
-![](media/16161324800638.jpg)
+![MOO·OON 原厂 阳·白昼 Yang·Daytime](media/MOO·OON@原厂@阳·白昼@Yang·Daytime.jpg)
 
 ### [PBT 原厂 Notion](https://novelkeys.xyz/collections/keycaps/products/pbt-notion)
 
@@ -259,57 +290,3 @@
 - 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/omdQyA69XLjl)
 
 ![GMK Fuji 富士](media/GMK@原厂@Fuji@富士.jpg)
-
-### [GMK 原厂 Serenity 宁静](https://geekhack.org/index.php?topic=111065.0)
-
-- 设计师：Mito
-- 团购时间：2021.03.13 至 2021.04.08
-- 发货时间：2021.Q4
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![GMK 原厂 Serenity 宁静](media/GMK@原厂@Serenity@宁静.jpg)
-
-### [ePBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
-
-- 设计师：dklein
-- 团购时间：2021.03.11 至 2021.04.08
-- 发货时间：待定
-- 购买方式：[KBDfans](https://kbdfans.store/products/Aesthetic/)
-
-![ePBT 原厂 Aesthetic](media/ePBT@原厂@Aesthetic.jpg)
-
-### [GMK 原厂 Astral 星光](https://geekhack.org/index.php?topic=101922.0)
-
-- 设计师：NaturalPack
-- 团购时间：2021.03.08 至 2021.04.06
-- 发货时间：2022.3
-- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=638958484826)
-
-![GMK 原厂 Astral 星光](media/GMK@原厂@Astral@星光.jpg)
-
-### [~SP SA 8010](https://geekhack.org/index.php?topic=106901)
-
-- 设计师：FRANCO
-- 团购时间：2021.03.05 至 2021.04.01
-- 发货时间：2022.Q2
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![SP SA 8010](media/SP@SA@8010.jpg)
-
-### [GMK 原厂 Red Alert 红警](https://geekhack.org/index.php?topic=107649.0)
-
-- 设计师：Break
-- 团购时间：2021.03.05 至 2021.04.09
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/B5xDnyGpdm9o)
-
-![GMK 原厂 Red Alert 红警](media/GMK@原厂@Red_Alert@红警.jpg)
-
-### [GMK 原厂 Striker 前锋 R2](https://geekhack.org/index.php?topic=100387.0)
-
-- 设计师：Zambumon
-- 团购时间：2021.03.03 至 2021.04.06
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lMyMyYmNmRYl)
-
-![GMK 原厂 Striker 前锋 R2](media/GMK@原厂@Striker@前锋@R2.jpg)
