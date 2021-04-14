@@ -796,10 +796,6 @@ https://geekhack.org/index.php?topic=111984.0
 
 ![](media/16162278532974.jpg)
 
-### [GMK Alchemy](https://geekhack.org/index.php?topic=103940.0)
-
-![](media/16162278331649.jpg)
-
 ### [Pooped in the Pool](https://geekhack.org/index.php?topic=103849.0)
 
 ![](media/16162280344224.jpg)

@@ -233,10 +233,6 @@
 
 ![](media/16161261114635.jpg)
 
-### [DSS Hand Work](https://geekhack.org/index.php?topic=110942.0)
-
-![](media/16161262484092.jpg)
-
 ### [MT3 Monomanukai](https://geekhack.org/index.php?topic=111011.0)
 
 ![](media/16161261374194.jpg)

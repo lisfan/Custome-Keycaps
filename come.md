@@ -78,6 +78,12 @@
 
 ![](media/16161687243482.jpg)
 
+发车时间：2021.04.21
+
+### [DSS Hand Work](https://geekhack.org/index.php?topic=110942.0)
+
+![](media/16161262484092.jpg)
+
 ### [GMK Jelly Delights](https://geekhack.org/index.php?topic=111390.0)
 
 发车时间：2021.04.22
@@ -136,6 +142,12 @@
 发车时间：2021.05.07
 
 ![](media/16161362718066.jpg)
+
+### [GMK Alchemy](https://geekhack.org/index.php?topic=112292.0)
+
+发车时间：2021.05.15
+
+![](media/16162278331649.jpg)
 
 ### [~GMK Pâtisserie](https://geekhack.org/index.php?topic=109160.0)
 

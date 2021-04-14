@@ -43,7 +43,7 @@
 - 设计师：Bachoo
 - 团购时间：2021.04.12 至 2021.05.09
 - 发货时间：2022.Q2
-- 购买方式：国内无代理
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
 
 ![GMK 原厂 Kouhai](media/GMK@原厂@Kouhai.jpg)
 
