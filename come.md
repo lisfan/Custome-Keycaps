@@ -40,20 +40,6 @@
 
 ## 四月
 
-### [GMK Peaches n Cream](https://geekhack.org/index.php?topic=101419.0)
-
-发车时间：2021.04.15
-
-![](media/16162511138561.jpg)
-
-### [~ePBT 6085](https://geekhack.org/index.php?topic=108456.0)
-
-发车时间：2021.04.15
-
-![](media/16161638354870.jpg)
-
-![](media/16161638485600.jpg)
-
 ### [GMK Seafarer](https://geekhack.org/index.php?topic=110169.0)
 
 发车时间：2021.04.16
@@ -244,6 +230,12 @@
 ![](media/16161277995879.jpg)
 
 ![](media/16161278130396.jpg)
+
+### [~KAT Great Wave 大浪](https://geekhack.org/index.php?topic=110310.0)
+
+发车时间：2021.06
+
+![](media/16161284765871.jpg)
 
 ### [GMK Sixes](https://geekhack.org/index.php?topic=102535.0)
 

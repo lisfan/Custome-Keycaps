@@ -38,6 +38,24 @@
 
 ## 键帽列表
 
+### [GMK 原厂 Peaches n Cream Lite](https://geekhack.org/index.php?topic=101419.0)
+
+- 设计师：Rensuya
+- 团购时间：2021.04.15 至 2021.xx.xx
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线 待更新]()
+
+![GMK 原厂 Peaches n Cream](./media/GMK@原厂@Peaches_n_Cream_Lite.jpg)
+
+### [~ePBT 原厂 6085](https://geekhack.org/index.php?topic=108456.0)
+
+- 设计师：Rensuya
+- 团购时间：2021.04.15 至 2021.05.16
+- 发货时间：2021.12-2022.01
+- 购买方式：[KBDfans](https://kbdfans.store/products/6085/)
+
+![ePBT 原厂 6085](media/ePBT@原厂@6085.jpg)
+
 ### [GMK 原厂 Kouhai](https://geekhack.org/index.php?topic=109077.0)
 
 - 设计师：Bachoo

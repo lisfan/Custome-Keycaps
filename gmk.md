@@ -895,9 +895,9 @@
 
 ![GMK 原厂 Voyage 旅行](./media/L2DYLj.jpg)
 
-### [GMK 原厂 Peach n Cream](https://geekhack.org/index.php?topic=100482.0)
+### [GMK 原厂 Peaches n Cream](https://geekhack.org/index.php?topic=100482.0)
 
-![GMK 原厂 Peach n Cream](./media/iw5Sc2.jpg)
+![GMK 原厂 Peaches n Cream](./media/iw5Sc2.jpg)
 
 ### [GMK 原厂 Vaporwave 蒸汽波](https://geekhack.org/index.php?topic=101391.0)
 

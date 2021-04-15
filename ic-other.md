@@ -263,10 +263,6 @@
 
 ![](media/16161284920479.jpg)
 
-### [~KAT Great Wave 大浪](https://geekhack.org/index.php?topic=110310.0)
-
-![](media/16161284765871.jpg)
-
 ### [KAT Quantum](https://geekhack.org/index.php?topic=110077.0)
 
 ![](media/16161324990886.jpg)

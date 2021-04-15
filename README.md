@@ -115,6 +115,18 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-15
+
+- 今日开团
+  - ePBT 原厂 6085
+  - GMK 原厂 Peaches n Cream Lite
+
+- 开团时间确定
+  - KAT Great Wave 大浪：2021.06 
+
+- IC新增
+  - GMK Max Neon
+
 ### 2021-04-14
 
 - 开团时间确定
