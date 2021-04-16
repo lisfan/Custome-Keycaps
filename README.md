@@ -47,12 +47,13 @@
 3. [zFrontier 键圈早报](https://www.zfrontier.com/app/user/3mdxPyXj8k9e)：（早上情报）聚合近期IC&开团等信息
 4. [日·键圈时刻表](https://space.bilibili.com/57276677/article)：（晚上情报）聚合IC&开团等信息
 4. [zFrontier - 情报专栏](https://www.zfrontier.com/app/circle/1#2007)：**国内**发布客制化相关IC信息
-6. [KeyboardDaily](https://space.bilibili.com/436659663/article)：开团时刻表
+6. [KeyboardDaily 开团时刻表](https://space.bilibili.com/436659663/article)：发布开团IC等咨询
+6. [KeyboardDaily 键盘每日资讯](https://space.bilibili.com/436659663/article)：GeekhackIC帖子的转运站
 7. [键帽交付进度](https://hackmd.io/_Ks8KFJNRNKSl0JvBExaEg#%E9%96%8B%E5%9C%98%E4%B8%AD)：汇总各个供应商的键帽更新进度
-8. [无限号小团购列表](http://www.kbyu.top/)：鱼头专车，一般代购drop上的
-9. [geekhack - IC](https://geekhack.org/index.php?board=132.0)：国外发布客制化相关IC信息
-10. [geekhack - GB](https://geekhack.org/index.php?board=70.0)：国外发布客制化相关团购信息
-11. [Reddit](https://www.reddit.com/r/mechmarket/new/)
+9. [geekhack Interest Check](https://geekhack.org/index.php?board=132.0)：国外发布客制化相关IC信息
+10. [geekhack Group Buy](https://geekhack.org/index.php?board=70.0)：国外发布客制化相关团购信息
+11. [Reddit Interest Check](https://www.reddit.com/r/mechmarket/new/?f=flair_name%3A%22Interest%20Check%22)
+8. [无限号小团购列表](http://www.kbyu.top/)：鱼头专车代购
 12. [在线键盘配列编辑器](http://www.keyboard-layout-editor.com/)
 
 ## 打字测试网站
@@ -115,9 +116,28 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-16
+
+- 今日新增
+  - [GMK Seafarer](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-seafarer)
+  - [SP SA Ramses](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#sp-sa-ramses)
+
+- 开团时间确定
+  - [GMK Brutalist：2021.06](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-brutalist)
+
+- IC新增
+  - [SP SA R3 GEOMA](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic-other.md#sp-sa-r3-geoma)
+  - [KAT Raspberry](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic-other.md#kat-raspberry)
+  - [PBT POISON](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#pbt-poison)
+
+- 补充数据库中遗漏的三款
+  - GMK Caution
+  - GMK Steve
+  - Geekark Kraken
+
 ### 2021-04-15
 
-- 今日开团
+- 今日新增
   - ePBT 原厂 6085
   - GMK 原厂 Peaches n Cream Lite
 
@@ -135,7 +155,7 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ### 2021-04-13
 
-- 今日开团
+- 今日新增
   - GMK Kouhai
   - SP DSS Late Harvest
   - SP SA Espresso
@@ -164,7 +184,7 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ### 2021-04-09
 
-- 今日开团
+- 今日新增
   - GMK Agent 01
 
 - 开团时间确定
@@ -203,7 +223,7 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 ### 2021-04-06
 
 - 修复 epbt 图片丢失了
-- 今日开团
+- 今日新增
   - GMK 原厂 Wasabi 山葵 V2
   - GMK 原厂 Boulder
   - SP DCS Delftware 蓝瓷
@@ -233,7 +253,7 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ### 2021-04-01
 
-- 今日开团
+- 今日新增
     - Melgeek MG Fishing 渔
     - DOMIKEY AVOSTAR 鳄梨星
     - SP X-mas Gift 圣诞礼物

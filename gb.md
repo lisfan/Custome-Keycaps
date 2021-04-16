@@ -38,12 +38,32 @@
 
 ## 键帽列表
 
+### [GMK 原厂 Seafarer](https://geekhack.org/index.php?topic=110169.0)
+
+- 设计师：avrocado
+- 团购时间：2021.04.16 至 2021.05.16
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Seafarer/)
+
+![GMK 原厂 Seafarer](media/GMK@原厂@Seafarer.jpg)
+
+### [SP SA Ramses 拉美西斯](https://geekhack.org/index.php?topic=108914.0)
+
+- 设计师：avrocado
+- 团购时间：2021.04.16 至 2021.05.14
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1JpJd753eO7o)
+
+![SP SA Ramses 拉美西斯](media/SP@SA@Ramses@拉美西斯_1.jpg)
+
+![SP SA Ramses 拉美西斯](media/SP@SA@Ramses@拉美西斯_2.jpg)
+
 ### [GMK 原厂 Peaches n Cream Lite](https://geekhack.org/index.php?topic=101419.0)
 
 - 设计师：Rensuya
 - 团购时间：2021.04.15 至 2021.xx.xx
 - 发货时间：2022.Q2
-- 购买方式：[zfrontier 装备前线 待更新]()
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1Q37nL48aZwo)
 
 ![GMK 原厂 Peaches n Cream](./media/GMK@原厂@Peaches_n_Cream_Lite.jpg)
 

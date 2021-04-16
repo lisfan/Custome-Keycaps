@@ -39,7 +39,11 @@
 
 ## 键帽列表
 
-### [DSA Historic](https://geekhack.org/index.php?topic=112209.0)
+### [SP SA R3 GEOMA](https://geekhack.org/index.php?topic=112332.0)
+
+![](media/16185617884314.jpg)
+
+### [SP DSA Historic](https://geekhack.org/index.php?topic=112209.0)
 
 ![](media/16181087366785.jpg)
 
@@ -326,6 +330,10 @@
 ### [KAT Shogōki](https://geekhack.org/index.php?topic=105842.0)
 
 ![](media/16162266682180.jpg)
+
+### [KAT Raspberry](https://geekhack.org/index.php?topic=109795.0)
+
+![](media/16161323977795.jpg)
 
 ### [KAT MUMEI | キャット無銘](https://geekhack.org/index.php?topic=103313.0)
 

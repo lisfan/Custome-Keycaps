@@ -38,6 +38,15 @@
 
 ## 键帽列表
 
+### [SP SA 8010](https://geekhack.org/index.php?topic=106901)
+
+- 设计师：FRANCO
+- 团购时间：2021.03.05 至 2021.04.01
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![SP SA 8010](media/SP@SA@8010.jpg)
+
 ### [SP SA Strong Spirit 陆军 R2](https://geekhack.org/index.php?topic=87673.0)
 
 - 设计师：Kingnestea

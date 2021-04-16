@@ -40,18 +40,6 @@
 
 ## 四月
 
-### [GMK Seafarer](https://geekhack.org/index.php?topic=110169.0)
-
-发车时间：2021.04.16
-
-![](media/16161327502039.jpg)
-
-### [SA Ramses](https://geekhack.org/index.php?topic=108914.0)
-
-发车时间：2021.04.16
-
-![](media/16161630534555.jpg)
-
 ### [~GMK Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
 
 发车时间：2021.04.19
@@ -230,6 +218,12 @@
 ![](media/16161277995879.jpg)
 
 ![](media/16161278130396.jpg)
+
+### [GMK Brutalist](https://geekhack.org/index.php?topic=112115.0)
+
+发车时间：2021.06
+
+![](media/16177701570371.jpg)
 
 ### [~KAT Great Wave 大浪](https://geekhack.org/index.php?topic=110310.0)
 
