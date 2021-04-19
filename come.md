@@ -40,12 +40,6 @@
 
 ## 四月
 
-### [~GMK Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
-
-发车时间：2021.04.19
-
-![](media/16161632476922.jpg)
-
 ### [GMK Zooted](https://geekhack.org/index.php?topic=105845.0)
 
 发车时间：2021.04.20
@@ -69,7 +63,6 @@
 发车时间：2021.04.30
 
 ![](media/16161327706630.jpg)
-)
 
 ### [GMK HANOK 한옥](https://geekhack.org/index.php?topic=110801.0)
 
@@ -110,6 +103,14 @@
 发车时间：2021.05.01
 
 ![](media/16161206761686.jpg)
+
+### [~GMK Cyrillic WoB and Beige](https://geekhack.org/index.php?topic=104745.0)
+
+发车时间：2021.05.01
+
+![](media/16162270980746.jpg)
+
+![](media/16162271041827.jpg)
 
 ### [GMK Lazurite](https://geekhack.org/index.php?topic=109549.0)
 

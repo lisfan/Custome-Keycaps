@@ -116,6 +116,22 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-19
+
+- 今日开团
+  - [GMK Modern Japanese Desko](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-modern-japanese-desko)
+
+- 开团时间确定
+  - GMK Cyrillic WoB and Beige：2021.05.01
+
+- IC新增
+  - [CRYSTAL KEYCAP](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#crystal-keycap)
+  - [GMK Daimyō](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-daimyō)
+  - [GMK Mountaineering](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-mountaineering)
+  - [GMK Kanbara](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-kanbara)
+  - [GMK Maroon](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-maroon)
+  - [ePBT STONE Age](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#epbt-stone-age)
+  
 ### 2021-04-16
 
 - 今日新增

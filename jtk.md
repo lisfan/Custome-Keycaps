@@ -124,7 +124,7 @@
 
 ![JTK 原厂 黑](media/JTK@原厂@黑.jpg)
 
-### [~JTK HSA 奶白巧克力](https://www.zfrontier.com/app/mch/lDxYP0NkRrEl)
+### [JTK HSA 奶白巧克力](https://www.zfrontier.com/app/mch/lDxYP0NkRrEl)
 
 ![JTK HSA 奶白巧克力](media/JTK@HSA@奶白巧克力.jpg)
 

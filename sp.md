@@ -98,7 +98,7 @@
 
 ![SP SA Devil Daisy 恶魔雏菊](./media/ytnk6V.jpg)
 
-### ~SP SA Daisy 雏菊
+### SP SA Daisy 雏菊
 
 ![SP SA Daisy 雏菊](./media/jSw8mM.jpg)
 
@@ -118,7 +118,7 @@
 
 ![SP SA Nightlight](media/16128593668517.jpg)
 
-### [~SP SA Bliss R2](https://geekhack.org/index.php?topic=108608)
+### [SP SA Bliss R2](https://geekhack.org/index.php?topic=108608)
 
 ![SP SA Bliss R2](media/SP@SA@Bliss_1.jpg)
 

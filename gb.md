@@ -38,6 +38,15 @@
 
 ## 键帽列表
 
+### [~GMK Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
+
+- 设计师：EnjoyMyInSec
+- 团购时间：2021.04.19 至 2021.xx.xx
+- 发货时间：2022.xx
+- 购买方式：[zfrontier 装备前线 稍后]()
+
+![](media/16161632476922.jpg)
+
 ### [GMK 原厂 Seafarer](https://geekhack.org/index.php?topic=110169.0)
 
 - 设计师：avrocado
@@ -84,15 +93,6 @@
 - 购买方式：[鱼头列车](http://www.kbyu.top/)
 
 ![GMK 原厂 Kouhai](media/GMK@原厂@Kouhai.jpg)
-
-### [SP DSS Late Harvest](https://geekhack.org/index.php?topic=110904.0)
-
-- 设计师：NoPunIn10Did
-- 团购时间：2021.04.12 至 2021.05.12
-- 发货时间：待定
-- 购买方式：[KBDfans](https://kbdfans.store/products/DSSlate/)
-
-![SP DSS Late Harvest](media/SP@DSS@Late_Harvest.jpg)
 
 ### [SP SA Espresso 浓缩咖啡](https://geekhack.org/index.php?topic=108230.0)
 

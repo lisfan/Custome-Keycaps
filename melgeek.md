@@ -69,7 +69,7 @@
 
 ![MelGeek MG Master 尤达](media/MELGEEK@MG@Master@尤达.jpg)
 
-### [~MelGeek MG Wahtsy 袜子](https://www.zfrontier.com/app/flow/2kkVjQEELbyP)
+### [MelGeek MG Wahtsy 袜子](https://www.zfrontier.com/app/flow/2kkVjQEELbyP)
 
 ![MelGeek MG Wahtsy 袜子](media/MELGEEK@MG@Wahtsy@袜子.jpg)
 

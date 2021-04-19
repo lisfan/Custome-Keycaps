@@ -138,9 +138,9 @@
 
 ![ePBT 原厂 Cool Kids](media/ePBT@原厂@Cool_Kids.jpg)
 
-### [ePBT 原厂 SIMPLEJA](https://kbdfans.com/collections/keycaps/products/gb-enjoypbt-x-ai03-simpleja-pbt-keycaps-set)
+### [ePBT 原厂 SimpleJA](https://kbdfans.com/collections/keycaps/products/gb-enjoypbt-x-ai03-simpleja-pbt-keycaps-set)
 
-![ePBT 原厂 SIMPLEJA](media/ePBT@原厂@SIMPLEJA.jpg)
+![ePBT 原厂 SimpleJA](media/ePBT@原厂@SIMPLEJA.jpg)
 
 ### [~ePBT 原厂 红俄文](https://kbdfans.store/products/C0006/)
 
