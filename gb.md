@@ -38,12 +38,12 @@
 
 ## 键帽列表
 
-### [~GMK Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
+### [GMK Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
 
 - 设计师：EnjoyMyInSec
-- 团购时间：2021.04.19 至 2021.xx.xx
-- 发货时间：2022.xx
-- 购买方式：[zfrontier 装备前线 稍后]()
+- 团购时间：2021.04.19 至 2021.05.19
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lVq7Xdx878K1)
 
 ![](media/16161632476922.jpg)
 

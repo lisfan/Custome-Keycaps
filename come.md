@@ -220,6 +220,14 @@
 
 ![](media/16161278130396.jpg)
 
+### [GMK Analog Dreams 2 模拟梦境 2](https://geekhack.org/index.php?topic=112367.0)
+
+发车时间：2021.06
+
+![](media/16188802731442.jpg)
+
+![](media/16188803785901.jpg)
+
 ### [GMK Brutalist](https://geekhack.org/index.php?topic=112115.0)
 
 发车时间：2021.06
@@ -320,7 +328,15 @@
 
 ## Q4
 
-### [GMK Vaporwave R2]
+### [GMK Vaporwave 蒸汽波 R2](https://geekhack.org/index.php?topic=112165.0)
+
+![](media/16188806848994.jpg)
+
+## 待定
+
+### [GMK 原厂 Bingsu 红豆刨冰](https://geekhack.org/index.php?topic=102936.0)
+
+![GMK 原厂 Bingsu 红豆刨冰](media/GMK@原厂@Bingsu@红豆刨冰.jpg)
 
 ## 鸽了
 

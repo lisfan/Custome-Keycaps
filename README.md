@@ -116,6 +116,18 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-20
+
+- 今日开团
+
+- 开团时间确定
+  - [GMK Analog Dreams 2 模拟梦境 2：2021.06](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#)
+
+- IC新增
+  - [GMK Vaporwave 蒸汽波 R2](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-modern-japanese-desko)
+  - [GMK 原厂 Bingsu 红豆刨冰](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-modern-japanese-desko)
+  - [GMK Foundation](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-modern-japanese-desko)
+
 ### 2021-04-19
 
 - 今日开团
