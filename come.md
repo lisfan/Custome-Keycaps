@@ -334,9 +334,9 @@
 
 ## 待定
 
-### [GMK 原厂 Bingsu 红豆刨冰](https://geekhack.org/index.php?topic=102936.0)
+### [GMK 原厂 Bingsu 2 红豆刨冰 2](https://geekhack.org/index.php?topic=102936.0)
 
-![GMK 原厂 Bingsu 红豆刨冰](media/GMK@原厂@Bingsu@红豆刨冰.jpg)
+![GMK 原厂 Bingsu 2 红豆刨冰 2](media/GMK@原厂@Bingsu@红豆刨冰.jpg)
 
 ## 鸽了
 

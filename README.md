@@ -121,12 +121,12 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 - 今日开团
 
 - 开团时间确定
-  - [GMK Analog Dreams 2 模拟梦境 2：2021.06](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#)
+  - [GMK Analog Dreams 2 模拟梦境 2：2021.06](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-analog-dreams-2-%E6%A8%A1%E6%8B%9F%E6%A2%A6%E5%A2%83-2)
 
 - IC新增
-  - [GMK Vaporwave 蒸汽波 R2](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-modern-japanese-desko)
-  - [GMK 原厂 Bingsu 红豆刨冰](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-modern-japanese-desko)
-  - [GMK Foundation](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-modern-japanese-desko)
+  - [GMK Vaporwave 蒸汽波 R2](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-vaporwave-%E8%92%B8%E6%B1%BD%E6%B3%A2-r2)
+  - [GMK 原厂 Bingsu 2 红豆刨冰 2](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-%E5%8E%9F%E5%8E%82-bingsu-%E7%BA%A2%E8%B1%86%E5%88%A8%E5%86%B0)
+  - [GMK Foundation](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-foundation)
 
 ### 2021-04-19
 
