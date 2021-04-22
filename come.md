@@ -46,12 +46,6 @@
 
 ![](media/16161687243482.jpg)
 
-发车时间：2021.04.21
-
-### [DSS Hand Work](https://geekhack.org/index.php?topic=110942.0)
-
-![](media/16161262484092.jpg)
-
 ### [GMK Jelly Delights](https://geekhack.org/index.php?topic=111390.0)
 
 发车时间：2021.04.22
@@ -190,7 +184,19 @@
 
 ![](media/16161327049407.jpg)
 
+### [~ePBT 無印 WUYINZHUYIN](https://geekhack.org/index.php?topic=111718.0)
+
+发车时间：2021.05
+
+![](media/16160723614553.jpg)
+
 ## 六月
+
+### [GMK 原厂 Monochrome r2 黑白 r2](https://geekhack.org/index.php?topic=97203.0)
+
+发车时间：2021.06.01
+
+![GMK 原厂 Monochrome r2 黑白 r2](./media/Ny4mMj.jpg)
 
 ### [KAM Li'l Dragon](https://geekhack.org/index.php?topic=108950.0)
 
@@ -262,6 +268,12 @@
 
 ## 七月
 
+### [GMK ART](https://geekhack.org/index.php?topic=110737.0)
+
+发车时间：2021.07.01
+
+![](media/16161276340456.jpg)
+
 ### [DCS Alps Pingmaster](https://geekhack.org/index.php?topic=107021.0)
 
 发车时间：2021.07
@@ -273,12 +285,6 @@
 发车时间：2021.07
 
 ![](media/16161282869204.jpg)
-
-### [GMK ART](https://geekhack.org/index.php?topic=110737.0)
-
-发车时间：2021.07
-
-![](media/16161276340456.jpg)
 
 ### [GMK JIS (Japanese Industrial Standards) WoB](https://geekhack.org/index.php?topic=108328.0)
 

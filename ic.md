@@ -47,10 +47,11 @@
 
 ![](media/16161683218892.jpg)
 
+### [ePBT Blue Wisteria](https://www.reddit.com/r/mechmarket/comments/mus47d/ic_epbt_blue_wisteria/)
+
 ### [GMK Foundation](https://geekhack.org/index.php?topic=112371.0)
 
 ![](media/16188803981860.jpg)
-GMK Analog Dreams 2
 
 ### [GMK Maroon](https://geekhack.org/index.php?topic=112349.0)
 
@@ -252,10 +253,6 @@ GMK Analog Dreams 2
 
 ![](media/16160723239851.jpg)
 
-### [~ePBT 無印 WUYINZHUYIN](https://geekhack.org/index.php?topic=111718.0)
-
-![](media/16160723614553.jpg)
-
 ### [GMK Checkmate](https://geekhack.org/index.php?topic=111710)
 
 ![](media/16160719997831.jpg)
@@ -431,6 +428,8 @@ GMK Analog Dreams 2
 ![](media/16161272339320.jpg)
 
 ### [ePBT Camo](https://geekhack.org/index.php?topic=110903.0)
+
+发车时间：2021.Q2或Q3
 
 ![](media/16161272983517.jpg)
 
