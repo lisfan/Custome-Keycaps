@@ -38,6 +38,15 @@
 
 ## 键帽列表
 
+### [GMK 原厂 Jelly Delights 糖豆](https://geekhack.org/index.php?topic=111390.0)
+
+- 设计师：Kozify
+- 团购时间：2021.04.22 至 2021.05.28
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1kggVgy68jV1)
+
+![GMK 原厂 Jelly Delights 糖豆](media/GMK@原厂@Jelly_Delights@糖豆.jpg)
+
 ### [SP DSS Hand Work 手作](https://geekhack.org/index.php?topic=110942.0)
 
 - 设计师：TheBlackHammer

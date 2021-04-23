@@ -116,85 +116,102 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-23
+
+- 今日开团
+    - GMK 原厂 Jelly Delights 糖豆
+    - SP DSS Hand Work 手作
+
+- 开团时间确定
+    - ePBT 無印 WUYINZHUYIN
+    - GMK 原厂 Monochrome r2 黑白 r2
+    - ePBT 原厂 Cool Kids
+
+- IC新增
+    - KAT Subtitles
+    - GMK Boho
+    - GMK Blood Moon
+    - ePBT Blue Wisteria
+
 ### 2021-04-20
 
 - 今日开团
 
 - 开团时间确定
-  - [GMK Analog Dreams 2 模拟梦境 2：2021.06](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-analog-dreams-2-%E6%A8%A1%E6%8B%9F%E6%A2%A6%E5%A2%83-2)
+    - [GMK Analog Dreams 2 模拟梦境 2：2021.06](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-analog-dreams-2-%E6%A8%A1%E6%8B%9F%E6%A2%A6%E5%A2%83-2)
 
 - IC新增
-  - [GMK Vaporwave 蒸汽波 R2](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-vaporwave-%E8%92%B8%E6%B1%BD%E6%B3%A2-r2)
-  - [GMK 原厂 Bingsu 2 红豆刨冰 2](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-%E5%8E%9F%E5%8E%82-bingsu-%E7%BA%A2%E8%B1%86%E5%88%A8%E5%86%B0)
-  - [GMK Foundation](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-foundation)
+    - [GMK Vaporwave 蒸汽波 R2](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-vaporwave-%E8%92%B8%E6%B1%BD%E6%B3%A2-r2)
+    - [GMK 原厂 Bingsu 2 红豆刨冰 2](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-%E5%8E%9F%E5%8E%82-bingsu-%E7%BA%A2%E8%B1%86%E5%88%A8%E5%86%B0)
+    - [GMK Foundation](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-foundation)
 
 ### 2021-04-19
 
 - 今日开团
-  - [GMK Modern Japanese Desko](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-modern-japanese-desko)
+    - [GMK Modern Japanese Desko](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-modern-japanese-desko)
 
 - 开团时间确定
-  - GMK Cyrillic WoB and Beige：2021.05.01
+    - GMK Cyrillic WoB and Beige：2021.05.01
 
 - IC新增
-  - [CRYSTAL KEYCAP](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#crystal-keycap)
-  - [GMK Daimyō](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-daimyō)
-  - [GMK Mountaineering](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-mountaineering)
-  - [GMK Kanbara](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-kanbara)
-  - [GMK Maroon](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-maroon)
-  - [ePBT STONE Age](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#epbt-stone-age)
-  
+    - [CRYSTAL KEYCAP](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#crystal-keycap)
+    - [GMK Daimyō](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-daimyō)
+    - [GMK Mountaineering](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-mountaineering)
+    - [GMK Kanbara](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-kanbara)
+    - [GMK Maroon](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#gmk-maroon)
+    - [ePBT STONE Age](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#epbt-stone-age)
+
 ### 2021-04-16
 
 - 今日新增
-  - [GMK Seafarer](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-seafarer)
-  - [SP SA Ramses](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#sp-sa-ramses)
+    - [GMK Seafarer](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#gmk-seafarer)
+    - [SP SA Ramses](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/gb.md#sp-sa-ramses)
 
 - 开团时间确定
-  - [GMK Brutalist：2021.06](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-brutalist)
+    - [GMK Brutalist：2021.06](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/come.md#gmk-brutalist)
 
 - IC新增
-  - [SP SA R3 GEOMA](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic-other.md#sp-sa-r3-geoma)
-  - [KAT Raspberry](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic-other.md#kat-raspberry)
-  - [PBT POISON](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#pbt-poison)
+    - [SP SA R3 GEOMA](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic-other.md#sp-sa-r3-geoma)
+    - [KAT Raspberry](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic-other.md#kat-raspberry)
+    - [PBT POISON](https://gitee.com/lisfanOSC/Custome-Keycaps/blob/master/ic.md#pbt-poison)
 
 - 补充数据库中遗漏的三款
-  - GMK Caution
-  - GMK Steve
-  - Geekark Kraken
+    - GMK Caution
+    - GMK Steve
+    - Geekark Kraken
 
 ### 2021-04-15
 
 - 今日新增
-  - ePBT 原厂 6085
-  - GMK 原厂 Peaches n Cream Lite
+    - ePBT 原厂 6085
+    - GMK 原厂 Peaches n Cream Lite
 
 - 开团时间确定
-  - KAT Great Wave 大浪：2021.06 
+    - KAT Great Wave 大浪：2021.06
 
 - IC新增
-  - GMK Max Neon
+    - GMK Max Neon
 
 ### 2021-04-14
 
 - 开团时间确定
-  - GMK Alchemy：2021.05.15
-  - DSS Hand Work：：2021.04.21
+    - GMK Alchemy：2021.05.15
+    - DSS Hand Work：：2021.04.21
 
 ### 2021-04-13
 
 - 今日新增
-  - GMK Kouhai
-  - SP DSS Late Harvest
-  - SP SA Espresso
-  - Geekark Slash
-  - JTK 原厂 Sora
-  
+    - GMK Kouhai
+    - SP DSS Late Harvest
+    - SP SA Espresso
+    - Geekark Slash
+    - JTK 原厂 Sora
+
 - 开团时间确定
-  - DCS Alps Pingmaster：2021.07
+    - DCS Alps Pingmaster：2021.07
 
 - IC新增
-  - GMK Classic Black on White
+    - GMK Classic Black on White
 
 ### 2021-04-12
 
@@ -203,7 +220,7 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 - 开团时间确定
     - GMK Classic Arabic
-    
+
 - IC新增
     - GMK Shadow
     - GMK Fleuriste
@@ -213,71 +230,70 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 ### 2021-04-09
 
 - 今日新增
-  - GMK Agent 01
+    - GMK Agent 01
 
 - 开团时间确定
-  - GMK Shashin：2021.05.01
-  - GMK Modern Japanese Desko： 调整为2021.04.19
-  - GMK Moonlight： 2021.05.21
-  - GMK ReForged：2021.09
+    - GMK Shashin：2021.05.01
+    - GMK Modern Japanese Desko： 调整为2021.04.19
+    - GMK Moonlight： 2021.05.21
+    - GMK ReForged：2021.09
 
 - IC新增
-  - GMK Rub Out
-  - ePbt Wapuro
+    - GMK Rub Out
+    - ePbt Wapuro
 
 ### 2021-04-08
 
 - 开团时间确定
-  - JTK Hanami：2021.05
-  
+    - JTK Hanami：2021.05
+
 ### 2021-04-07
 
 - 开团时间确定
-  - SA Ramses：2021.04.16
-  - ePBT Origami：2021.05.18
-  - SP SA Spectra：2021.05.25
-  - KAM Li'l Dragon：2021.06.01
-  - GMK Vaporwave 蒸汽波 R2：2021.Q4
+    - SA Ramses：2021.04.16
+    - ePBT Origami：2021.05.18
+    - SP SA Spectra：2021.05.25
+    - KAM Li'l Dragon：2021.06.01
+    - GMK Vaporwave 蒸汽波 R2：2021.Q4
 - IC新增
-  - JTK Monke
-  - GMK BLY
-  - ePBT Infernal
-  - GMK Brutalist
-  - GMK Aegyptus
-  - GMK Mercury
-  - GMK Gunfight
-  - KAT arbeit
+    - JTK Monke
+    - GMK BLY
+    - ePBT Infernal
+    - GMK Brutalist
+    - GMK Aegyptus
+    - GMK Mercury
+    - GMK Gunfight
+    - KAT arbeit
 
 ### 2021-04-06
 
 - 修复 epbt 图片丢失了
 - 今日新增
-  - GMK 原厂 Wasabi 山葵 V2
-  - GMK 原厂 Boulder
-  - SP DCS Delftware 蓝瓷
-  - GMK 原厂 Blurple 蓝紫
-  - GMK 原厂 METROPOLIS 大都会 R2
-  - GMK 原厂 Fox 狐狸
-  - SP SA Handarbeit+
+    - GMK 原厂 Wasabi 山葵 V2
+    - GMK 原厂 Boulder
+    - SP DCS Delftware 蓝瓷
+    - GMK 原厂 Blurple 蓝紫
+    - GMK 原厂 METROPOLIS 大都会 R2
+    - GMK 原厂 Fox 狐狸
+    - SP SA Handarbeit+
 - 开团时间更新
-  - GMK Wise Wolf 改名 GMK Harvest
-  - GMK Lychee 荔枝
-  - GMK Trüffelschwein
+    - GMK Wise Wolf 改名 GMK Harvest
+    - GMK Lychee 荔枝
+    - GMK Trüffelschwein
 - IC新增
-  - GMK Alphabet
-  - GMK Windowed
-  - PBT The Big Screen
-  - GMK PEDESTRIAN
-  - GMK Diet Soda, MD
-  - ePBT Basic Standard
-  - GMK Redderish Alert
-  - GMK Modern Ink
-  - GMK Ube
-  - GMK Blanks
-  - GMK Windbreaker
-  - GMK Psychedelic
-  - GMK a
-
+    - GMK Alphabet
+    - GMK Windowed
+    - PBT The Big Screen
+    - GMK PEDESTRIAN
+    - GMK Diet Soda, MD
+    - ePBT Basic Standard
+    - GMK Redderish Alert
+    - GMK Modern Ink
+    - GMK Ube
+    - GMK Blanks
+    - GMK Windbreaker
+    - GMK Psychedelic
+    - GMK a
 
 ### 2021-04-01
 

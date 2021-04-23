@@ -46,12 +46,6 @@
 
 ![](media/16161687243482.jpg)
 
-### [GMK Jelly Delights](https://geekhack.org/index.php?topic=111390.0)
-
-发车时间：2021.04.22
-
-![](media/16161253023852.jpg)
-
 ### [GMK Arch](https://geekhack.org/index.php?topic=110180.0)
 
 发车时间：2021.04.30
@@ -225,6 +219,12 @@
 ![](media/16161277995879.jpg)
 
 ![](media/16161278130396.jpg)
+
+### [ePBT 原厂 Cool Kids 2](https://geekhack.org/index.php?topic=106670)
+
+![ePBT 原厂 Cool Kids 2](media/ePBT@原厂@Cool_Kids.jpg)
+
+发车时间：2021.06
 
 ### [GMK Analog Dreams 2 模拟梦境 2](https://geekhack.org/index.php?topic=112367.0)
 

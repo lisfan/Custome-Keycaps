@@ -47,7 +47,24 @@
 
 ![](media/16161683218892.jpg)
 
+
+### [KAT Subtitles](https://geekhack.org/index.php?topic=112431.0)
+
+![](media/16191403440746.jpg)
+
+### [GMK Boho](https://geekhack.org/index.php?topic=112427.0)
+
+![](media/16191401979259.jpg)
+
+### [GMK Blood Moon](https://geekhack.org/index.php?topic=112435.0)
+
+![](media/16191403056377.jpg)
+
+![](media/16191402799124.jpg)
+
 ### [ePBT Blue Wisteria](https://www.reddit.com/r/mechmarket/comments/mus47d/ic_epbt_blue_wisteria/)
+
+![](media/16191404162476.jpg)
 
 ### [GMK Foundation](https://geekhack.org/index.php?topic=112371.0)
 
