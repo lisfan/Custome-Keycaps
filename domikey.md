@@ -38,6 +38,15 @@
 
 ## 键帽列表
 
+### [DOMIKEY SA AVOSTAR 鳄梨星](https://www.zfrontier.com/app/flow/epV1ZNw9XxN7)
+
+- 设计师：手套
+- 团购时间：2021.03.31 至 2021.04.18
+- 发货时间：2021.08
+- 购买方式：[GLOVE 淘宝](https://item.taobao.com/item.htm?id=642127051611)
+
+![DOMIKEY SA AVOSTAR 鳄梨星](media/DOMIKEY@SA@AVOSTAR@鳄梨星.jpg)
+
 ### [DOMIKEY SA Saber 亚瑟王](https://www.zfrontier.com/app/flow/2PB5GPNXwbYG)
 
 - 设计师：DCS-老高

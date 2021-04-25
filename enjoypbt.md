@@ -38,6 +38,15 @@
 
 ## 键帽列表
 
+### [~ePBT 原厂 Less But Better](https://geekhack.org/index.php?topic=109750.0)
+
+- 设计师：Openkey Design
+- 团购时间：2021.03.15 至 2021.04.15
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Less/)
+
+![ePBT Less But Better](media/ePBT@原厂@Less_But_Better.jpg)
+
 ### [ePBT 原厂 Aesthetic](https://geekhack.org/index.php?topic=101594.0)
 
 - 设计师：dklein

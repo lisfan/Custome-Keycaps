@@ -38,6 +38,33 @@
 
 ## 键帽列表
 
+### [SP SA X-mas Gift 圣诞礼物](https://www.zfrontier.com/app/flow/4ZRVnB38PLWj)
+
+- 设计师：Jack & Dragon L
+- 团购时间：2021.03.21 至 2021.04.11
+- 发货时间：2022.06
+- 购买方式：[JACK键盘键帽客制 淘宝店](https://item.taobao.com/item.htm?id=640919414256)
+
+![SP SA X-mas Gift 圣诞礼物](media/SP@SA@X-mas_Gift@圣诞礼物.jpg)
+
+### [SP SA Tatooine™ 塔图因](https://novelkeys.xyz/products/sa-tatooine-preorder)
+
+- 设计师：官方授权
+- 团购时间：2021.03.19 至 2021.04.16
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![SP SA Tatooine™ 塔图因](media/SP@SA@Tatooine@塔图因.jpg)
+
+### [SP DSS Drank](https://geekhack.org/index.php?topic=111721.0)
+
+- 设计师：MikeTheTiger
+- 团购时间：2021.03.14 至 2021.04.10
+- 发货时间：2021.07
+- 购买方式：[keyboardarcade.xyz](https://keyboardarcade.xyz/products/dss-drank-keyset)
+
+![SP DSS Drank](media/SP@DSS@Drank.jpg)
+
 ### [SP SA 8010](https://geekhack.org/index.php?topic=106901)
 
 - 设计师：FRANCO

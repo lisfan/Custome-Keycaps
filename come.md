@@ -348,8 +348,7 @@
 
 ### [GMK 原厂 Sunset Surfing](https://geekhack.org/index.php?topic=108752.0)
 
-- 设计师：archerypro459
-- 暂无数据
+发车时间：2021.04.27
 
 ![GMK 原厂 Sunset Surfing](media/GMK@原厂@Sunset_Surfing.jpg)
 

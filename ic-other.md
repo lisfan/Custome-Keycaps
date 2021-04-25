@@ -249,9 +249,9 @@
 
 ### [KAM Bouquet](https://geekhack.org/index.php?topic=111436.0)
 
-![](media/16161253412754.jpg)
+![](media/16193140216573.jpg)
 
-![](media/16161253323605.jpg)
+![](media/16193140636320.jpg)
 
 ### [DSA Feline Knight](https://geekhack.org/index.php?topic=110614.0)
 

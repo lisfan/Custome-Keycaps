@@ -38,6 +38,15 @@
 
 ## 键帽列表
 
+### [Maxkey SA Magica](https://geekhack.org/index.php?topic=108360.0)
+
+- 设计师：misononyan
+- 团购时间：2021.03.16 至 2021.04.16
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lMnYGp0LdjLo)
+
+![Maxkey SA Magica](media/Maxkey@SA@Magica.jpg)
+
 ### [MAXKEY SA 虚拟战争](https://www.zfrontier.com/app/flow/2agnK731Q9Lo)
 
 ![MAXKEY SA 虚拟战争](media/16126840969627.jpg)

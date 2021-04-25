@@ -38,6 +38,42 @@
 
 ## 键帽列表
 
+### [GMK 原厂 Monarch 君主](https://geekhack.org/index.php?topic=110064.0)
+
+- 设计师：Scucka
+- 团购时间：2021.03.29 至 2021.04.20
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 Monarch 君主](media/GMK@原厂@Monarch@君主.jpg)
+
+### [GMK 原厂 Hinokoku 火](https://geekhack.org/index.php?topic=108946.0)
+
+- 设计师：GingGing
+- 团购时间：2021.03.29 至 2021.04.05
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 Hinokoku 火](media/GMK@原厂@Hinokoku@火.jpg)
+
+### [GMK 原厂 Watermelon 西瓜](https://geekhack.org/index.php?topic=107464.0)
+
+- 设计师：ogWalker
+- 团购时间：2021.03.15 至 2021.04.15
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Watermelon/)
+
+![GMK 原厂 Watermelon 西瓜](media/GMK@原厂@Watermelon@西瓜.jpg)
+
+### [GMK 原厂 Fuji 富士](https://geekhack.org/index.php?topic=111065.0)
+
+- 设计师：ttom
+- 团购时间：2021.03.15 至 2021.04.15
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/omdQyA69XLjl)
+
+![GMK Fuji 富士](media/GMK@原厂@Fuji@富士.jpg)
+
 ### [GMK 原厂 Serenity 宁静](https://geekhack.org/index.php?topic=111065.0)
 
 - 设计师：Mito

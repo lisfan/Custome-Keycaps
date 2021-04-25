@@ -38,6 +38,14 @@
 
 ## 键帽列表
 
+### [~PBT HIPRO EC （静电容专用）](https://kbdfans.store/products/HIPRO/)
+
+- 团购时间：2021.04.01 至 2021.04.20
+- 发货时间：2021.07
+- 购买方式：[KBDfans](https://kbdfans.store/products/HIPRO/)
+
+![PBT HIPRO EC](media/PBT@HIPRO@EC.jpg)
+
 ### [Infinikey 原厂 Doggie](https://www.reddit.com/r/mechmarket/comments/l4uoid/ic_infinikey_doggie_keycap_set/)
 
 - 设计师：Nhils

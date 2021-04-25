@@ -116,6 +116,15 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-25
+
+- IC新增
+
+  - GMK Monorange
+  - GMK Orange Soda
+  - GMK Miami Nights Reloaded
+  - ePBT Rin
+  
 ### 2021-04-23
 
 - 今日开团
@@ -125,7 +134,7 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 - 开团时间确定
     - ePBT 無印 WUYINZHUYIN
     - GMK 原厂 Monochrome r2 黑白 r2
-    - ePBT 原厂 Cool Kids
+    - ePBT 原厂 Cool Kids 2
 
 - IC新增
     - KAT Subtitles
