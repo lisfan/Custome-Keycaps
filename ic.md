@@ -47,6 +47,14 @@
 
 ![](media/16161683218892.jpg)
 
+### [GMK Purple-ish](https://geekhack.org/index.php?topic=112490.0)
+
+![](media/16194012026554.jpg)
+
+### [GMK Dream Bird](https://geekhack.org/index.php?topic=112479.0)
+
+![](media/16194013866145.jpg)
+
 ### [GMK Monorange](https://geekhack.org/index.php?topic=112454.0)
 
 ![](media/16193134049378.jpg)

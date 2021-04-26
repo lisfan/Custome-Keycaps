@@ -116,10 +116,15 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-26
+
+- IC新增
+  - GMK Dream Bird
+  - GMK Purple-ish
+  
 ### 2021-04-25
 
 - IC新增
-
   - GMK Monorange
   - GMK Orange Soda
   - GMK Miami Nights Reloaded
