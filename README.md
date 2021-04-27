@@ -116,6 +116,12 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-27
+
+- IC新增
+  - ePBT Axolotls
+  - GMK Night Tare
+  
 ### 2021-04-26
 
 - IC新增

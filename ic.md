@@ -47,6 +47,14 @@
 
 ![](media/16161683218892.jpg)
 
+### [ePBT Axolotls](https://geekhack.org/index.php?topic=112521.0)
+
+![](media/16194849017900.jpg)
+
+### [GMK Night Tare](https://geekhack.org/index.php?topic=112507.0)
+
+![](media/16194849469123.jpg)
+
 ### [GMK Purple-ish](https://geekhack.org/index.php?topic=112490.0)
 
 ![](media/16194012026554.jpg)
