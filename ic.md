@@ -4,11 +4,6 @@
 
 如有遗漏，请联系QQ：448182355
 
-## 推广
-
-[![MOO·OON 阳·白昼 QQ群：745363789](media/444.jpg)
-](https://www.zfrontier.com/app/flow/D6mwV5nwK9lp)
-
 ## 快速导航
 
 - qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
@@ -46,6 +41,10 @@
 开团时间2021.Q3?
 
 ![](media/16161683218892.jpg)
+
+### [GMK Green + Blue](https://geekhack.org/index.php?topic=112540.0)
+
+![](media/16196647538136.jpg)
 
 ### [ePBT Axolotls](https://geekhack.org/index.php?topic=112521.0)
 
@@ -474,12 +473,6 @@
 ![](media/16161272499661.jpg)
 
 ![](media/16161272339320.jpg)
-
-### [ePBT Camo](https://geekhack.org/index.php?topic=110903.0)
-
-发车时间：2021.Q2或Q3
-
-![](media/16161272983517.jpg)
 
 ### [GMK Tea & Biscuits](https://geekhack.org/index.php?topic=110877.0)
 

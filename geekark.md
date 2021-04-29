@@ -4,11 +4,6 @@
 
 如有遗漏，请联系QQ：448182355
 
-## 推广
-
-[![MOO·OON 阳·白昼 QQ群：745363789](media/444.jpg)
-](https://www.zfrontier.com/app/flow/D6mwV5nwK9lp)
-
 ## 快速导航
 
 - qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧

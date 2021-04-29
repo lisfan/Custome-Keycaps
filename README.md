@@ -11,11 +11,6 @@
 1. [[客制化键帽速查表]](https://gitee.com/lisfanOSC/Custome-Keycaps#%E5%BF%AB%E9%80%9F%E5%AF%BC%E8%88%AA)：国内访问，左侧还有目录可供浏览
 2. [[Custom Keycaps Quick Look]](https://lisfan.gitbook.io/custom-keycaps-quick-look/#kuai-su-dao-hang)：国外访问，右侧还有目录可供浏览
 
-## 推广
-
-[![MOO·OON 阳·白昼 QQ群：745363789](media/444.jpg)
-](https://www.zfrontier.com/app/flow/D6mwV5nwK9lp)
-
 ## 快速导航
 
 - qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
@@ -116,26 +111,34 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-04-29
+
+- IC新增
+  - GMK Green + Blue
+  
+- 开团时间确定
+  - ePBT Camo：2021.06.01
+
 ### 2021-04-27
 
 - IC新增
-  - ePBT Axolotls
-  - GMK Night Tare
-  
+    - ePBT Axolotls
+    - GMK Night Tare
+
 ### 2021-04-26
 
 - IC新增
-  - GMK Dream Bird
-  - GMK Purple-ish
-  
+    - GMK Dream Bird
+    - GMK Purple-ish
+
 ### 2021-04-25
 
 - IC新增
-  - GMK Monorange
-  - GMK Orange Soda
-  - GMK Miami Nights Reloaded
-  - ePBT Rin
-  
+    - GMK Monorange
+    - GMK Orange Soda
+    - GMK Miami Nights Reloaded
+    - ePBT Rin
+
 ### 2021-04-23
 
 - 今日开团
