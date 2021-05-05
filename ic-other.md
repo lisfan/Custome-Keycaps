@@ -34,6 +34,10 @@
 
 ## 键帽列表
 
+### [SP DSA Berry Yogurt](https://geekhack.org/index.php?topic=112589.0)
+
+![](media/16198781003777.jpg)
+
 ### [SP SA R3 GEOMA](https://geekhack.org/index.php?topic=112332.0)
 
 ![](media/16185617884314.jpg)

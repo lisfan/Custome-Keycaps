@@ -42,6 +42,14 @@
 
 ![](media/16161683218892.jpg)
 
+### [GMK Diner](https://geekhack.org/index.php?topic=112587.0)
+
+![](media/16198776299511.jpg)
+
+### [ePBT Basin](https://geekhack.org/index.php?topic=112592.0)
+
+![](media/16198780425875.jpg)
+
 ### [GMK Green + Blue](https://geekhack.org/index.php?topic=112540.0)
 
 ![](media/16196647538136.jpg)
@@ -430,10 +438,6 @@
 
 ![](media/16161258925028.jpg)
 
-### [ePBT Pomelo](https://geekhack.org/index.php?topic=111108.0)
-
-![](media/16161259545988.jpg)
-
 ### [GMK Shanshui R2 山水二](https://geekhack.org/index.php?topic=111025.0)
 
 ![](media/16161259893252.jpg)
@@ -601,10 +605,6 @@
 ### [~ePBT Divine Plan](https://geekhack.org/index.php?topic=109415.0)
 
 ![](media/16161471917534.jpg)
-
-### [ePBT Sniper](https://geekhack.org/index.php?topic=109440.0)
-
-![](media/16161473158480.jpg)
 
 ### [GMK Abyssal](https://geekhack.org/index.php?topic=109426.0)
 

@@ -33,6 +33,33 @@
 
 ## 键帽列表
 
+### [SP DCS Delftware 蓝瓷](https://geekhack.org/index.php?topic=104417.0)
+
+- 设计师：Zephyraeon
+- 团购时间：2021.04.01 至 2021.04.30
+- 发货时间：2022.Q1
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/EBbzAEZyazDB)
+
+![SP DCS Delftware 蓝瓷](media/SP@DCS@Delftware@蓝瓷.jpg)
+
+### [SP SA Handarbeit+](https://geekhack.org/index.php?topic=111816.0)
+
+- 设计师：cocobrais
+- 团购时间：2021.04.03 至 2021.04.29
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![SP SA Handarbeit+](media/SP@SA@Handarbeit+.jpg)
+
+### [SP SA Prism 棱镜](https://geekhack.org/index.php?topic=111464.0)
+
+- 设计师：RivieraS
+- 团购时间：2021.04.01 至 2021.04.30
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![SP SA Prism 棱镜](media/SP@SA@Prism@棱镜.jpg)
+
 ### [SP SA X-mas Gift 圣诞礼物](https://www.zfrontier.com/app/flow/4ZRVnB38PLWj)
 
 - 设计师：Jack & Dragon L

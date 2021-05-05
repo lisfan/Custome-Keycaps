@@ -33,6 +33,42 @@
 
 ## 键帽列表
 
+### [~GMK 原厂 Hazakura 葉桜](https://geekhack.org/index.php?topic=111653.0)
+
+- 设计师：BapoDonu
+- 团购时间：2021.05.01 至 2021.06.01
+- 发货时间：2022.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1xp58amYEKD1)
+
+![GMK 原厂 Hazakura 葉桜](media/GMK@原厂@Hazakura@葉桜.jpg)
+
+### [GMK 原厂 Arch](https://geekhack.org/index.php?topic=110180.0)
+
+- 设计师：Ram
+- 团购时间：2021.04.30 至 2021.05.30
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/ARCH/)
+
+![GMK 原厂 Arch](media/GMK@原厂@Arch.jpg)
+
+### [ePBT 原厂 Sniper](https://geekhack.org/index.php?topic=109440.0)
+
+- 设计师：Raravin
+- 团购时间：2021.05.01 至 2021.06.01
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/SNIPER/)
+
+![ePBT@原厂@Sniper](media/ePBT@原厂@Sniper.jpg)
+
+### [ePBT 原厂 Pomelo](https://geekhack.org/index.php?topic=111108.0)
+
+- 设计师：ThiccWicc
+- 团购时间：2021.05.01 至 2021.05.31
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Pomelo/)
+
+![ePBT 原厂 Pomelo](media/ePBT@原厂@Pomelo.jpg)
+
 ### [GMK 原厂 Jelly Delights 糖豆](https://geekhack.org/index.php?topic=111390.0)
 
 - 设计师：Kozify
@@ -163,74 +199,3 @@
 
 ![GMK 原厂 Boulder](media/GMK@原厂@Boulder.jpg)
 
-### [SP DCS Delftware 蓝瓷](https://geekhack.org/index.php?topic=104417.0)
-
-- 设计师：Zephyraeon
-- 团购时间：2021.04.01 至 2021.04.30
-- 发货时间：2022.Q1
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/EBbzAEZyazDB)
-
-![SP DCS Delftware 蓝瓷](media/SP@DCS@Delftware@蓝瓷.jpg)
-
-### [GMK 原厂 Blurple 蓝紫](https://geekhack.org/index.php?topic=109480.0)
-
-- 设计师：PhantomTaco
-- 团购时间：2021.04.02 至 2021.04.30
-- 发货时间：2022.Q2
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lDQ0JaEw8W7o)
-
-![GMK 原厂 Blurple 蓝紫](media/GMK@原厂@Blurple@蓝紫.jpg)
-
-### [GMK 原厂 METROPOLIS 大都会 R2](https://geekhack.org/index.php?topic=111614.0)
-
-- 设计师：Nephlock
-- 团购时间：2021.04.02 至 2021.04.30
-- 发货时间：2022.Q2
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/EBbzAEZyazDB)
-
-![GMK 原厂 METROPOLIS 大都会 R2](media/GMK@原厂@METROPOLIS@大都会@R2.jpg)
-
-### [GMK 原厂 Fox 狐狸](https://geekhack.org/index.php?topic=109895.0)
-
-- 设计师：boneandbee
-- 团购时间：2021.04.02 至 2021.04.30
-- 发货时间：2022.05
-- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=642201043647)
-
-![GMK 原厂 Fox 狐狸](media/GMK@原厂@Fox@狐狸.jpg)
-
-### [SP SA Handarbeit+](https://geekhack.org/index.php?topic=111816.0)
-
-- 设计师：cocobrais
-- 团购时间：2021.04.03 至 2021.04.29
-- 发货时间：2022.Q2
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![SP SA Handarbeit+](media/SP@SA@Handarbeit+.jpg)
-
-### [MOO·OON 原厂 阳·白昼 Yang·Daytime](https://geekhack.org/index.php?topic=111568.0)
-
-- 设计师：MOO·OON
-- 团购时间：2021.03.30 至 2021.04.27
-- 发货时间：2021.06.12(可能提前)
-- 购买方式：[MOOOON 淘宝店](https://item.taobao.com/item.htm?id=639578406264)
-
-![MOO·OON 原厂 阳·白昼 Yang·Daytime](media/MOO·OON@原厂@阳·白昼@Yang·Daytime.jpg)
-
-### [PBT 原厂 Notion](https://novelkeys.xyz/collections/keycaps/products/pbt-notion)
-
-- 设计师：BIIP
-- 团购时间：售完截止
-- 发货时间：下单后1个月内
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![PBT 原厂 Notion](media/PBT@原厂@Notion.jpg)
-
-### [SP SA Prism 棱镜](https://geekhack.org/index.php?topic=111464.0)
-
-- 设计师：RivieraS
-- 团购时间：2021.04.01 至 2021.04.30
-- 发货时间：2022.Q2
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![SP SA Prism 棱镜](media/SP@SA@Prism@棱镜.jpg)

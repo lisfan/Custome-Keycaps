@@ -33,6 +33,24 @@
 
 ## 键帽列表
 
+### [MOO·OON 原厂 阳·白昼 Yang·Daytime](https://geekhack.org/index.php?topic=111568.0)
+
+- 设计师：MOO·OON
+- 团购时间：2021.03.30 至 2021.04.27
+- 发货时间：2021.06.12(可能提前)
+- 购买方式：[MOOOON 淘宝店](https://item.taobao.com/item.htm?id=639578406264)
+
+![MOO·OON 原厂 阳·白昼 Yang·Daytime](media/MOO·OON@原厂@阳·白昼@Yang·Daytime.jpg)
+
+### [PBT 原厂 Notion](https://novelkeys.xyz/collections/keycaps/products/pbt-notion)
+
+- 设计师：BIIP
+- 团购时间：售完截止
+- 发货时间：下单后1个月内
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![PBT 原厂 Notion](media/PBT@原厂@Notion.jpg)
+
 ### [~PBT HIPRO EC （静电容专用）](https://kbdfans.store/products/HIPRO/)
 
 - 团购时间：2021.04.01 至 2021.04.20

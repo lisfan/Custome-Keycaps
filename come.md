@@ -41,12 +41,6 @@
 
 ![](media/16161687243482.jpg)
 
-### [GMK Arch](https://geekhack.org/index.php?topic=110180.0)
-
-发车时间：2021.04.30
-
-![](media/16161327706630.jpg)
-
 ### [GMK HANOK 한옥](https://geekhack.org/index.php?topic=110801.0)
 
 发车时间：2021.04
@@ -80,12 +74,6 @@
 发车时间：2021.05.01
 
 ![](media/16161315510587.jpg)
-
-### [~GMK Hazakura](https://geekhack.org/index.php?topic=111653.0)
-
-发车时间：2021.05.01
-
-![](media/16161206761686.jpg)
 
 ### [~GMK Cyrillic WoB and Beige](https://geekhack.org/index.php?topic=104745.0)
 

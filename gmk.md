@@ -33,6 +33,33 @@
 
 ## 键帽列表
 
+### [GMK 原厂 Blurple 蓝紫](https://geekhack.org/index.php?topic=109480.0)
+
+- 设计师：PhantomTaco
+- 团购时间：2021.04.02 至 2021.04.30
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lDQ0JaEw8W7o)
+
+![GMK 原厂 Blurple 蓝紫](media/GMK@原厂@Blurple@蓝紫.jpg)
+
+### [GMK 原厂 METROPOLIS 大都会 R2](https://geekhack.org/index.php?topic=111614.0)
+
+- 设计师：Nephlock
+- 团购时间：2021.04.02 至 2021.04.30
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/EBbzAEZyazDB)
+
+![GMK 原厂 METROPOLIS 大都会 R2](media/GMK@原厂@METROPOLIS@大都会@R2.jpg)
+
+### [GMK 原厂 Fox 狐狸](https://geekhack.org/index.php?topic=109895.0)
+
+- 设计师：boneandbee
+- 团购时间：2021.04.02 至 2021.04.30
+- 发货时间：2022.05
+- 购买方式：[iLumkb键盘学院 淘宝店](https://item.taobao.com/item.htm?id=642201043647)
+
+![GMK 原厂 Fox 狐狸](media/GMK@原厂@Fox@狐狸.jpg)
+
 ### [GMK 原厂 Monarch 君主](https://geekhack.org/index.php?topic=110064.0)
 
 - 设计师：Scucka
