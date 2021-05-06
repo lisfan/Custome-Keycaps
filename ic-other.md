@@ -34,6 +34,11 @@
 
 ## 键帽列表
 
+### [SA Copper](https://geekhack.org/index.php?topic=112637.0)
+
+![](media/16202658015769.jpg)
+
+
 ### [SP DSA Berry Yogurt](https://geekhack.org/index.php?topic=112589.0)
 
 ![](media/16198781003777.jpg)
@@ -41,10 +46,6 @@
 ### [SP SA R3 GEOMA](https://geekhack.org/index.php?topic=112332.0)
 
 ![](media/16185617884314.jpg)
-
-### [SP DSA Historic](https://geekhack.org/index.php?topic=112209.0)
-
-![](media/16181087366785.jpg)
 
 ### [KAT arbeit](https://geekhack.org/index.php?topic=112028.0)
 
@@ -273,10 +274,6 @@
 ### [DSA Lantern](https://geekhack.org/index.php?topic=109545.0)
 
 ![](media/16161472889336.jpg)
-
-### [DSA Encore](https://geekhack.org/index.php?topic=109460.0)
-
-![](media/16161472459253.jpg)
 
 ### [KAT PBJ](https://geekhack.org/index.php?topic=109091.0)
 

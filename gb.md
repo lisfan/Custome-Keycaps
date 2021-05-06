@@ -33,6 +33,53 @@
 
 ## 键帽列表
 
+### [Infinikey DSA Encore 安可](https://geekhack.org/index.php?topic=109460.0)
+
+- 设计师：Astro Bunny
+- 团购时间：2021.05.04 至 2021.06.04
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lZvwYAQR6W3l)
+
+![Infinikey DSA Encore 安可](media/Infinikey@DSA@Encore@安可.jpg)
+
+### [GMK 原厂 Deepwell](https://geekhack.org/index.php?topic=109622.0)
+
+- 设计师：Tyson
+- 团购时间：2021.05.04 至 2021.06.01
+- 发货时间：2022.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lVE2dzm7Z391)
+
+![GMK 原厂 Deepwell](media/GMK@原厂@Deepwell.jpg)
+
+### [GMK 原厂 MOAI 巨石像](https://geekhack.org/index.php?topic=110065.0)
+
+- 设计师：pol139
+- 团购时间：2021.05.04 至 2021.06.04
+- 发货时间：2022.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/10aYdqrvqgkl)
+
+![GMK 原厂 MOAI 巨石像](media/GMK@原厂@MOAI@巨石像.jpg)
+
+### [GMK 原厂 Parcel 包裹](https://geekhack.org/index.php?topic=111819.0)
+
+- 设计师：Biip
+- 团购时间：2021.05.03 至 2021.05.31
+- 发货时间：2022.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lqE93PjjLN7l)
+
+![GMK 原厂 Parcel 包裹](media/GMK@原厂@Parcel@包裹.jpg)
+
+### [GMK 原厂 Cyrillic WoB and Beige 灰白、黑二色经典俄文](https://geekhack.org/index.php?topic=104745.0)
+
+- 设计师：Tom
+- 团购时间：2021.05.02 至 2021.06.02
+- 发货时间：2022.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1xmjEGd2dQml)
+
+![GMK 原厂 Cyrillic WoB and Beige 灰白、黑二色经典俄文](media/GMK@原厂@Cyrillic_WoB_and_Beige@灰白_黑二色经典俄文_1.jpg)
+
+![GMK 原厂 Cyrillic WoB and Beige 灰白、黑二色经典俄文](media/GMK@原厂@Cyrillic_WoB_and_Beige@灰白_黑二色经典俄文_2.jpg)
+
 ### [~GMK 原厂 Hazakura 葉桜](https://geekhack.org/index.php?topic=111653.0)
 
 - 设计师：BapoDonu

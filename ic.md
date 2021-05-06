@@ -42,6 +42,10 @@
 
 ![](media/16161683218892.jpg)
 
+### [GMK Psychosis](https://geekhack.org/index.php?topic=112639.0)
+
+![](media/16202657671992.jpg)
+
 ### [GMK Diner](https://geekhack.org/index.php?topic=112587.0)
 
 ![](media/16198776299511.jpg)
@@ -291,10 +295,6 @@
 ### [GMK Marmoreal](https://geekhack.org/index.php?topic=111828.0)
 
 ![](media/16163057523980.jpg)
-
-### [GMK Parcel](https://geekhack.org/index.php?topic=111819.0)
-
-![](media/16163057944482.jpg)
 
 ### [GMK Poke](https://geekhack.org/index.php?topic=111777.0)
 
@@ -565,10 +565,6 @@
 ### [JTK Cyberkeycapset](https://geekhack.org/index.php?topic=110131.0)
 
 ![](media/16161326912344.jpg)
-
-### [GMK MOAI](https://geekhack.org/index.php?topic=110065.0)
-
-![](media/16161285675734.jpg)
 
 ### [GMK ADA](https://geekhack.org/index.php?topic=110016.0)
 
