@@ -111,26 +111,31 @@ Author Topic: [GB] DSA Arcane & DSA Plague [canceled, 2nd try 2019]  (Read 10761
 
 ## 更新历史
 
+### 2021-05-10
+
+- IC新增
+    - GMK Soyamilk
+    - GMK Manta
+
 ### 2021-05-01
 
 - 今日开团
-  - GMK 原厂 Hazakura 葉桜
-  - GMK 原厂 Arch
-  - ePBT 原厂 Sniper
-  - ePBT 原厂 Pomelo
+    - GMK 原厂 Hazakura 葉桜
+    - GMK 原厂 Arch
+    - ePBT 原厂 Sniper
+    - ePBT 原厂 Pomelo
 
 - IC新增
-  - GMK Diner
-  - ePBT Basin
-
+    - GMK Diner
+    - ePBT Basin
 
 ### 2021-04-29
 
 - IC新增
-  - GMK Green + Blue
-  
+    - GMK Green + Blue
+
 - 开团时间确定
-  - ePBT Camo：2021.06.01
+    - ePBT Camo：2021.06.01
 
 ### 2021-04-27
 

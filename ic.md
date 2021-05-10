@@ -42,6 +42,18 @@
 
 ![](media/16161683218892.jpg)
 
+### [GMK Soyamilk](https://geekhack.org/index.php?topic=112723.0)
+
+![](media/16206110134984.jpg)
+
+### [GMK Manta](https://geekhack.org/index.php?topic=112700.0)
+
+![](media/16206109566544.jpg)
+
+### [Geekark Story](https://geekhack.org/index.php?topic=112681.0)
+
+![](media/16204356205824.jpg)
+
 ### [GMK Psychosis](https://geekhack.org/index.php?topic=112639.0)
 
 ![](media/16202657671992.jpg)
