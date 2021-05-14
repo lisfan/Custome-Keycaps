@@ -34,11 +34,6 @@
 
 ## 键帽列表
 
-### [SA Copper](https://geekhack.org/index.php?topic=112637.0)
-
-![](media/16202658015769.jpg)
-
-
 ### [SP DSA Berry Yogurt](https://geekhack.org/index.php?topic=112589.0)
 
 ![](media/16198781003777.jpg)
@@ -54,10 +49,6 @@
 ### [SP DSS White on Black](https://geekhack.org/index.php?topic=111967.0)
 
 ![](media/16172811096768.jpg)
-
-### [DSS Sencillo](https://geekhack.org/index.php?topic=111960.0)
-
-![](media/16172812226220.jpg)
 
 ### Melgeek MG 未知
 
@@ -233,10 +224,6 @@
 
 ![](media/16161227332200.jpg)
 
-### [DSS Carpinteria](https://geekhack.org/index.php?topic=111019.0)
-
-![](media/16161261114635.jpg)
-
 ### [MT3 Monomanukai](https://geekhack.org/index.php?topic=111011.0)
 
 ![](media/16161261374194.jpg)
@@ -294,10 +281,6 @@
 ### [KAT Space Dust](https://geekhack.org/index.php?topic=107942.0)
 
 ![](media/16161640720348.jpg)
-
-### [KAM Ocean Front](https://geekhack.org/index.php?topic=106644.0)
-
-![](media/16161682179650.jpg)
 
 ### [KAT Mintos](https://geekhack.org/index.php?topic=106578.0)
 

@@ -33,6 +33,19 @@
 
 ## 键帽列表
 
+### [JTK 原厂 Sora](https://geekhack.org/index.php?topic=110021.0)
+
+- 设计师：sauv
+- 团购时间：2021.04.06 至 2021.05.06
+- 发货时间：2022.Q2
+- 购买方式：国内未开
+
+![JTK 原厂 Sora](media/JTK@原厂@Sora_1.jpg)
+
+![JTK 原厂 Sora](media/JTK@原厂@Sora_2.jpg)
+
+
+
 ### [~JTK 原厂 JTK Griseann GP](https://www.zfrontier.com/app/mch/BwRvKMG4j0Yo)
 
 ![JTK 原厂 Griseann GP](media/JTK@原厂@Griseann_GP.jpg)

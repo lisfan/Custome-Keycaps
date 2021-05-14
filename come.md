@@ -69,17 +69,17 @@
 
 ![](media/16160721395909.jpg)
 
-### [GMK Lazurite](https://geekhack.org/index.php?topic=109549.0)
-
-发车时间：2021.05.07
-
-![](media/16161362718066.jpg)
-
 ### [GMK Alchemy](https://geekhack.org/index.php?topic=112292.0)
 
 发车时间：2021.05.15
 
 ![](media/16162278331649.jpg)
+
+### [GMK Daifuku](https://geekhack.org/index.php?topic=111580.0)
+
+发车时间：2021.05.15
+
+![](media/16161234555486.jpg)
 
 ### [~GMK Pâtisserie](https://geekhack.org/index.php?topic=109160.0)
 
@@ -105,19 +105,17 @@
 
 ![](media/16163056970365.jpg)
 
+### [SA Copper](https://geekhack.org/index.php?topic=112637.0)
+
+发车时间：2021.05.28
+
+![](media/16202658015769.jpg)
+
 ### [GMK Houhai 后海](https://geekhack.org/index.php?topic=107034.0)
 
 发车时间：2021.05.31
 
 ![](media/16161680913975.jpg)
-
-### [GMK Handarbeit+ Round2 & GMK Nachtarbeit](https://geekhack.org/index.php?topic=111758.0)
-
-发车时间：2021.05
-
-![](media/16161205301521.jpg)
-
-![](media/16161205377567.jpg)
 
 ### [JTK Hanami](https://geekhack.org/index.php?topic=109337.0)
 
@@ -167,6 +165,12 @@
 
 ![](media/16181087366785.jpg)
 
+### [GMK Shadow](https://geekhack.org/index.php?topic=112240.0)
+
+发车时间：2021.06.01
+
+![](media/16181948634395.jpg)
+
 ### [ePBT Camo](https://geekhack.org/index.php?topic=110903.0)
 
 发车时间：2021.06.01
@@ -193,6 +197,18 @@
 
 ![](media/16161327265074.jpg)
 
+### [ePBT 原厂 Cool Kids 2](https://geekhack.org/index.php?topic=106670)
+
+发车时间：2021.06.01
+
+![ePBT 原厂 Cool Kids 2](media/ePBT@原厂@Cool_Kids.jpg)
+
+### [DSS Carpinteria](https://geekhack.org/index.php?topic=111019.0)
+
+发车时间：2021.06.03
+
+![](media/16161261114635.jpg)
+
 ### [GMK Lychee 荔枝](https://geekhack.org/index.php?topic=110587.0)
 
 发车时间：2021.06.18
@@ -201,11 +217,17 @@
 
 ![](media/16161278130396.jpg)
 
-### [ePBT 原厂 Cool Kids 2](https://geekhack.org/index.php?topic=106670)
+### [~ePBT Dreamscape](https://geekhack.org/index.php?topic=108937.0)
 
-![ePBT 原厂 Cool Kids 2](media/ePBT@原厂@Cool_Kids.jpg)
+发车时间：2021.06.15
+
+![](media/16161631981530.jpg)
+
+### [KAM Ocean Front](https://geekhack.org/index.php?topic=106644.0)
 
 发车时间：2021.06
+
+![](media/16161682179650.jpg)
 
 ### [GMK Analog Dreams 2 模拟梦境 2](https://geekhack.org/index.php?topic=112367.0)
 
@@ -260,6 +282,12 @@
 发车时间：2021.07
 
 ![](media/16161681325953.jpg)
+
+### [~ePBT 原厂 Kuro/Shiro 黑/白 R3](https://geekhack.org/index.php?topic=97699.0)
+
+发车时间：2021.07
+
+![ePBT 原厂 Kuro/Shiro 黑/白](media/ePBT@原厂@Kuro_Shiro.jpg)
 
 ### [GMK Higanbana 彼岸花](https://geekhack.org/index.php?topic=110235.0)
 

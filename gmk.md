@@ -33,6 +33,68 @@
 
 ## 键帽列表
 
+
+### [GMK 原厂 Seafarer](https://geekhack.org/index.php?topic=110169.0)
+
+- 设计师：avrocado
+- 团购时间：2021.04.16 至 2021.05.16
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Seafarer/)
+
+![GMK 原厂 Seafarer](media/GMK@原厂@Seafarer.jpg)
+
+### [GMK 原厂 Peaches n Cream Lite](https://geekhack.org/index.php?topic=101419.0)
+
+- 设计师：Rensuya
+- 团购时间：2021.04.15 至 2021.05.15
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1Q37nL48aZwo)
+
+![GMK 原厂 Peaches n Cream](./media/GMK@原厂@Peaches_n_Cream_Lite.jpg)
+
+
+
+### [GMK 原厂 Kouhai](https://geekhack.org/index.php?topic=109077.0)
+
+- 设计师：Bachoo
+- 团购时间：2021.04.12 至 2021.05.09
+- 发货时间：2022.Q2
+- 购买方式：[鱼头列车](http://www.kbyu.top/)
+
+![GMK 原厂 Kouhai](media/GMK@原厂@Kouhai.jpg)
+
+
+
+### [GMK 原厂 Agent 01](https://geekhack.org/index.php?topic=109777.0)
+
+- 设计师：SxM Designs
+- 团购时间：2021.04.09 至 2021.05.09
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Agent01/)
+
+![GMK 原厂 Agent 01](media/GMK@原厂@Agent@01.jpg)
+
+
+
+### [GMK 原厂 Wasabi 山葵 V2](https://geekhack.org/index.php?topic=111528.0)
+
+- 设计师：Sourmk
+- 团购时间：2021.04.05 至 2021.05.03
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lApr8eqx7Qv1)
+
+![GMK 原厂 Wasabi 山葵 V2](media/GMK@原厂@Wasabi@山葵@V2.jpg)
+
+### [GMK 原厂 Boulder](https://geekhack.org/index.php?topic=110244.0)
+
+- 设计师：shiba
+- 团购时间：2021.04.02 至 2021.05.02
+- 发货时间：2022.Q2
+- 购买方式：[KBDfans](https://kbdfans.store/products/BOULDER/)
+
+![GMK 原厂 Boulder](media/GMK@原厂@Boulder.jpg)
+
+
 ### [GMK 原厂 Blurple 蓝紫](https://geekhack.org/index.php?topic=109480.0)
 
 - 设计师：PhantomTaco

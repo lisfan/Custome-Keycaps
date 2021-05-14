@@ -33,6 +33,48 @@
 
 ## 键帽列表
 
+### [DSS Sencillo](https://geekhack.org/index.php?topic=111960.0)
+
+- 团购时间：2021.05.15 至 2021.06.15
+
+![](media/16172812226220.jpg)
+
+### [GMK 原厂 Dual Shot R2](https://geekhack.org/index.php?topic=103409.0)
+
+- 设计师：omnitype
+- 团购时间：2021.05.07 至 2021.06.04
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1a35LwLbxggo)
+
+![GMK 原厂 Dual Shot R2](media/GMK@原厂@Dual_Shot@R2.jpg)
+
+### [GMK 原厂 Handarbeit+ R2](https://geekhack.org/index.php?topic=111758.0)
+
+- 设计师：cocobrais
+- 团购时间：2021.05.01 至 2021.06.03
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lLnqyDy9eMOB)
+
+![GMK 原厂 Handarbeit+ R2](media/GMK@原厂@Handarbeit+@R2.jpg)
+
+### [GMK 原厂 Nachtarbeit](https://geekhack.org/index.php?topic=111758.0)
+
+- 设计师：cocobrais
+- 团购时间：2021.05.01 至 2021.06.03
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lLnqyDy9eMOB)
+
+![GMK 原厂 Nachtarbeit](media/GMK@原厂@Nachtarbeit.jpg)
+
+### [GMK 原厂 Lazurite 青金石](https://geekhack.org/index.php?topic=109549.0)
+
+- 设计师： Jae/jaekeyed
+- 团购时间：2021.05.07 至 2021.06.04
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lLnqyDy9eMOB)
+
+![GMK 原厂 Lazurite 青金石](media/GMK@原厂@Lazurite@青金石.jpg)
+
 ### [Infinikey DSA Encore 安可](https://geekhack.org/index.php?topic=109460.0)
 
 - 设计师：Astro Bunny
@@ -143,62 +185,6 @@
 
 ![GMK 原厂 Modern Japanese Desko](media/GMK@原厂@Modern_Japanese_Desko.jpg)
 
-### [GMK 原厂 Seafarer](https://geekhack.org/index.php?topic=110169.0)
-
-- 设计师：avrocado
-- 团购时间：2021.04.16 至 2021.05.16
-- 发货时间：待定
-- 购买方式：[KBDfans](https://kbdfans.store/products/Seafarer/)
-
-![GMK 原厂 Seafarer](media/GMK@原厂@Seafarer.jpg)
-
-### [SP SA Ramses 拉美西斯](https://geekhack.org/index.php?topic=108914.0)
-
-- 设计师：avrocado
-- 团购时间：2021.04.16 至 2021.05.14
-- 发货时间：2022.Q2
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1JpJd753eO7o)
-
-![SP SA Ramses 拉美西斯](media/SP@SA@Ramses@拉美西斯_1.jpg)
-
-![SP SA Ramses 拉美西斯](media/SP@SA@Ramses@拉美西斯_2.jpg)
-
-### [GMK 原厂 Peaches n Cream Lite](https://geekhack.org/index.php?topic=101419.0)
-
-- 设计师：Rensuya
-- 团购时间：2021.04.15 至 2021.xx.xx
-- 发货时间：2022.Q2
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1Q37nL48aZwo)
-
-![GMK 原厂 Peaches n Cream](./media/GMK@原厂@Peaches_n_Cream_Lite.jpg)
-
-### [~ePBT 原厂 6085](https://geekhack.org/index.php?topic=108456.0)
-
-- 设计师：Rensuya
-- 团购时间：2021.04.15 至 2021.05.16
-- 发货时间：2021.12-2022.01
-- 购买方式：[KBDfans](https://kbdfans.store/products/6085/)
-
-![ePBT 原厂 6085](media/ePBT@原厂@6085.jpg)
-
-### [GMK 原厂 Kouhai](https://geekhack.org/index.php?topic=109077.0)
-
-- 设计师：Bachoo
-- 团购时间：2021.04.12 至 2021.05.09
-- 发货时间：2022.Q2
-- 购买方式：[鱼头列车](http://www.kbyu.top/)
-
-![GMK 原厂 Kouhai](media/GMK@原厂@Kouhai.jpg)
-
-### [SP SA Espresso 浓缩咖啡](https://geekhack.org/index.php?topic=108230.0)
-
-- 设计师：JPoc
-- 团购时间：2021.04.13 至 2021.05.14
-- 发货时间：2022.Q2
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1Xk4eqDZLy5B)
-
-![SP SA Espresso 浓缩咖啡](media/SP@SA@Espresso@浓缩咖啡.jpg)
-
 ### [Geekark 原厂 Slash](https://geekhack.org/index.php?topic=111806.0)
 
 - 设计师：seh0nk
@@ -207,42 +193,4 @@
 - 购买方式：国内未开
 
 ![Geekark 原厂 Slash](media/Geekark@原厂@Slash.jpg)
-
-### [GMK 原厂 Agent 01](https://geekhack.org/index.php?topic=109777.0)
-
-- 设计师：SxM Designs
-- 团购时间：2021.04.09 至 2021.05.09
-- 发货时间：待定
-- 购买方式：[KBDfans](https://kbdfans.store/products/Agent01/)
-
-![GMK 原厂 Agent 01](media/GMK@原厂@Agent@01.jpg)
-
-### [JTK 原厂 Sora](https://geekhack.org/index.php?topic=110021.0)
-
-- 设计师：sauv
-- 团购时间：2021.04.06 至 2021.05.06
-- 发货时间：2022.Q2
-- 购买方式：国内未开
-
-![JTK 原厂 Sora](media/JTK@原厂@Sora_1.jpg)
-
-![JTK 原厂 Sora](media/JTK@原厂@Sora_2.jpg)
-
-### [GMK 原厂 Wasabi 山葵 V2](https://geekhack.org/index.php?topic=111528.0)
-
-- 设计师：Sourmk
-- 团购时间：2021.04.05 至 2021.05.03
-- 发货时间：2022.Q2
-- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lApr8eqx7Qv1)
-
-![GMK 原厂 Wasabi 山葵 V2](media/GMK@原厂@Wasabi@山葵@V2.jpg)
-
-### [GMK 原厂 Boulder](https://geekhack.org/index.php?topic=110244.0)
-
-- 设计师：shiba
-- 团购时间：2021.04.02 至 2021.05.02
-- 发货时间：2022.Q2
-- 购买方式：[KBDfans](https://kbdfans.store/products/BOULDER/)
-
-![GMK 原厂 Boulder](media/GMK@原厂@Boulder.jpg)
 

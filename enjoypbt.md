@@ -33,6 +33,15 @@
 
 ## 键帽列表
 
+### [~ePBT 原厂 6085](https://geekhack.org/index.php?topic=108456.0)
+
+- 设计师：Rensuya
+- 团购时间：2021.04.15 至 2021.05.16
+- 发货时间：2021.12-2022.01
+- 购买方式：[KBDfans](https://kbdfans.store/products/6085/)
+
+![ePBT 原厂 6085](media/ePBT@原厂@6085.jpg)
+
 ### [~ePBT 原厂 Less But Better](https://geekhack.org/index.php?topic=109750.0)
 
 - 设计师：Openkey Design

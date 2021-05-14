@@ -42,6 +42,30 @@
 
 ![](media/16161683218892.jpg)
 
+### [~GMK MAGNOLIA](https://geekhack.org/index.php?topic=112791.0)
+
+![](media/16209789735731.jpg)
+
+### [~PBT Transmutation](https://geekhack.org/index.php?topic=112785.0)
+
+![](media/16209790710694.jpg)
+
+### [GMK SoftTouch](https://geekhack.org/index.php?topic=112770.0)
+
+![](media/16209787752033.jpg)
+
+### [GMK Retro Runic](https://geekhack.org/index.php?topic=112746.0)
+
+![](media/16209788562303.jpg)
+
+### [GMK Mango](https://geekhack.org/index.php?topic=112773.0)
+
+![](media/16209789021287.jpg)
+
+### [IFK ALLFATHER](https://geekhack.org/index.php?topic=112784.0)
+
+![](media/16209789494922.jpg)
+
 ### [GMK Soyamilk](https://geekhack.org/index.php?topic=112723.0)
 
 ![](media/16206110134984.jpg)
@@ -175,10 +199,6 @@
 ### [GMK Fleuriste](https://geekhack.org/index.php?topic=112243.0)
 
 ![](media/16181948231274.jpg)
-
-### [GMK Shadow](https://geekhack.org/index.php?topic=112240.0)
-
-![](media/16181948634395.jpg)
 
 ### [GMK Shiryō](https://geekhack.org/index.php?topic=112233.0)
 
@@ -365,10 +385,6 @@
 ### [GMK Panda](https://geekhack.org/index.php?topic=111581.0)
 
 ![](media/16161234337107.jpg)
-
-### [GMK Daifuku](https://geekhack.org/index.php?topic=111580.0)
-
-![](media/16161234555486.jpg)
 
 ### [GMK Orochi](https://geekhack.org/index.php?topic=111577.0)
 
@@ -641,10 +657,6 @@
 ### [GMK Retrowave.](https://geekhack.org/index.php?topic=109035.0)
 
 ![](media/16161627911228.jpg)
-
-### [~ePBT Dreamscape](https://geekhack.org/index.php?topic=108937.0)
-
-![](media/16161631981530.jpg)
 
 ### [~JTK Classic Retro Cyrillic](https://geekhack.org/index.php?topic=108918.0)
 
