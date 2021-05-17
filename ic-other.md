@@ -34,6 +34,10 @@
 
 ## 键帽列表
 
+### [KAT Mori](https://geekhack.org/index.php?topic=112851.0)
+
+![](media/16212498509420.jpg)
+
 ### [SP DSA Berry Yogurt](https://geekhack.org/index.php?topic=112589.0)
 
 ![](media/16198781003777.jpg)

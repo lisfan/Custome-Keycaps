@@ -69,23 +69,13 @@
 
 ![](media/16160721395909.jpg)
 
-### [GMK Alchemy](https://geekhack.org/index.php?topic=112292.0)
 
-发车时间：2021.05.15
-
-![](media/16162278331649.jpg)
 
 ### [GMK Daifuku](https://geekhack.org/index.php?topic=111580.0)
 
 发车时间：2021.05.15
 
 ![](media/16161234555486.jpg)
-
-### [~GMK Pâtisserie](https://geekhack.org/index.php?topic=109160.0)
-
-发车时间：2021.05.17
-
-![](media/16161624078670.jpg)
 
 ### [ePBT Origami](https://geekhack.org/index.php?topic=111860.0)
 
@@ -153,6 +143,12 @@
 
 ## 六月
 
+### [~Geekark Selenites 月球人](https://geekhack.org/index.php?topic=111574.0)
+
+发车时间：2021.06.01
+
+![](media/16161235454041.jpg)
+
 ### [GMK 原厂 Monochrome r2 黑白 r2](https://geekhack.org/index.php?topic=97203.0)
 
 发车时间：2021.06.01
@@ -208,6 +204,12 @@
 发车时间：2021.06.03
 
 ![](media/16161261114635.jpg)
+
+### [ePBT Solaria](https://geekhack.org/index.php?topic=111508.0)
+
+发车时间：2021.06.04
+
+![](media/16161242738099.jpg)
 
 ### [GMK Lychee 荔枝](https://geekhack.org/index.php?topic=110587.0)
 
@@ -270,6 +272,12 @@
 ![](media/16161361416333.jpg)
 
 ## 七月
+
+### [GMK Aegyptus](https://geekhack.org/index.php?topic=112098.0)
+
+发车时间：2021.07.01
+
+![](media/16177645285448.jpg)
 
 ### [GMK ART](https://geekhack.org/index.php?topic=110737.0)
 

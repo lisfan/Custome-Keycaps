@@ -33,6 +33,35 @@
 
 ## 键帽列表
 
+### [SP SA 粉蜜Girl Hood Bee](https://www.zfrontier.com/app/flow/291Y7n1AMpao)
+
+- 设计师：Jack & Dragon L
+- 团购时间：2021.05.20 至 2021.06.11
+- 发货时间：2022.10
+- 购买方式：[JACK键盘键帽客制 淘宝店](https://item.taobao.com/item.htm?id=645016990833)
+
+![SP SA Girl HoodBee 粉蜜](media/SP@SA@Girl_Hood_Bee@粉蜜_1.jpg)
+
+![SP SA Girl HoodBee 粉蜜](media/SP@SA@Girl_Hood_Bee@粉蜜_2.jpg)
+
+### [GMK 原厂 Pâtisserie 糕点](https://geekhack.org/index.php?topic=109160.0)
+
+- 设计师：Agilr
+- 团购时间：2021.05.17 至 2021.06.13
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/l7gp2Zb5NL7l)
+
+![GMK 原厂 Pâtisserie 糕点](media/GMK@原厂@Pâtisserie@糕点.jpg)
+
+### [GMK 原厂 Alchemy 炼金术](https://geekhack.org/index.php?topic=112292.0)
+
+- 设计师：Alchemist Keyboards
+- 团购时间：2021.05.15 至 2021.06.15
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/B5xwmQdw0gZo)
+
+![GMK 原厂 Alchemy 炼金术](media/GMK@原厂@Alchemy@炼金术.jpg)
+
 ### [DSS Sencillo](https://geekhack.org/index.php?topic=111960.0)
 
 - 团购时间：2021.05.15 至 2021.06.15

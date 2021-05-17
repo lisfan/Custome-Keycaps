@@ -42,6 +42,28 @@
 
 ![](media/16161683218892.jpg)
 
+### [GMK Momo Yume](https://geekhack.org/index.php?topic=112807.0) 
+
+![](media/16212500208992.jpg)
+
+### [GMK Fitness Studio](https://geekhack.org/index.php?topic=112831.0)
+
+![](media/16212499896532.jpg)
+
+### [GMK Doll 自动人偶](https://geekhack.org/index.php?topic=112844.0)
+
+![](media/16212499504572.jpg)
+
+### [GMK WoB and Beige Ñ Addon Kit](https://geekhack.org/index.php?topic=112804.0)
+
+![](media/16212498784248.jpg)
+
+![](media/16212498819556.jpg)
+
+### [IFK FREYJA](https://geekhack.org/index.php?topic=112814.0)
+
+![](media/16212501701642.jpg)
+
 ### [~GMK MAGNOLIA](https://geekhack.org/index.php?topic=112791.0)
 
 ![](media/16209789735731.jpg)
@@ -230,10 +252,6 @@
 
 ![](media/16177644303270.jpg)
 
-### [GMK Aegyptus](https://geekhack.org/index.php?topic=112098.0)
-
-![](media/16177645285448.jpg)
-
 ### [GMK Mercury](https://geekhack.org/index.php?topic=112000.0)
 
 ![](media/img.png)
@@ -390,9 +408,7 @@
 
 ![](media/16161235114002.jpg)
 
-### [~Geekark Selenites](https://geekhack.org/index.php?topic=111574.0)
 
-![](media/16161235454041.jpg)
 
 ### [ePBT Antarctic Emperor](https://geekhack.org/index.php?topic=111565.0)
 
@@ -405,10 +421,6 @@
 ### [~GMK Blossom](https://geekhack.org/index.php?topic=111536.0)
 
 ![](media/16161241978965.jpg)
-
-### [ePBT Solaria](https://geekhack.org/index.php?topic=111508.0)
-
-![](media/16161242738099.jpg)
 
 ### [GMK Nightlight](https://geekhack.org/index.php?topic=111491.0)
 
