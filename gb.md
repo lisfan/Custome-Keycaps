@@ -33,6 +33,7 @@
 
 ## 键帽列表
 
+
 ### [SP SA 粉蜜Girl Hood Bee](https://www.zfrontier.com/app/flow/291Y7n1AMpao)
 
 - 设计师：Jack & Dragon L
@@ -43,6 +44,17 @@
 ![SP SA Girl HoodBee 粉蜜](media/SP@SA@Girl_Hood_Bee@粉蜜_1.jpg)
 
 ![SP SA Girl HoodBee 粉蜜](media/SP@SA@Girl_Hood_Bee@粉蜜_2.jpg)
+
+### MG MDA Label Y
+
+- 设计师：muni
+- 团购时间：2021.05.18
+- 发货时间：现货
+- 购买方式：[MelGeek 淘宝店](https://item.taobao.com/item.htm?id=602759736588)
+
+![MG MDA Label Y](media/B575A2E58E9014A734FCF094BE5D34A1.jpg)
+
+![MG MDA Label X 本次不团购](media/F2A2D863464D720563222C38805743D7.jpg)
 
 ### [GMK 原厂 Pâtisserie 糕点](https://geekhack.org/index.php?topic=109160.0)
 
