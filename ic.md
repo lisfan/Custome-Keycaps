@@ -10,7 +10,7 @@
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
-- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
+- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
@@ -41,6 +41,22 @@
 开团时间2021.Q3?
 
 ![](media/16161683218892.jpg)
+
+### [Epbt Dreamer](https://geekhack.org/index.php?topic=112979.0)
+
+![](media/16219078134623.jpg)
+
+### [~GMK Trash Friends](https://geekhack.org/index.php?topic=112925.0)
+
+![](media/16215656419910.jpg)
+
+### [GMK Arabian Sea](https://geekhack.org/index.php?topic=112907.0)
+
+![](media/16215656131978.jpg)
+
+### [GMK Tiramisu](https://geekhack.org/index.php?topic=112906.0)
+
+![](media/16215655691879.jpg)
 
 ### [GMK Momo Yume](https://geekhack.org/index.php?topic=112807.0) 
 
@@ -388,10 +404,6 @@
 
 ![](media/16161230773662.jpg)
 
-### [ePBT Scandi](https://geekhack.org/index.php?topic=111609.0)
-
-![](media/16161231128726.jpg)
-
 ### [ePBT Inconceivable!](https://geekhack.org/index.php?topic=111607.0)
 
 ![](media/16161231588747.jpg)
@@ -429,10 +441,6 @@
 ### [GMK Poker](https://geekhack.org/index.php?topic=111475.0)
 
 ![](media/16161249529682.jpg)
-
-### [GMK Haku](https://geekhack.org/index.php?topic=111471.0)
-
-![](media/16161250209985.jpg)
 
 ### [GMK Oritsu](https://geekhack.org/index.php?topic=111469.0)
 

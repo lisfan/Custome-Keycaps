@@ -10,7 +10,7 @@
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
-- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
+- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
@@ -47,7 +47,7 @@
 - 设计师：York Chan
 - 团购时间：2021.02.20 至 2021.03.10
 - 发货时间：2021.10
-- 购买方式：[MelGeek 淘宝店](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.16c11debNqVEk0&ft=t&id=637732464263)
+- 购买方式：[MelGeek 淘宝店](https://item.taobao.com/item.htm?id=637732464263)
 
 ![MelGeek MG Ghost 幽灵](media/MelGeek@MG@Ghost@幽灵_1.jpg)
 
@@ -97,10 +97,10 @@
 
 ![MelGeek MDA Plastic 塑料](media/MELGEEK@MDA@Plastic@塑料.jpg)
 
-### [MelGeek MDA BigBone 大骨](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-17768349361.14.6e8a3c8av7A3af&id=581259039862)
+### [MelGeek MDA BigBone 大骨](https://item.taobao.com/item.htm?id=581259039862)
 
 ![MelGeek MDA BigBone 大骨](media/MELGEEK@MDA@BigBone@大骨.jpg)
 
-### [MelGeek MDA Nihon 霓虹](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-17768349361.18.6e8a3c8av7A3af&id=602759736588)
+### [MelGeek MDA Nihon 霓虹](https://item.taobao.com/item.htm?id=602759736588)
 
 ![MelGeek MDA Nihon 霓虹](./media/MELGEEK@MDA@Nihon@霓虹.jpg)

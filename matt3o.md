@@ -10,7 +10,7 @@
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
-- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
+- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
@@ -55,7 +55,7 @@
 
 ![Matt3o MT3 SUSUWATARI](media/Matt3o@MT3@SUSUWATARI.jpg)
 
-### [~Matt3o MT3 /DEV/TTY](https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set)
+### [Matt3o MT3 /DEV/TTY](https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set)
 
 ![Matt3o MT3 /DEV/TTY](media/Matt3o@MT3@DEV_TTY.jpg)
 

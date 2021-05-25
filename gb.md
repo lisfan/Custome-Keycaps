@@ -10,7 +10,7 @@
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
-- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
+- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
@@ -33,6 +33,35 @@
 
 ## 键帽列表
 
+### [GMK 原厂 Moonlight](https://geekhack.org/index.php?topic=107004.0)
+
+- 设计师：mkljfox44
+- 团购时间：2021.05.21 至 2021.06.21
+- 发货时间：2022.Q4
+- 购买方式：[KBDfans](https://kbdfans.store/products/Moonlight/)
+
+![](media/16161684076688.jpg)
+
+### [Matt3o MT3 FAIRLANE](https://drop.com/buy/drop-mt3-fairlane-custom-keycap-set)
+
+
+### [ePBT 原厂 Origami](https://geekhack.org/index.php?topic=111860.0)
+
+- 设计师：Nukz
+- 团购时间：2021.04.30 至 2021.05.30
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/Origami/)
+
+![](media/16177648046046.jpg)
+
+### [GMK 原厂 Haku 白龙](https://geekhack.org/index.php?topic=111471.0)
+
+- 设计师：Tomn
+- 团购时间：2021.05.18 至 2021.06.18
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lOqb0rNVXxGB)
+
+![](media/16161250209985.jpg)
 
 ### [SP SA 粉蜜Girl Hood Bee](https://www.zfrontier.com/app/flow/291Y7n1AMpao)
 

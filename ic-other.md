@@ -10,7 +10,7 @@
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
-- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
+- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
@@ -33,6 +33,14 @@
 4. 会对活跃中的帖子提供键帽配列渲染图，但不会精修图片，当帖子被挪到即将**即将发车**状态时会再精挑细选一次渲染图
 
 ## 键帽列表
+
+### [KAM Sewing Tin](https://geekhack.org/index.php?topic=112929.0)
+
+![](media/16215653618279.jpg)
+
+### [KAM Soaring Skies](https://geekhack.org/index.php?topic=112897.0)
+
+![](media/16215652982904.jpg)
 
 ### [KAT Mori](https://geekhack.org/index.php?topic=112851.0)
 
@@ -232,12 +240,6 @@
 
 ![](media/16161261374194.jpg)
 
-### [KAT Overgrown](https://geekhack.org/index.php?topic=111498.0)
-
-![](media/16161243015853.jpg)
-
-![](media/16161243077032.jpg)
-
 ### [KAM Bouquet](https://geekhack.org/index.php?topic=111436.0)
 
 ![](media/16193140216573.jpg)
@@ -281,10 +283,6 @@
 ![](media/16161635795351.jpg)
 
 ![](media/16161635868950.jpg)
-
-### [KAT Space Dust](https://geekhack.org/index.php?topic=107942.0)
-
-![](media/16161640720348.jpg)
 
 ### [KAT Mintos](https://geekhack.org/index.php?topic=106578.0)
 

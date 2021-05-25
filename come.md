@@ -10,7 +10,7 @@
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
 - [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
 - [即将发车](./come.md)：近期发车的团购信息
-- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息
+- [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
@@ -69,25 +69,17 @@
 
 ![](media/16160721395909.jpg)
 
-
-
 ### [GMK Daifuku](https://geekhack.org/index.php?topic=111580.0)
 
 发车时间：2021.05.15
 
 ![](media/16161234555486.jpg)
 
-### [ePBT Origami](https://geekhack.org/index.php?topic=111860.0)
+### [KAT Space Dust](https://geekhack.org/index.php?topic=107942.0)
 
-发车时间：2021.05.18
+发车时间：2021.05.24
 
-![](media/16177648046046.jpg)
-
-### [GMK Moonlight](https://geekhack.org/index.php?topic=107004.0)
-
-发车时间：2021.05.21
-
-![](media/16161684076688.jpg)
+![](media/16161640720348.jpg)
 
 ### [SP SA Spectra](https://geekhack.org/index.php?topic=111830.0)
 
@@ -211,6 +203,12 @@
 
 ![](media/16161242738099.jpg)
 
+### [ePBT Scandi](https://geekhack.org/index.php?topic=111609.0)
+
+发车时间：2021.06.14
+
+![](media/16161231128726.jpg)
+
 ### [GMK Lychee 荔枝](https://geekhack.org/index.php?topic=110587.0)
 
 发车时间：2021.06.18
@@ -224,6 +222,12 @@
 发车时间：2021.06.15
 
 ![](media/16161631981530.jpg)
+
+### [GMK Brutalist](https://geekhack.org/index.php?topic=112115.0)
+
+发车时间：2021.06.15
+
+![](media/16177701570371.jpg)
 
 ### [KAM Ocean Front](https://geekhack.org/index.php?topic=106644.0)
 
@@ -239,11 +243,6 @@
 
 ![](media/16188803785901.jpg)
 
-### [GMK Brutalist](https://geekhack.org/index.php?topic=112115.0)
-
-发车时间：2021.06
-
-![](media/16177701570371.jpg)
 
 ### [~KAT Great Wave 大浪](https://geekhack.org/index.php?topic=110310.0)
 
@@ -316,6 +315,14 @@
 ![](media/16161274510145.jpg)
 
 ## 八月
+
+### [KAT Overgrown](https://geekhack.org/index.php?topic=111498.0)
+
+发车时间：2021.08.05
+
+![](media/16161243015853.jpg)
+
+![](media/16161243077032.jpg)
 
 ### [GMK TeraDrive](https://geekhack.org/index.php?topic=110275.0)
 
