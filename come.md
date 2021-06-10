@@ -6,12 +6,9 @@
 
 ## 快速导航
 
-- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
-- [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
-- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
+- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -23,7 +20,6 @@
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [Other 系列](./other.md)：不好归类的
-- [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
 
@@ -33,35 +29,8 @@
 
 ## 键帽列表
 
-## 四月
-
-### [GMK Zooted](https://geekhack.org/index.php?topic=105845.0)
-
-发车时间：2021.04.20
-
-![](media/16161687243482.jpg)
-
-### [GMK HANOK 한옥](https://geekhack.org/index.php?topic=110801.0)
-
-发车时间：2021.04
-
-![](media/16161278477745.jpg)
-
-### [JTK Packet Loss](https://www.reddit.com/r/MechanicalKeyboards/comments/l1ccui/jtk_packet_loss_coming_soon/)
-
-发车时间：2021.04
-
-![](media/16162511693671.jpg)
 
 ## 五月
-
-### ~MG MDA Label
-
-发车时间：2021.05
-
-![MG MDA Label](media/B575A2E58E9014A734FCF094BE5D34A1.jpg)
-
-![MG MDA Label](media/F2A2D863464D720563222C38805743D7.jpg)
 
 ### [~GMK Shashin](https://geekhack.org/index.php?topic=111767.0)
 
@@ -75,23 +44,6 @@
 
 ![](media/16161234555486.jpg)
 
-### [KAT Space Dust](https://geekhack.org/index.php?topic=107942.0)
-
-发车时间：2021.05.24
-
-![](media/16161640720348.jpg)
-
-### [SP SA Spectra](https://geekhack.org/index.php?topic=111830.0)
-
-发车时间：2021.05.25
-
-![](media/16163056970365.jpg)
-
-### [SA Copper](https://geekhack.org/index.php?topic=112637.0)
-
-发车时间：2021.05.28
-
-![](media/16202658015769.jpg)
 
 ### [GMK Houhai 后海](https://geekhack.org/index.php?topic=107034.0)
 
@@ -191,17 +143,17 @@
 
 ![ePBT 原厂 Cool Kids 2](media/ePBT@原厂@Cool_Kids.jpg)
 
+### [KAM Ocean Front](https://geekhack.org/index.php?topic=106644.0)
+
+发车时间：2021.06.02
+
+![](media/16161682179650.jpg)
+
 ### [DSS Carpinteria](https://geekhack.org/index.php?topic=111019.0)
 
 发车时间：2021.06.03
 
 ![](media/16161261114635.jpg)
-
-### [ePBT Solaria](https://geekhack.org/index.php?topic=111508.0)
-
-发车时间：2021.06.04
-
-![](media/16161242738099.jpg)
 
 ### [ePBT Scandi](https://geekhack.org/index.php?topic=111609.0)
 
@@ -229,12 +181,6 @@
 
 ![](media/16177701570371.jpg)
 
-### [KAM Ocean Front](https://geekhack.org/index.php?topic=106644.0)
-
-发车时间：2021.06
-
-![](media/16161682179650.jpg)
-
 ### [GMK Analog Dreams 2 模拟梦境 2](https://geekhack.org/index.php?topic=112367.0)
 
 发车时间：2021.06
@@ -243,6 +189,13 @@
 
 ![](media/16188803785901.jpg)
 
+
+### [GMK Poker](https://geekhack.org/index.php?topic=111475.0)
+
+发车时间：2021.06
+
+
+![](media/16161249529682.jpg)
 
 ### [~KAT Great Wave 大浪](https://geekhack.org/index.php?topic=110310.0)
 
@@ -284,6 +237,13 @@
 
 ![](media/16161276340456.jpg)
 
+
+### [ePBT Axolotls](https://geekhack.org/index.php?topic=112521.0)
+
+发车时间：2021.07.13
+
+![](media/16194849017900.jpg)
+
 ### [DCS Alps Pingmaster](https://geekhack.org/index.php?topic=107021.0)
 
 发车时间：2021.07
@@ -316,6 +276,12 @@
 
 ## 八月
 
+### [ePBT STONE Age](https://geekhack.org/index.php?topic=112334.0)
+
+发车时间：2021.08.01
+
+![](media/16186488017524.jpg)
+
 ### [KAT Overgrown](https://geekhack.org/index.php?topic=111498.0)
 
 发车时间：2021.08.05
@@ -323,6 +289,12 @@
 ![](media/16161243015853.jpg)
 
 ![](media/16161243077032.jpg)
+
+### [ePBT BoW Hangul](https://geekhack.org/index.php?topic=109619.0)
+
+发车时间：2021.08
+
+![](media/16161330646451.jpg)
 
 ### [GMK TeraDrive](https://geekhack.org/index.php?topic=110275.0)
 
@@ -337,6 +309,9 @@
 ![](media/16161625001385.jpg)
 
 ### [GMK Trüffelschwein](https://geekhack.org/index.php?topic=106466.0)
+
+发车时间：2021.08
+
 
 ![](media/16162292986786.jpg)
 
@@ -370,20 +345,4 @@
 
 ## 鸽了
 
-### [GMK 原厂 Sunset Surfing](https://geekhack.org/index.php?topic=108752.0)
 
-发车时间：2021.04.27
-
-![GMK 原厂 Sunset Surfing](media/GMK@原厂@Sunset_Surfing.jpg)
-
-### [SP DCS QUACK!](https://geekhack.org/index.php?topic=110937.0)
-
-发车时间：2021.03
-
-![](media/16161264160424.jpg)
-
-### [GMK 原厂 95NEON](https://geekhack.org/index.php?topic=111270.0)
-
-发车时间：2021.04.01
-
-![](media/16176886161920.jpg)

@@ -4,7 +4,11 @@
 
 如有遗漏，请联系QQ：448182355
 
-## 更新历史见最底部
+## 说明
+
+维护者已退圈，资料的实时性将不再将就实时性。
+
+客制化键帽速查表将纯粹作为资料型数据库，会将后续出的资料慢慢整理到对应的目录下
 
 ## 本速查表访问地址
 
@@ -13,12 +17,9 @@
 
 ## 快速导航
 
-- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
-- [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
-- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
+- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -30,7 +31,6 @@
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [Other 系列](./other.md)：不好归类的
-- [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 建议新人入坑参考以下信息源
 
@@ -38,18 +38,19 @@
    资料。
 2. 若需要详细了解键帽具体的设计思想，可以通过点击每个**键帽名称**进入原IC地址。
 3. 为了保留持续的热情，本文将主要维护以上几个品牌系列，非这些系列的将**不作主动收录**，**但开放表格由他人主动提交资料**，再由我来编辑
-2. [Keycaps Info](https://matrixzj.github.io/) ：收录了gmk、sp品牌键帽信息
-3. [zFrontier 键圈早报](https://www.zfrontier.com/app/user/3mdxPyXj8k9e)：（早上情报）聚合近期IC&开团等信息
-4. [日·键圈时刻表](https://space.bilibili.com/57276677/article)：（晚上情报）聚合IC&开团等信息
-4. [zFrontier - 情报专栏](https://www.zfrontier.com/app/circle/1#2007)：**国内**发布客制化相关IC信息
-6. [KeyboardDaily 开团时刻表](https://space.bilibili.com/436659663/article)：发布开团IC等咨询
-6. [KeyboardDaily 键盘每日资讯](https://space.bilibili.com/436659663/article)：GeekhackIC帖子的转运站
-7. [键帽交付进度](https://hackmd.io/_Ks8KFJNRNKSl0JvBExaEg#%E9%96%8B%E5%9C%98%E4%B8%AD)：汇总各个供应商的键帽更新进度
-9. [geekhack Interest Check](https://geekhack.org/index.php?board=132.0)：国外发布客制化相关IC信息
-10. [geekhack Group Buy](https://geekhack.org/index.php?board=70.0)：国外发布客制化相关团购信息
-11. [Reddit Interest Check](https://www.reddit.com/r/mechmarket/new/?f=flair_name%3A%22Interest%20Check%22)
-8. [无限号小团购列表](http://www.kbyu.top/)：鱼头专车代购
-12. [在线键盘配列编辑器](http://www.keyboard-layout-editor.com/)
+4. [Keycaps Info](https://matrixzj.github.io/) ：收录了gmk、sp品牌键帽信息
+5. [zFrontier 键圈早报](https://www.zfrontier.com/app/user/3mdxPyXj8k9e)：（早上情报）聚合近期IC&开团等信息
+6. [日·键圈时刻表](https://space.bilibili.com/57276677/article)：（晚上情报）聚合IC&开团等信息
+7. [zFrontier - 情报专栏](https://www.zfrontier.com/app/circle/1#2007)：**国内**发布客制化相关IC信息
+8. [KeyboardDaily](https://keyboarddaily.github.io/)：搬运geekhack的IC资讯
+9. [KeyboardDaily 开团时刻表](https://space.bilibili.com/436659663/article)：发布开团IC等资讯
+10. [KeyboardDaily 键盘每日资讯](https://space.bilibili.com/436659663/article)：GeekhackIC帖子的转运站
+11. [键帽交付进度](https://hackmd.io/_Ks8KFJNRNKSl0JvBExaEg#%E9%96%8B%E5%9C%98%E4%B8%AD)：汇总各个供应商的键帽更新进度
+12. [geekhack Interest Check](https://geekhack.org/index.php?board=132.0)：国外发布客制化相关IC信息
+13. [geekhack Group Buy](https://geekhack.org/index.php?board=70.0)：国外发布客制化相关团购信息
+14. [Reddit Interest Check](https://www.reddit.com/r/mechmarket/new/?f=flair_name%3A%22Interest%20Check%22)
+15. [无限号小团购列表](http://www.kbyu.top/)：鱼头专车代购
+16. [在线键盘配列编辑器](http://www.keyboard-layout-editor.com/)
 
 ## 打字测试网站
 

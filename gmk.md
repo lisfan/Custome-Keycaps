@@ -6,12 +6,9 @@
 
 ## 快速导航
 
-- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
-- [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
-- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
+- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -23,7 +20,6 @@
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [Other 系列](./other.md)：不好归类的
-- [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
 
@@ -33,6 +29,181 @@
 
 ## 键帽列表
 
+### [GMK 原厂 Sunset Surfing](https://geekhack.org/index.php?topic=108752.0)
+
+![GMK 原厂 Sunset Surfing](media/GMK@原厂@Sunset_Surfing.jpg)
+
+### [SP DCS QUACK!](https://geekhack.org/index.php?topic=110937.0)
+
+![](media/16161264160424.jpg)
+
+### [GMK 原厂 95NEON](https://geekhack.org/index.php?topic=111270.0)
+
+![](media/16176886161920.jpg)
+
+### [GMK Zooted](https://geekhack.org/index.php?topic=105845.0)
+
+![](media/16161687243482.jpg)
+
+### [GMK HANOK 한옥](https://geekhack.org/index.php?topic=110801.0)
+
+![](media/16161278477745.jpg)
+
+### [GMK Symbiote](https://geekhack.org/index.php?topic=113264.0)
+
+![](media/16233031087477.jpg)
+
+### [GMK 原厂 Moonlight](https://geekhack.org/index.php?topic=107004.0)
+
+- 设计师：mkljfox44
+- 团购时间：2021.05.21 至 2021.06.21
+- 发货时间：2022.Q4
+- 购买方式：[KBDfans](https://kbdfans.store/products/Moonlight/)
+
+![](media/16161684076688.jpg)
+
+
+
+
+### [GMK 原厂 Haku 白龙](https://geekhack.org/index.php?topic=111471.0)
+
+- 设计师：Tomn
+- 团购时间：2021.05.18 至 2021.06.18
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lOqb0rNVXxGB)
+
+![](media/16161250209985.jpg)
+
+### [GMK 原厂 Pâtisserie 糕点](https://geekhack.org/index.php?topic=109160.0)
+
+- 设计师：Agilr
+- 团购时间：2021.05.17 至 2021.06.13
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/l7gp2Zb5NL7l)
+
+![GMK 原厂 Pâtisserie 糕点](media/GMK@原厂@Pâtisserie@糕点.jpg)
+
+### [GMK 原厂 Alchemy 炼金术](https://geekhack.org/index.php?topic=112292.0)
+
+- 设计师：Alchemist Keyboards
+- 团购时间：2021.05.15 至 2021.06.15
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/B5xwmQdw0gZo)
+
+![GMK 原厂 Alchemy 炼金术](media/GMK@原厂@Alchemy@炼金术.jpg)
+
+### [GMK 原厂 Dual Shot R2](https://geekhack.org/index.php?topic=103409.0)
+
+- 设计师：omnitype
+- 团购时间：2021.05.07 至 2021.06.04
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1a35LwLbxggo)
+
+![GMK 原厂 Dual Shot R2](media/GMK@原厂@Dual_Shot@R2.jpg)
+
+### [GMK 原厂 Handarbeit+ R2](https://geekhack.org/index.php?topic=111758.0)
+
+- 设计师：cocobrais
+- 团购时间：2021.05.01 至 2021.06.03
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lLnqyDy9eMOB)
+
+![GMK 原厂 Handarbeit+ R2](media/GMK@原厂@Handarbeit+@R2.jpg)
+
+### [GMK 原厂 Nachtarbeit](https://geekhack.org/index.php?topic=111758.0)
+
+- 设计师：cocobrais
+- 团购时间：2021.05.01 至 2021.06.03
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lLnqyDy9eMOB)
+
+![GMK 原厂 Nachtarbeit](media/GMK@原厂@Nachtarbeit.jpg)
+
+### [GMK 原厂 Lazurite 青金石](https://geekhack.org/index.php?topic=109549.0)
+
+- 设计师： Jae/jaekeyed
+- 团购时间：2021.05.07 至 2021.06.04
+- 发货时间：2021.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lLnqyDy9eMOB)
+
+![GMK 原厂 Lazurite 青金石](media/GMK@原厂@Lazurite@青金石.jpg)
+
+
+### [GMK 原厂 Deepwell](https://geekhack.org/index.php?topic=109622.0)
+
+- 设计师：Tyson
+- 团购时间：2021.05.04 至 2021.06.01
+- 发货时间：2022.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lVE2dzm7Z391)
+
+![GMK 原厂 Deepwell](media/GMK@原厂@Deepwell.jpg)
+
+### [GMK 原厂 MOAI 巨石像](https://geekhack.org/index.php?topic=110065.0)
+
+- 设计师：pol139
+- 团购时间：2021.05.04 至 2021.06.04
+- 发货时间：2022.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/10aYdqrvqgkl)
+
+![GMK 原厂 MOAI 巨石像](media/GMK@原厂@MOAI@巨石像.jpg)
+
+### [GMK 原厂 Parcel 包裹](https://geekhack.org/index.php?topic=111819.0)
+
+- 设计师：Biip
+- 团购时间：2021.05.03 至 2021.05.31
+- 发货时间：2022.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lqE93PjjLN7l)
+
+![GMK 原厂 Parcel 包裹](media/GMK@原厂@Parcel@包裹.jpg)
+
+### [GMK 原厂 Cyrillic WoB and Beige 灰白、黑二色经典俄文](https://geekhack.org/index.php?topic=104745.0)
+
+- 设计师：Tom
+- 团购时间：2021.05.02 至 2021.06.02
+- 发货时间：2022.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1xmjEGd2dQml)
+
+![GMK 原厂 Cyrillic WoB and Beige 灰白、黑二色经典俄文](media/GMK@原厂@Cyrillic_WoB_and_Beige@灰白_黑二色经典俄文_1.jpg)
+
+![GMK 原厂 Cyrillic WoB and Beige 灰白、黑二色经典俄文](media/GMK@原厂@Cyrillic_WoB_and_Beige@灰白_黑二色经典俄文_2.jpg)
+
+### [~GMK 原厂 Hazakura 葉桜](https://geekhack.org/index.php?topic=111653.0)
+
+- 设计师：BapoDonu
+- 团购时间：2021.05.01 至 2021.06.01
+- 发货时间：2022.Q3
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1xp58amYEKD1)
+
+![GMK 原厂 Hazakura 葉桜](media/GMK@原厂@Hazakura@葉桜.jpg)
+
+### [GMK 原厂 Arch](https://geekhack.org/index.php?topic=110180.0)
+
+- 设计师：Ram
+- 团购时间：2021.04.30 至 2021.05.30
+- 发货时间：待定
+- 购买方式：[KBDfans](https://kbdfans.store/products/ARCH/)
+
+![GMK 原厂 Arch](media/GMK@原厂@Arch.jpg)
+
+
+### [GMK 原厂 Jelly Delights 糖豆](https://geekhack.org/index.php?topic=111390.0)
+
+- 设计师：Kozify
+- 团购时间：2021.04.22 至 2021.05.28
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1kggVgy68jV1)
+
+![GMK 原厂 Jelly Delights 糖豆](media/GMK@原厂@Jelly_Delights@糖豆.jpg)
+
+
+### [GMK 原厂 Modern Japanese Desko](https://geekhack.org/index.php?topic=108830.0)
+
+- 设计师：EnjoyMyInSec
+- 团购时间：2021.04.19 至 2021.05.19
+- 发货时间：2022.Q2
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/lVq7Xdx878K1)
+
+![GMK 原厂 Modern Japanese Desko](media/GMK@原厂@Modern_Japanese_Desko.jpg)
 
 ### [GMK 原厂 Seafarer](https://geekhack.org/index.php?topic=110169.0)
 

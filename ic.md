@@ -6,12 +6,9 @@
 
 ## 快速导航
 
-- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
-- [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
-- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
+- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -23,7 +20,6 @@
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [Other 系列](./other.md)：不好归类的
-- [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
 
@@ -42,9 +38,73 @@
 
 ![](media/16161683218892.jpg)
 
+### [Domikey Silent Sea 寂静海洋](https://www.zfrontier.com/app/flow/D7ZVKn6gj0qJ)
+
+![](media/16233030582258.jpg)
+
+### [ePBT Kavala](https://geekhack.org/index.php?topic=113229.0)
+
+![](media/16233017059261.jpg)
+
+### [GMK ZEN POND](https://geekhack.org/index.php?topic=113184.0)
+
+![](media/16228895737788.jpg)
+
+### [GMK TERROR BELOW](https://geekhack.org/index.php?topic=113141.0)
+
+![](media/16228896493828.jpg)
+
+### [DCS Honeywell](https://geekhack.org/index.php?topic=113168.0)
+
+![](media/16228896735688.jpg)
+
+### [GMK Mika](https://geekhack.org/index.php?topic=113170.0)
+
+![](media/16228897051646.jpg)
+
+### [GMK Bloomberg](https://geekhack.org/index.php?topic=113181.0)
+
+![](media/16228897802640.jpg)
+
+### [GMK Washbuckle](https://geekhack.org/index.php?topic=113175.0)
+
+![](media/16228898604540.jpg)
+
+### [GMK Aquarius](https://geekhack.org/index.php?topic=113166.0)
+
+![](media/16228898841353.jpg)
+
+### [PBT Chupacabra](https://geekhack.org/index.php?topic=113161.0)
+
+![](media/16228899524822.jpg)
+
+### [PBT Somber](https://geekhack.org/index.php?topic=113044.0)
+
+![](media/16228900078487.jpg)
+
+### [DSS Lightcycle](https://geekhack.org/index.php?topic=113200.0)
+
+![](media/16228900437452.jpg)
+
+### [PBT Lord 君](https://geekhack.org/index.php?topic=113023.0)
+
+![](media/16228901520496.jpg)
+
+### [ePBT Secret Agent](https://geekhack.org/index.php?topic=113040.0)
+
+![](media/16228901769217.jpg)
+
+### [ePBT Sidewalk Chalk](https://geekhack.org/index.php?topic=112713.0)
+
+![](media/16228898166160.jpg)
+
 ### [Epbt Dreamer](https://geekhack.org/index.php?topic=112979.0)
 
 ![](media/16219078134623.jpg)
+
+### [GMK LOKI](https://www.reddit.com/r/mechmarket/comments/niyn2i/ic_gmk_loki/)
+
+![](media/16219083444961.jpg)
 
 ### [~GMK Trash Friends](https://geekhack.org/index.php?topic=112925.0)
 
@@ -132,9 +192,6 @@
 
 ![](media/16196647538136.jpg)
 
-### [ePBT Axolotls](https://geekhack.org/index.php?topic=112521.0)
-
-![](media/16194849017900.jpg)
 
 ### [GMK Night Tare](https://geekhack.org/index.php?topic=112507.0)
 
@@ -205,10 +262,6 @@
 ![](media/16186488583602.jpg)
 
 ![](media/16186488735956.jpg)
-
-### [ePBT STONE Age](https://geekhack.org/index.php?topic=112334.0)
-
-![](media/16186488017524.jpg)
 
 ### [GMK Daimyō](https://geekhack.org/index.php?topic=111469.0)
 
@@ -438,9 +491,7 @@
 
 ![](media/16161249278567.jpg)
 
-### [GMK Poker](https://geekhack.org/index.php?topic=111475.0)
 
-![](media/16161249529682.jpg)
 
 ### [GMK Oritsu](https://geekhack.org/index.php?topic=111469.0)
 
@@ -637,10 +688,6 @@
 ### [GMK Halo-halo](https://geekhack.org/index.php?topic=109839.0)
 
 ![](media/16161316784845.jpg)
-
-### [ePBT BoW Hangul](https://geekhack.org/index.php?topic=109619.0)
-
-![](media/16161330646451.jpg)
 
 ### [GMK Alexandria](https://geekhack.org/index.php?topic=109510.0)
 

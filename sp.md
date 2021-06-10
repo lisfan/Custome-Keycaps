@@ -6,12 +6,9 @@
 
 ## 快速导航
 
-- qq交流群：722367843，QQ群做啥用途还不知道，进来的先占个坑再说吧
 - [导读](./README.md)：推荐您在浏览前先阅读，每次的更新说明也会统一描述在这里
-- [正在开团](./gb.md)：正在开团中的客制化键帽信息，团购结束后，再归类到各自系列
-- [即将发车](./come.md)：近期发车的团购信息
 - [IC 原厂高度](./ic.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
-- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息
+- [IC 其他高度](./ic-other.md)：正在IC中的客制化键帽信息（**可能有敏感字段触发了无法展示，请考虑右上角克隆/下载->下载zip，下载到本地浏览**）
 - [GMK 系列](./gmk.md) ：原厂高度
 - [SP 系列](./sp.md)：SA高度，DSC高度，DSS高度，DSA高度
 - [Matt3o 系列](./matt3o.md)：MT3高度
@@ -23,7 +20,6 @@
 - [MAXKEY 系列](./maxkey.md)：SA高度
 - [DOMIKEY 系列](./domikey.md)：SA高度
 - [Other 系列](./other.md)：不好归类的
-- [客制化QQ群](./qq-group.md)：客制化QQ群集合，感谢 星陨 提供数据
 
 ## 说明
 
@@ -32,6 +28,42 @@
 3. 部分图片来源于网络，若侵权请联系删除
 
 ## 键帽列表
+
+### [SP SA Spectra](https://geekhack.org/index.php?topic=111830.0)
+
+![](media/16163056970365.jpg)
+
+### [SA SA Copper](https://geekhack.org/index.php?topic=112637.0)
+
+![](media/16202658015769.jpg)
+
+### [SP DSS Hand Work 手作](https://geekhack.org/index.php?topic=110942.0)
+
+- 设计师：TheBlackHammer
+- 团购时间：2021.04.21 至 2021.05.21
+- 发货时间：2021.Q4
+- 购买方式：[zfrontier 装备前线](https://www.zfrontier.com/app/mch/1xxLrXEww5K1)
+
+![SP DSS Hand Work 手作](media/SP@DSS@Hand_Work@手作.jpg)
+
+
+### [SP SA 粉蜜Girl Hood Bee](https://www.zfrontier.com/app/flow/291Y7n1AMpao)
+
+- 设计师：Jack & Dragon L
+- 团购时间：2021.05.20 至 2021.06.11
+- 发货时间：2022.10
+- 购买方式：[JACK键盘键帽客制 淘宝店](https://item.taobao.com/item.htm?id=645016990833)
+
+![SP SA Girl HoodBee 粉蜜](media/SP@SA@Girl_Hood_Bee@粉蜜_1.jpg)
+
+![SP SA Girl HoodBee 粉蜜](media/SP@SA@Girl_Hood_Bee@粉蜜_2.jpg)
+
+
+
+### [SP DSS Sencillo](https://geekhack.org/index.php?topic=111960.0)
+
+
+![](media/16172812226220.jpg)
 
 
 ### [SP SA Ramses 拉美西斯](https://geekhack.org/index.php?topic=108914.0)
